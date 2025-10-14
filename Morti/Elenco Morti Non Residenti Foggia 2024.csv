@@ -9,7 +9,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 8,M,Foggia,FG,18/09/1942,Foggia,FG,31/12/2023,23:10:00,02/01/2024,Troia,FG,Domenica,2023,Dicembre,81
 9,M,Pietramontecorvino,FG,30/10/1933,Foggia,FG,02/01/2024,06:00:00,03/01/2024,Pietramontecorvino,FG,Martedi,2024,Gennaio,90
 10,M,Pietramontecorvino,FG,05/11/1958,Foggia,FG,02/01/2024,00:52:00,03/01/2024,Pietramontecorvino,FG,Martedi,2024,Gennaio,65
-11,M,Foggia,FG,13/11/1975,Foggia,FG,03/01/2024,01:10:00,04/01/2024,Anagraficamente Irreperibile,,Mercoledi,2024,Gennaio,48
+11,M,Foggia,FG,13/11/1975,Foggia,FG,03/01/2024,01:10:00,04/01/2024,Anagraficamente Irreperibile,nd,Mercoledi,2024,Gennaio,48
 12,M,Vico Del Gargano,FG,06/08/1941,Foggia,FG,03/01/2024,14:11:00,04/01/2024,Vico Del Gargano,FG,Mercoledi,2024,Gennaio,82
 13,M,Cerignola,FG,24/09/1946,Foggia,FG,05/01/2024,09:00:00,06/01/2024,Cerignola,FG,Venerdi,2024,Gennaio,77
 14,M,Lacedonia,AV,01/12/1933,Foggia,FG,05/01/2024,17:45:00,06/01/2024,Ascoli Satriano,FG,Venerdi,2024,Gennaio,90
@@ -25,7 +25,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 24,F,Biccari,FG,06/12/1965,Foggia,FG,09/01/2024,15:25:00,10/01/2024,Biccari,FG,Marted ,2024,Gennaio,58
 25,F,Avellino,AV,08/07/1940,Foggia,FG,10/01/2024,01:10:00,11/01/2024,Carapelle,FG,Mercoled ,2024,Gennaio,83
 26,M,Lucera,FG,31/12/1940,Foggia,FG,10/01/2024,14:57:00,11/01/2024,Lucera,FG,Mercoled ,2024,Gennaio,83
-27,F,Listeava -Com. Di Ostroveni,,13/12/1939,Foggia,FG,09/01/2024,09:15:00,11/01/2024,Sadova,,Marted ,2024,Gennaio,84
+27,F,Listeava -Com. Di Ostroveni,nd,13/12/1939,Foggia,FG,09/01/2024,09:15:00,11/01/2024,Sadova,nd,Marted ,2024,Gennaio,84
 28,M,Napoli,NA,23/10/1957,Foggia,FG,09/01/2024,18:20:00,11/01/2024,Vieste,FG,Marted ,2024,Gennaio,66
 29,M,Foggia,FG,16/02/1962,Foggia,FG,11/01/2024,07:15:00,12/01/2024,Manfredonia,FG,Giovedi,2024,Gennaio,61
 30,F,Frattaminore,NA,06/11/1976,Foggia,FG,11/01/2024,02:23:00,12/01/2024,Arzano,NA,Giovedi,2024,Gennaio,47
@@ -44,14 +44,14 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 43,M,Cerda,PA,15/11/1932,Foggia,FG,15/01/2024,08:30:00,16/01/2024,Manfredonia,FG,Luned ,2024,Gennaio,91
 44,M,Orsara Di Puglia,FG,26/11/1934,Foggia,FG,16/01/2024,11:46:00,17/01/2024,Deliceto,FG,Marted ,2024,Gennaio,89
 45,F,Bovino,FG,17/07/1958,Foggia,FG,15/01/2024,20:25:00,17/01/2024,Bovino,FG,Luned ,2024,Gennaio,65
-46,M,Cerignola,FG,20/05/1967,Foggia,FG,16/01/2024,09:09:00,17/01/2024,Non Disponibile,,Marted ,2024,Gennaio,56
+46,M,Cerignola,FG,20/05/1967,Foggia,FG,16/01/2024,09:09:00,17/01/2024,Non Disponibile,nd,Marted ,2024,Gennaio,56
 47,M,Montesano Sulla Marcellana,SA,12/05/1949,Foggia,FG,16/01/2024,03:30:00,17/01/2024,Apricena,FG,Marted ,2024,Gennaio,74
 48,M,Ariano Irpino,AV,06/08/1939,Foggia,FG,17/01/2024,12:36:00,18/01/2024,Ariano Irpino,AV,Mercoled ,2024,Gennaio,84
-49,M,Manfredonia,FG,18/07/1938,Hagen - Westfalen-,,24/12/2023,Non Disponibile,18/01/2024,Hagen,,Domenica,2023,Dicembre,85
+49,M,Manfredonia,FG,18/07/1938,Hagen - Westfalen-,nd,24/12/2023,Non Disponibile,18/01/2024,Hagen,nd,Domenica,2023,Dicembre,85
 50,M,Foggia,FG,25/04/1936,Foggia,FG,17/01/2024,08:18:00,18/01/2024,Lucera,FG,Mercoled ,2024,Gennaio,87
 51,F,Bovino,FG,31/05/1939,Foggia,FG,18/01/2024,13:10:00,19/01/2024,Bovino,FG,Gioved ,2024,Gennaio,84
-52,F,Ucraina,,01/06/1984,Foggia,FG,06/07/2022,22:40:00,19/01/2024,Ucraina,,Mercoled ,2022,Luglio,38
-53,M,Foggia,FG,07/01/1941,Dornach,,06/10/2023,Non Disponibile,19/01/2024,Reinach,,Venerd ,2023,Ottobre,82
+52,F,Ucraina,nd,01/06/1984,Foggia,FG,06/07/2022,22:40:00,19/01/2024,Ucraina,nd,Mercoled ,2022,Luglio,38
+53,M,Foggia,FG,07/01/1941,Dornach,nd,06/10/2023,Non Disponibile,19/01/2024,Reinach,nd,Venerd ,2023,Ottobre,82
 54,F,Pietramontecorvino,FG,03/07/1932,Foggia,FG,17/01/2024,20:30:00,19/01/2024,Pietramontecorvino,FG,Mercoled ,2024,Gennaio,91
 55,F,Giovinazzo,BA,15/04/1938,Foggia,FG,20/01/2024,15:50:00,22/01/2024,Giovinazzo,BA,Sabato,2024,Gennaio,85
 56,F,Panni,FG,04/12/1945,Foggia,FG,19/01/2024,21:10:00,22/01/2024,Bovino,FG,Venerd ,2024,Gennaio,78
@@ -63,7 +63,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 62,F,Vieste,FG,01/06/1957,Foggia,FG,23/01/2024,19:45:00,25/01/2024,Accadia,FG,Marted ,2024,Gennaio,66
 63,F,Castelluccio Dei Sauri,FG,14/04/1932,Foggia,FG,24/01/2024,02:13:00,25/01/2024,Castelluccio Dei Sauri,FG,Mercoled ,2024,Gennaio,91
 64,M,Barletta,BT,04/07/1967,Foggia,FG,24/01/2024,14:20:00,25/01/2024,Barletta,BT,Mercoled ,2024,Gennaio,56
-65,M,Tarnow,,27/05/1976,Foggia,FG,11/01/2024,22:37:00,25/01/2024,Non Risulta,,Gioved ,2024,Gennaio,47
+65,M,Tarnow,nd,27/05/1976,Foggia,FG,11/01/2024,22:37:00,25/01/2024,Non Risulta,nd,Gioved ,2024,Gennaio,47
 66,F,Bisaccia,AV,17/02/1935,Foggia,FG,24/01/2024,07:17:00,25/01/2024,Orta Nova,FG,Mercoled ,2024,Gennaio,88
 67,M,Lucera,FG,24/10/1942,Foggia,FG,24/01/2024,15:07:00,25/01/2024,Lucera,FG,Mercoled ,2024,Gennaio,81
 68,M,Vico Del Gargano,FG,12/05/1943,Foggia,FG,25/01/2024,13:08:00,26/01/2024,Ischitella,FG,Gioved ,2024,Gennaio,80
@@ -101,7 +101,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 100,M,Roseto Valfortore,FG,06/04/1952,Foggia,FG,17/02/2024,06:30:00,19/02/2024,Roseto Valfortore,FG,Sabato,2024,Febbraio,71
 101,M,Cerignola,FG,14/10/1955,Foggia,FG,11/02/2024,22:00:00,19/02/2024,Trinitapoli,BT,Domenica,2024,Febbraio,68
 102,M,San Severo,FG,13/03/1950,Foggia,FG,19/02/2024,05:20:00,20/02/2024,San Severo,FG,Luned ,2024,Febbraio,73
-103,M,Goldap,,01/04/1981,Foggia,FG,15/01/2024,19:00:00,20/02/2024,Polonia,,Luned ,2024,Gennaio,42
+103,M,Goldap,nd,01/04/1981,Foggia,FG,15/01/2024,19:00:00,20/02/2024,Polonia,nd,Luned ,2024,Gennaio,42
 104,F,Vieste,FG,04/08/1943,Foggia,FG,20/02/2024,04:45:00,21/02/2024,Vieste,FG,Marted ,2024,Febbraio,80
 105,M,Foggia,FG,02/08/1996,Foggia,FG,20/02/2024,10:00:00,22/02/2024,Chieuti,FG,Marted ,2024,Febbraio,27
 106,F,Benevento,BN,21/07/2003,Volturino,FG,20/02/2024,17:55:00,22/02/2024,Benevento,BN,Marted ,2024,Febbraio,20
@@ -145,7 +145,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 144,F,San Severo,FG,10/10/1941,Foggia,FG,15/03/2024,19:00:00,16/03/2024,San Severo,FG,Venerd ,2024,Marzo,82
 145,F,Bari,BA,07/02/1959,Foggia,FG,17/03/2024,01:00:00,18/03/2024,Bari,BA,Domenica,2024,Marzo,65
 146,M,Rocchetta Sant'Antonio,FG,18/01/1933,Foggia,FG,17/03/2024,08:20:00,18/03/2024,Ascoli Satriano,FG,Domenica,2024,Marzo,91
-147,F,Bucuresti,,29/01/1970,Foggia,FG,18/03/2024,02:05:00,19/03/2024,Volturara Appula,FG,Luned ,2024,Marzo,54
+147,F,Bucuresti,nd,29/01/1970,Foggia,FG,18/03/2024,02:05:00,19/03/2024,Volturara Appula,FG,Luned ,2024,Marzo,54
 148,M,Bisaccia,AV,29/05/1931,Foggia,FG,19/03/2024,13:30:00,20/03/2024,Orta Nova,FG,Marted ,2024,Marzo,92
 149,F,Rose,CS,09/07/1947,Foggia,FG,19/03/2024,17:45:00,20/03/2024,Peschici,FG,Marted ,2024,Marzo,76
 150,M,Cerignola,FG,14/12/1945,Foggia,FG,20/03/2024,21:14:00,21/03/2024,San Nicandro Garganico,FG,Mercoled ,2024,Marzo,78
@@ -157,7 +157,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 156,F,Castelluccio Valmaggiore,FG,02/07/1944,Foggia,FG,21/03/2024,06:30:00,23/03/2024,Lucera,FG,Gioved ,2024,Marzo,79
 157,F,Castelnuovo Della Daunia,FG,07/05/1936,Foggia,FG,24/03/2024,13:24:00,25/03/2024,Castelnuovo Della Daunia,FG,Domenica,2024,Marzo,87
 158,M,Troia,FG,10/09/1955,Foggia,FG,24/03/2024,19:12:00,25/03/2024,Troia,FG,Domenica,2024,Marzo,68
-159,F,Antibes,,31/03/1928,Nice,,24/03/2019,Non Disponibile,26/03/2024,Cannes,,Domenica,2019,Marzo,90
+159,F,Antibes,nd,31/03/1928,Nice,nd,24/03/2019,Non Disponibile,26/03/2024,Cannes,nd,Domenica,2019,Marzo,90
 160,F,Milano,MI,22/09/1975,Foggia,FG,28/03/2024,10:40:00,29/03/2024,Trani,BT,Gioved ,2024,Marzo,48
 161,F,San Severo,FG,20/05/1944,Foggia,FG,30/03/2024,14:47:00,01/04/2024,San Severo,FG,Sabato,2024,Marzo,79
 162,M,San Severo,FG,21/01/1938,Foggia,FG,31/03/2024,18:30:00,01/04/2024,Sannicandro Garganico,FG,Domenica,2024,Marzo,86
@@ -166,7 +166,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 165,F,Cerignola,FG,10/08/1972,Foggia,FG,01/04/2024,14:42:00,02/04/2024,Cerignola,FG,Luned ,2024,Aprile,51
 166,M,Stornarella,FG,11/06/1954,Foggia,FG,01/04/2024,23:30:00,03/04/2024,Stornarella,FG,Luned ,2024,Aprile,69
 167,F,Sant'Agata Di Puglia,FG,06/05/1933,Foggia,FG,03/04/2024,12:20:00,04/04/2024,Ascoli Satriano,FG,Mercoled ,2024,Aprile,90
-168,F,Orta Nova,FG,06/12/1951,Foggia,FG,12/03/2024,16:00:00,05/04/2024,Anagraficamente Irreperibile,,Marted ,2024,Marzo,72
+168,F,Orta Nova,FG,06/12/1951,Foggia,FG,12/03/2024,16:00:00,05/04/2024,Anagraficamente Irreperibile,nd,Marted ,2024,Marzo,72
 169,F,Biccari,FG,14/08/1955,Foggia,FG,04/04/2024,10:40:00,05/04/2024,Biccari,FG,Gioved ,2024,Aprile,68
 170,M,San Ferdinando Di Puglia,BT,08/05/1966,Foggia,FG,05/04/2024,08:05:00,06/04/2024,San Ferdinando Di Puglia,BT,Venerd ,2024,Aprile,57
 171,M,Volturara Appula,FG,29/06/1934,Foggia,FG,06/04/2024,07:12:00,08/04/2024,Volturara Appula,FG,Sabato,2024,Aprile,89
@@ -191,7 +191,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 190,M,Cerignola,FG,11/06/1939,Foggia,FG,13/04/2024,23:25:00,15/04/2024,Cerignola,FG,Sabato,2024,Aprile,84
 191,M,Lucera,FG,09/09/1964,Foggia,FG,14/04/2024,07:20:00,15/04/2024,Lucera,FG,Domenica,2024,Aprile,59
 192,F,Guardiagrele,CH,03/01/1935,Foggia,FG,15/04/2024,10:28:00,16/04/2024,Orta Nova,FG,Luned ,2024,Aprile,89
-193,M,Foggia,FG,27/01/1955,Koeln,,07/02/2018,Non Disponibile,16/04/2024,Koeln,,Mercoled ,2018,Febbraio,63
+193,M,Foggia,FG,27/01/1955,Koeln,nd,07/02/2018,Non Disponibile,16/04/2024,Koeln,nd,Mercoled ,2018,Febbraio,63
 194,F,Accadia,FG,01/08/1925,Foggia,FG,15/04/2024,19:48:00,17/04/2024,Accadia,FG,Luned ,2024,Aprile,98
 195,M,Margherita Di Savoia,BT,12/04/1945,Foggia,FG,17/04/2024,10:10:00,18/04/2024,Margherita Di Savoia,BT,Mercoled ,2024,Aprile,79
 196,M,Ascoli Satriano,FG,08/11/1940,Foggia,FG,17/04/2024,08:35:00,18/04/2024,Ascoli Satriano,FG,Mercoled ,2024,Aprile,83
@@ -230,7 +230,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 229,M,Cerignola,FG,23/07/1952,Foggia,FG,03/05/2024,11:00:00,04/05/2024,Cerignola,FG,Venerd ,2024,Maggio,71
 230,M,Monteleone Di Puglia,FG,24/09/1966,Foggia,FG,05/05/2024,05:30:00,06/05/2024,Monteleone Di Puglia,FG,Domenica,2024,Maggio,57
 231,F,Sannicandro Garganico,FG,20/07/1941,Foggia,FG,04/05/2024,01:45:00,06/05/2024,Sannicandro Garganico,FG,Sabato,2024,Maggio,82
-232,M,Foggia,FG,24/12/1930,Foggia,FG,05/05/2024,12:40:00,07/05/2024,Creil,,Domenica,2024,Maggio,93
+232,M,Foggia,FG,24/12/1930,Foggia,FG,05/05/2024,12:40:00,07/05/2024,Creil,nd,Domenica,2024,Maggio,93
 233,F,Orsara Di Puglia,FG,22/04/1933,Foggia,FG,06/05/2024,05:30:00,07/05/2024,Orsara Di Puglia,FG,Luned ,2024,Maggio,91
 234,M,Lucera,FG,28/11/1943,Foggia,FG,06/05/2024,00:20:00,07/05/2024,Lucera,FG,Luned ,2024,Maggio,80
 235,F,Carpino,FG,16/10/1930,Foggia,FG,07/05/2024,00:20:00,08/05/2024,Carpino,FG,Marted ,2024,Maggio,93
@@ -252,7 +252,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 251,F,Cagnano Varano,FG,09/06/1941,Foggia,FG,19/05/2024,06:16:00,20/05/2024,San Severo,FG,Domenica,2024,Maggio,82
 252,M,Troia,FG,10/09/1934,Foggia,FG,19/05/2024,12:00:00,20/05/2024,Troia,FG,Domenica,2024,Maggio,89
 253,M,Cerignola,FG,02/08/1942,Foggia,FG,20/05/2024,11:45:00,21/05/2024,Cerignola,FG,Luned ,2024,Maggio,81
-254,M,Polonia,,23/11/1976,Foggia,FG,06/05/2024,17:47:00,21/05/2024,Non Risulta,,Luned ,2024,Maggio,47
+254,M,Polonia,nd,23/11/1976,Foggia,FG,06/05/2024,17:47:00,21/05/2024,Non Risulta,nd,Luned ,2024,Maggio,47
 255,M,Deliceto,FG,26/05/1942,Foggia,FG,20/05/2024,17:45:00,21/05/2024,Deliceto,FG,Luned ,2024,Maggio,81
 256,F,Lucera,FG,10/04/1936,Foggia,FG,22/05/2024,00:15:00,23/05/2024,Lucera,FG,Mercoled ,2024,Maggio,88
 257,M,Alberona,FG,11/01/1943,Foggia,FG,22/05/2024,21:27:00,24/05/2024,Lucera,FG,Mercoled ,2024,Maggio,81
@@ -265,13 +265,13 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 264,M,Foggia,FG,25/11/1955,Foggia,FG,01/06/2024,17:45:00,03/06/2024,San Severo,FG,Sabato,2024,Giugno,68
 265,M,Ascoli Satriano,FG,04/03/1946,Foggia,FG,02/06/2024,11:05:00,03/06/2024,Ascoli Satriano,FG,Domenica,2024,Giugno,78
 266,M,Alliste,LE,29/03/1958,Foggia,FG,02/06/2024,09:00:00,03/06/2024,Taviano,LE,Domenica,2024,Giugno,66
-267,F,Polonia,,20/09/1946,Foggia,FG,31/05/2024,20:45:00,04/06/2024,San Severo,FG,Venerd ,2024,Maggio,77
-268,M,Melinesti,,17/04/1964,Foggia,FG,12/05/2024,20:08:00,04/06/2024,Biccari,FG,Domenica,2024,Maggio,60
+267,F,Polonia,nd,20/09/1946,Foggia,FG,31/05/2024,20:45:00,04/06/2024,San Severo,FG,Venerd ,2024,Maggio,77
+268,M,Melinesti,nd,17/04/1964,Foggia,FG,12/05/2024,20:08:00,04/06/2024,Biccari,FG,Domenica,2024,Maggio,60
 269,F,Troia,FG,09/10/1940,Foggia,FG,04/06/2024,07:01:00,05/06/2024,Stornara,FG,Marted ,2024,Giugno,83
 270,M,Orta Nova,FG,23/08/1961,Foggia,FG,02/06/2024,19:29:00,05/06/2024,Orta Nova,FG,Domenica,2024,Giugno,62
-271,M,Ascoli Satriano,FG,27/09/1948,Bergheim,,05/05/2024,Non Disponibile,06/06/2024,Bergheim,,Domenica,2024,Maggio,75
+271,M,Ascoli Satriano,FG,27/09/1948,Bergheim,nd,05/05/2024,Non Disponibile,06/06/2024,Bergheim,nd,Domenica,2024,Maggio,75
 272,F,Ascoli Satriano,FG,02/05/1962,Foggia,FG,05/06/2024,00:37:00,06/06/2024,Ascoli Satriano,FG,Mercoled ,2024,Giugno,62
-273,M,Nigeria,,01/01/1974,Foggia,FG,21/11/2022,01:47:00,06/06/2024,Non Risulta,,Luned ,2022,Novembre,48
+273,M,Nigeria,nd,01/01/1974,Foggia,FG,21/11/2022,01:47:00,06/06/2024,Non Risulta,nd,Luned ,2022,Novembre,48
 274,F,Barletta,BT,15/07/1954,Foggia,FG,07/06/2024,13:11:00,08/06/2024,Margherita Di Savoia,BT,Venerd ,2024,Giugno,69
 275,F,Volturara Appula,FG,07/10/1941,Foggia,FG,09/06/2024,20:46:00,10/06/2024,Volturara Appula,FG,Domenica,2024,Giugno,82
 276,M,Bovino,FG,24/05/1938,Foggia,FG,09/06/2024,16:50:00,10/06/2024,Bovino,FG,Domenica,2024,Giugno,86
@@ -296,7 +296,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 295,M,Lucera,FG,04/02/1967,Foggia,FG,18/06/2024,01:17:00,19/06/2024,Biccari,FG,Marted ,2024,Giugno,57
 296,M,Motta Montecorvino,FG,21/04/1940,Foggia,FG,18/06/2024,13:38:00,19/06/2024,Motta Montecorvino,FG,Marted ,2024,Giugno,84
 297,M,Foggia,FG,04/03/1964,Foggia,FG,18/06/2024,05:29:00,19/06/2024,Torremaggiore,FG,Marted ,2024,Giugno,60
-298,M,Foggia,FG,02/02/1926,New York,,09/01/2013,08:32:00,20/06/2024,Anagraficamente Irreperibile,,Mercoled ,2013,Gennaio,86
+298,M,Foggia,FG,02/02/1926,New York,nd,09/01/2013,08:32:00,20/06/2024,Anagraficamente Irreperibile,nd,Mercoled ,2013,Gennaio,86
 299,M,Biccari,FG,10/01/1937,Foggia,FG,20/06/2024,05:50:00,21/06/2024,Torremaggiore,FG,Gioved ,2024,Giugno,87
 300,M,Ascoli Satriano,FG,03/03/1947,Foggia,FG,20/06/2024,14:19:00,21/06/2024,Ascoli Satriano,FG,Gioved ,2024,Giugno,77
 301,F,Alberona,FG,01/06/1945,Foggia,FG,20/06/2024,00:30:00,21/06/2024,Lucera,FG,Gioved ,2024,Giugno,79
@@ -306,12 +306,12 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 305,M,Manfredonia,FG,10/02/1963,Foggia,FG,21/06/2024,09:09:00,22/06/2024,Manfredonia,FG,Venerd ,2024,Giugno,61
 306,M,Ascoli Satriano,FG,11/01/1946,Foggia,FG,21/06/2024,01:30:00,22/06/2024,Ascoli Satriano,FG,Venerd ,2024,Giugno,78
 307,F,Margherita Di Savoia,BT,15/04/1942,Foggia,FG,23/06/2024,08:00:00,24/06/2024,Orta Nova,FG,Domenica,2024,Giugno,82
-308,F,Parelhas,,03/04/1990,Foggia,FG,22/06/2024,22:20:00,24/06/2024,Ascoli Satriano,FG,Sabato,2024,Giugno,34
+308,F,Parelhas,nd,03/04/1990,Foggia,FG,22/06/2024,22:20:00,24/06/2024,Ascoli Satriano,FG,Sabato,2024,Giugno,34
 309,F,Deliceto,FG,05/04/1959,Foggia,FG,23/06/2024,00:20:00,24/06/2024,Deliceto,FG,Domenica,2024,Giugno,65
 310,M,Lucera,FG,06/10/1953,Foggia,FG,24/06/2024,15:43:00,25/06/2024,Lucera,FG,Luned ,2024,Giugno,70
 311,M,San Giovanni Rotondo,FG,17/04/1975,Foggia,FG,24/06/2024,05:39:00,25/06/2024,Manfredonia,FG,Luned ,2024,Giugno,49
 312,F,Apricena,FG,15/02/1934,Foggia,FG,23/06/2024,18:00:00,25/06/2024,Apricena,FG,Domenica,2024,Giugno,90
-313,M,Casamance,,01/01/1989,Foggia,FG,18/06/2024,15:39:00,26/06/2024,San Severo,FG,Marted ,2024,Giugno,35
+313,M,Casamance,nd,01/01/1989,Foggia,FG,18/06/2024,15:39:00,26/06/2024,San Severo,FG,Marted ,2024,Giugno,35
 314,M,Apricena,FG,24/03/1939,Foggia,FG,25/06/2024,10:09:00,26/06/2024,Apricena,FG,Marted ,2024,Giugno,85
 315,M,San Severo,FG,08/01/1945,Foggia,FG,26/06/2024,19:50:00,27/06/2024,San Nicandro,FG,Mercoled ,2024,Giugno,79
 316,F,Sant'Agata Di Puglia,FG,17/02/1931,Foggia,FG,26/06/2024,13:30:00,27/06/2024,Motta Montecorvino,FG,Mercoled ,2024,Giugno,93
@@ -325,7 +325,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 324,F,Pietramontecorvino,FG,04/05/1939,Foggia,FG,01/07/2024,18:47:00,02/07/2024,Lucera,FG,Luned ,2024,Luglio,85
 325,M,Panni,FG,01/04/1934,Foggia,FG,30/06/2024,17:40:00,02/07/2024,Panni,FG,Domenica,2024,Giugno,90
 326,F,Orta Nova,FG,07/08/1949,Foggia,FG,01/07/2024,02:40:00,02/07/2024,Orta Nova,FG,Luned ,2024,Luglio,74
-327,F,Sadova,,24/04/1999,Foggia,FG,01/07/2024,06:50:00,02/07/2024,Stornara,FG,Luned ,2024,Luglio,25
+327,F,Sadova,nd,24/04/1999,Foggia,FG,01/07/2024,06:50:00,02/07/2024,Stornara,FG,Luned ,2024,Luglio,25
 328,M,Rocchetta Sant'Antonio,FG,27/08/1943,Foggia,FG,02/07/2024,05:29:00,03/07/2024,Rocchetta Sant'Antonio,FG,Marted ,2024,Luglio,80
 329,F,Bovino,FG,27/08/1942,Foggia,FG,04/07/2024,01:51:00,05/07/2024,Bovino,FG,Gioved ,2024,Luglio,81
 330,F,Alberona,FG,14/06/1943,Foggia,FG,04/07/2024,23:38:00,06/07/2024,Biccari,FG,Gioved ,2024,Luglio,81
@@ -336,12 +336,12 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 335,F,Lucera,FG,27/03/1927,Foggia,FG,08/07/2024,13:40:00,09/07/2024,Lucera,FG,Luned ,2024,Luglio,97
 336,M,Deliceto,FG,06/01/1958,Foggia,FG,09/07/2024,12:30:00,10/07/2024,Deliceto,FG,Marted ,2024,Luglio,66
 337,F,Foggia,FG,29/06/2024,Foggia,FG,12/07/2024,05:50:00,13/07/2024,Barile,PZ,Venerd ,2024,Luglio,0
-338,F,Ivano Frankovsk,,01/12/1962,Foggia,FG,12/07/2024,21:30:00,13/07/2024,Trinitapoli,BT,Venerd ,2024,Luglio,61
+338,F,Ivano Frankovsk,nd,01/12/1962,Foggia,FG,12/07/2024,21:30:00,13/07/2024,Trinitapoli,BT,Venerd ,2024,Luglio,61
 339,F,Andretta,AV,17/09/1934,Foggia,FG,11/07/2024,21:07:00,13/07/2024,Ascoli Satriano,FG,Gioved ,2024,Luglio,89
 340,F,Cisternino,BR,24/09/1985,Foggia,FG,12/07/2024,11:20:00,13/07/2024,Cerignola,FG,Venerd ,2024,Luglio,38
 341,F,Lucera,FG,13/03/1945,Foggia,FG,13/07/2024,06:45:00,15/07/2024,Lucera,FG,Sabato,2024,Luglio,79
 342,M,Castelluccio Valmaggiore,FG,14/08/1934,Foggia,FG,14/07/2024,10:50:00,15/07/2024,Biccari,FG,Domenica,2024,Luglio,89
-343,M,Casalvecchio Di Puglia,FG,24/06/1944,Neuchatel,,28/06/2024,Non Disponibile,15/07/2024,La Chaux De Fonds,,Venerd ,2024,Giugno,80
+343,M,Casalvecchio Di Puglia,FG,24/06/1944,Neuchatel,nd,28/06/2024,Non Disponibile,15/07/2024,La Chaux De Fonds,nd,Venerd ,2024,Giugno,80
 344,M,Monteleone Di Puglia,FG,12/02/1946,Foggia,FG,14/07/2024,09:20:00,15/07/2024,Ascoli Satriano,FG,Domenica,2024,Luglio,78
 345,M,Lucera,FG,13/01/1932,Foggia,FG,16/07/2024,00:05:00,16/07/2024,Lucera,FG,Marted ,2024,Luglio,92
 346,M,Cerignola,FG,05/02/1928,Foggia,FG,15/07/2024,06:20:00,16/07/2024,Cerignola,FG,Luned ,2024,Luglio,96
@@ -364,13 +364,13 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 363,M,Lucera,FG,31/08/1945,Foggia,FG,23/07/2024,21:30:00,25/07/2024,Lucera,FG,Marted ,2024,Luglio,78
 364,M,Cerignola,FG,16/02/1932,Foggia,FG,24/07/2024,06:00:00,25/07/2024,Cerignola,FG,Mercoled ,2024,Luglio,92
 365,M,Foggia,FG,15/08/1962,Foggia,FG,26/07/2024,06:00:00,27/07/2024,Orta Nova,FG,Venerd ,2024,Luglio,61
-366,M,Burkina Faso,,01/01/1996,Foggia,FG,23/04/2024,21:00:00,27/07/2024,Burkina Faso,,Marted ,2024,Aprile,28
+366,M,Burkina Faso,nd,01/01/1996,Foggia,FG,23/04/2024,21:00:00,27/07/2024,Burkina Faso,nd,Marted ,2024,Aprile,28
 367,F,Lacedonia,AV,08/04/1944,Foggia,FG,26/07/2024,19:00:00,27/07/2024,Sant'Agata Di Puglia,FG,Venerd ,2024,Luglio,80
 368,M,Bovino,FG,12/10/1936,Foggia,FG,27/07/2024,03:00:00,29/07/2024,Bovino,FG,Sabato,2024,Luglio,87
 369,F,San Severo,FG,01/02/1940,Foggia,FG,28/07/2024,12:40:00,29/07/2024,San Severo,FG,Domenica,2024,Luglio,84
 370,F,Castelluccio Dei Sauri,FG,13/05/1933,Foggia,FG,28/07/2024,03:04:00,29/07/2024,Castelluccio Dei Sauri,FG,Domenica,2024,Luglio,91
 371,F,Bovino,FG,07/07/1934,Foggia,FG,27/07/2024,16:13:00,29/07/2024,Bovino,FG,Sabato,2024,Luglio,90
-372,M,Foggia,FG,05/11/1951,Frameries,,26/06/2024,Non Disponibile,30/07/2024,Frameries,,Mercoled ,2024,Giugno,72
+372,M,Foggia,FG,05/11/1951,Frameries,nd,26/06/2024,Non Disponibile,30/07/2024,Frameries,nd,Mercoled ,2024,Giugno,72
 373,M,Orta Nova,FG,05/01/1941,Foggia,FG,29/07/2024,03:20:00,30/07/2024,Orta Nova,FG,Luned ,2024,Luglio,83
 374,M,Accadia,FG,19/03/1936,Foggia,FG,29/07/2024,07:59:00,30/07/2024,Accadia,FG,Luned ,2024,Luglio,88
 375,M,Bisaccia,AV,21/04/1928,Foggia,FG,01/08/2024,08:25:00,02/08/2024,Orta Nova,FG,Gioved ,2024,Agosto,96
@@ -388,10 +388,10 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 387,F,Alberona,FG,26/01/1937,Foggia,FG,03/08/2024,07:05:00,05/08/2024,Lucera,FG,Sabato,2024,Agosto,87
 388,M,Bitonto,BA,24/06/1947,Foggia,FG,05/08/2024,03:09:00,06/08/2024,Cerignola,FG,Luned ,2024,Agosto,77
 389,F,Rocchetta Sant'Antonio,FG,06/04/1947,Foggia,FG,05/08/2024,03:16:00,06/08/2024,Ascoli Satriano,FG,Luned ,2024,Agosto,77
-390,F,Ucraina,,25/03/1944,Foggia,FG,04/08/2024,21:11:00,06/08/2024,Stornarella,FG,Domenica,2024,Agosto,80
-391,F,Iasi,,05/10/1970,Foggia,FG,19/07/2024,22:45:00,06/08/2024,Romania,,Venerd ,2024,Luglio,53
+390,F,Ucraina,nd,25/03/1944,Foggia,FG,04/08/2024,21:11:00,06/08/2024,Stornarella,FG,Domenica,2024,Agosto,80
+391,F,Iasi,nd,05/10/1970,Foggia,FG,19/07/2024,22:45:00,06/08/2024,Romania,nd,Venerd ,2024,Luglio,53
 392,M,San Ferdinando Di Puglia,BT,26/09/1944,Foggia,FG,05/08/2024,13:11:00,06/08/2024,Trinitapoli,BT,Luned ,2024,Agosto,79
-393,M,Lucera,FG,02/05/1942,Sulzbach-Rosenberg,,08/07/2024,Non Disponibile,07/08/2024,Sulzbach-Rosenberg,,Luned ,2024,Luglio,82
+393,M,Lucera,FG,02/05/1942,Sulzbach-Rosenberg,nd,08/07/2024,Non Disponibile,07/08/2024,Sulzbach-Rosenberg,nd,Luned ,2024,Luglio,82
 394,M,Foggia,FG,04/08/2024,Foggia,FG,05/08/2024,14:03:00,07/08/2024,Barletta,BT,Luned ,2024,Agosto,0
 395,M,Orta Nova,FG,24/05/1947,Foggia,FG,06/08/2024,16:26:00,07/08/2024,Orta Nova,FG,Marted ,2024,Agosto,77
 396,M,Foggia,FG,22/06/1952,Foggia,FG,07/08/2024,09:30:00,08/08/2024,Lucera,FG,Mercoled ,2024,Agosto,72
@@ -409,7 +409,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 408,F,Vico Del Gargano,FG,08/01/1956,Foggia,FG,10/08/2024,09:20:00,12/08/2024,Carapelle,FG,Sabato,2024,Agosto,68
 409,M,Monte Sant'Angelo,FG,12/01/1977,Foggia,FG,11/08/2024,11:40:00,12/08/2024,Monte Sant'Angelo,FG,Domenica,2024,Agosto,47
 410,F,Napoli,NA,24/03/1944,Foggia,FG,12/08/2024,10:20:00,13/08/2024,Monteleone Di Puglia,FG,Luned ,2024,Agosto,80
-411,M,Rignano Garganico,FG,26/11/1947,Stuttgart,,11/01/2024,Non Disponibile,13/08/2024,Stoccarda,,Gioved ,2024,Gennaio,76
+411,M,Rignano Garganico,FG,26/11/1947,Stuttgart,nd,11/01/2024,Non Disponibile,13/08/2024,Stoccarda,nd,Gioved ,2024,Gennaio,76
 412,F,Bovino,FG,23/05/1945,Foggia,FG,13/08/2024,20:30:00,14/08/2024,Bovino,FG,Marted ,2024,Agosto,79
 413,F,Orta Nova,FG,07/06/1971,Foggia,FG,13/08/2024,12:40:00,14/08/2024,Orta Nova,FG,Marted ,2024,Agosto,53
 414,F,Cerignola,FG,21/05/1944,Foggia,FG,13/08/2024,19:20:00,14/08/2024,Cerignola,FG,Marted ,2024,Agosto,80
@@ -442,7 +442,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 441,M,Lucera,FG,25/07/1940,Foggia,FG,24/08/2024,06:31:00,26/08/2024,Motta Montecorvino,FG,Sabato,2024,Agosto,84
 442,M,Deliceto,FG,20/08/1936,Foggia,FG,26/08/2024,17:55:00,27/08/2024,Deliceto,FG,Luned ,2024,Agosto,88
 443,F,Bovino,FG,05/07/1949,Foggia,FG,27/08/2024,13:20:00,28/08/2024,Bovino,FG,Marted ,2024,Agosto,75
-444,F,Ternopil,,23/04/1947,Foggia,FG,24/08/2024,00:36:00,28/08/2024,Carapelle,FG,Sabato,2024,Agosto,77
+444,F,Ternopil,ND,23/04/1947,Foggia,FG,24/08/2024,00:36:00,28/08/2024,Carapelle,FG,Sabato,2024,Agosto,77
 445,M,Foggia,FG,24/03/1943,Foggia,FG,27/08/2024,09:50:00,28/08/2024,Carapelle,FG,Marted ,2024,Agosto,81
 446,F,Lucera,FG,02/12/1948,Foggia,FG,28/08/2024,11:15:00,29/08/2024,Lucera,FG,Mercoled ,2024,Agosto,75
 447,M,San Severo,FG,31/10/1941,Foggia,FG,27/08/2024,20:40:00,29/08/2024,Collegno,TO,Marted ,2024,Agosto,82
@@ -453,7 +453,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 452,M,Deliceto,FG,21/07/1948,Foggia,FG,31/08/2024,14:35:00,02/09/2024,Bovino,FG,Sabato,2024,Agosto,76
 453,F,Mattinata,FG,30/01/1935,Foggia,FG,31/08/2024,21:30:00,02/09/2024,Carapelle,FG,Sabato,2024,Agosto,89
 454,M,Desio,MB,05/06/1940,Foggia,FG,01/09/2024,17:03:00,03/09/2024,San Severo,FG,Domenica,2024,Settembre,84
-455,M,Ferla,SR,05/04/1934,Tucson,,11/07/2024,07:12:00,03/09/2024,Vail, Az,,Gioved ,2024,Luglio,90
+455,M,Ferla,SR,05/04/1934,Tucson,ND,11/07/2024,07:12:00,03/09/2024,Vail, Az,ND,Gioved ,2024,Luglio,90
 456,F,Manfredonia,FG,30/11/1931,Foggia,FG,02/09/2024,08:30:00,03/09/2024,Milano,MI,Luned ,2024,Settembre,92
 457,M,San Severo,FG,08/09/1935,Foggia,FG,02/09/2024,06:00:00,03/09/2024,San Severo,FG,Luned ,2024,Settembre,88
 458,F,Lucera,FG,14/05/1934,Foggia,FG,02/09/2024,12:30:00,03/09/2024,Lucera,FG,Luned ,2024,Settembre,90
@@ -464,7 +464,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 463,F,L'Aquila,AQ,25/09/1960,Foggia,FG,04/09/2024,05:38:00,05/09/2024,Manfredonia,FG,Mercoled ,2024,Settembre,63
 464,F,Cerignola,FG,22/05/1937,Foggia,FG,04/09/2024,09:00:00,05/09/2024,Cerignola,FG,Mercoled ,2024,Settembre,87
 465,F,San Martino Valle Caudina,AV,01/08/1938,Foggia,FG,05/09/2024,13:50:00,06/09/2024,Deliceto,FG,Gioved ,2024,Settembre,86
-466,M,Bulgaria,,05/08/1982,Foggia,FG,03/09/2024,07:00:00,06/09/2024,Carapelle,FG,Marted ,2024,Settembre,42
+466,M,Bulgaria,nd,05/08/1982,Foggia,FG,03/09/2024,07:00:00,06/09/2024,Carapelle,FG,Marted ,2024,Settembre,42
 467,F,Accadia,FG,12/10/1931,Foggia,FG,06/09/2024,01:04:00,07/09/2024,Accadia,FG,Venerd ,2024,Settembre,92
 468,M,Celenza Valfortore,FG,23/02/1938,Foggia,FG,06/09/2024,00:10:00,07/09/2024,Celenza Valfortore,FG,Venerd ,2024,Settembre,86
 469,M,Cerignola,FG,07/02/1951,Foggia,FG,05/09/2024,12:00:00,07/09/2024,Cerignola,FG,Gioved ,2024,Settembre,73
@@ -473,16 +473,16 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 472,M,Foggia,FG,28/03/1975,Foggia,FG,06/09/2024,03:10:00,07/09/2024,Candela,FG,Venerd ,2024,Settembre,49
 473,F,Foggia,FG,22/02/1938,Foggia,FG,08/09/2024,05:54:00,09/09/2024,Deliceto,FG,Domenica,2024,Settembre,86
 474,M,San Giovanni Rotondo,FG,05/05/2000,Foggia,FG,05/09/2024,18:45:00,09/09/2024,Vieste,FG,Gioved ,2024,Settembre,24
-475,M,Bissari Lang Sedhiou,,10/01/1994,Foggia,FG,23/08/2024,19:50:00,09/09/2024,Senegal,,Venerd ,2024,Agosto,30
+475,M,Bissari Lang Sedhiou,nd,10/01/1994,Foggia,FG,23/08/2024,19:50:00,09/09/2024,Senegal,nd,Venerd ,2024,Agosto,30
 476,F,Serracapriola,FG,02/01/1944,Foggia,FG,08/09/2024,06:05:00,09/09/2024,Serracapriola,FG,Domenica,2024,Settembre,80
 477,M,Orta Nova,FG,29/11/1951,Foggia,FG,09/09/2024,17:40:00,10/09/2024,Orta Nova,FG,Luned ,2024,Settembre,72
 478,M,Lucera,FG,13/09/1951,Foggia,FG,08/09/2024,17:35:00,10/09/2024,Lucera,FG,Domenica,2024,Settembre,72
 479,F,Pietramontecorvino,FG,16/07/1932,Foggia,FG,09/09/2024,16:53:00,10/09/2024,Pietramontecorvino,FG,Luned ,2024,Settembre,92
-480,M,Foggia,FG,20/06/1974,Londra,,29/09/2023,Non Disponibile,10/09/2024,London,,Venerd ,2023,Settembre,49
+480,M,Foggia,FG,20/06/1974,Londra,nd,29/09/2023,Non Disponibile,10/09/2024,London,nd,Venerd ,2023,Settembre,49
 481,M,Serracapriola,FG,17/08/1932,Foggia,FG,09/09/2024,07:30:00,10/09/2024,Serracapriola,FG,Luned ,2024,Settembre,92
 482,M,Santa Croce Di Magliano,CB,25/01/1942,Foggia,FG,10/09/2024,10:41:00,11/09/2024,Serracapriola,FG,Marted ,2024,Settembre,82
 483,M,Foggia,FG,04/05/1942,Foggia,FG,10/09/2024,08:26:00,11/09/2024,Acquaviva Collecroce,CB,Marted ,2024,Settembre,82
-484,M,Tunisi,,24/01/1965,Foggia,FG,29/08/2024,20:05:00,12/09/2024,Non Risulta,,Gioved ,2024,Agosto,59
+484,M,Tunisi,nd,24/01/1965,Foggia,FG,29/08/2024,20:05:00,12/09/2024,Non Risulta,nd,Gioved ,2024,Agosto,59
 485,F,Monte Sant'Angelo,FG,21/03/1950,Foggia,FG,11/09/2024,01:40:00,12/09/2024,Carapelle,FG,Mercoled ,2024,Settembre,74
 486,M,Lucera,FG,25/04/1925,Foggia,FG,11/09/2024,13:07:00,12/09/2024,Lucera,FG,Mercoled ,2024,Settembre,99
 487,F,Foggia,FG,13/02/1962,Foggia,FG,12/09/2024,06:40:00,13/09/2024,Bovino,FG,Gioved ,2024,Settembre,62
@@ -525,7 +525,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 524,F,San Marco In Lamis,FG,25/11/1940,Foggia,FG,30/09/2024,10:22:00,01/10/2024,San Marco In Lamis,FG,Luned ,2024,Settembre,83
 525,F,San Paolo Di Civitate,FG,30/04/1948,Foggia,FG,30/09/2024,02:15:00,01/10/2024,San Paolo Di Civitate,FG,Luned ,2024,Settembre,76
 526,M,Canosa Di Puglia,BT,25/08/1959,Foggia,FG,30/09/2024,07:30:00,01/10/2024,Canosa Di Puglia,BT,Luned ,2024,Settembre,65
-527,M,Carlantino,FG,05/06/1956,Punta Umbria,,03/12/2011,21:00:00,01/10/2024,Mairena Del Aljarafe,,Sabato,2011,Dicembre,55
+527,M,Carlantino,FG,05/06/1956,Punta Umbria,nd,03/12/2011,21:00:00,01/10/2024,Mairena Del Aljarafe,nd,Sabato,2011,Dicembre,55
 528,F,Volturino,FG,05/02/1941,Foggia,FG,28/09/2024,10:39:00,01/10/2024,Volturino,FG,Sabato,2024,Settembre,83
 529,F,San Ferdinando Di Puglia,BT,10/12/1934,Foggia,FG,30/09/2024,18:15:00,02/10/2024,Carapelle,FG,Luned ,2024,Settembre,89
 530,M,Deliceto,FG,07/10/1954,Foggia,FG,02/10/2024,22:40:00,04/10/2024,Ordona,FG,Mercoled ,2024,Ottobre,69
@@ -541,7 +541,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 540,M,Torremaggiore,FG,18/03/1946,Foggia,FG,07/10/2024,23:30:00,09/10/2024,Torremaggiore,FG,Luned ,2024,Ottobre,78
 541,F,Castelluccio Dei Sauri,FG,06/01/1945,Foggia,FG,08/10/2024,15:10:00,09/10/2024,Orta Nova,FG,Marted ,2024,Ottobre,79
 542,M,San Paolo Di Civitate,FG,16/01/1947,Foggia,FG,07/10/2024,23:27:00,09/10/2024,Ortona,CH,Luned ,2024,Ottobre,77
-543,M,Cerignola,FG,08/06/1967,Foggia,FG,10/10/2024,12:40:00,11/10/2024,Anagraficamente Irreperibile,,Gioved ,2024,Ottobre,57
+543,M,Cerignola,FG,08/06/1967,Foggia,FG,10/10/2024,12:40:00,11/10/2024,Anagraficamente Irreperibile,nd,Gioved ,2024,Ottobre,57
 544,M,Lucera,FG,23/10/1957,Foggia,FG,09/10/2024,20:09:00,11/10/2024,Lucera,FG,Mercoled ,2024,Ottobre,66
 545,M,Carapelle,FG,11/01/1943,Foggia,FG,10/10/2024,09:09:00,11/10/2024,Carapelle,FG,Gioved ,2024,Ottobre,81
 546,M,Serracapriola,FG,05/08/1958,Foggia,FG,10/10/2024,16:05:00,11/10/2024,Serracapriola,FG,Gioved ,2024,Ottobre,66
@@ -555,9 +555,9 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 554,M,Sannicandro Garganico,FG,04/09/1963,Foggia,FG,17/10/2024,01:30:00,18/10/2024,Sannicandro Garganico,FG,Gioved ,2024,Ottobre,61
 555,F,Milano,MI,02/10/1968,Foggia,FG,18/10/2024,16:50:00,21/10/2024,San Severo,FG,Venerd ,2024,Ottobre,56
 556,M,Troia,FG,19/10/1940,Foggia,FG,20/10/2024,09:18:00,21/10/2024,Troia,FG,Domenica,2024,Ottobre,84
-557,M,Sieradz,,29/10/1965,Foggia,FG,18/10/2024,19:25:00,21/10/2024,Ascoli Satriano,FG,Venerd ,2024,Ottobre,58
+557,M,Sieradz,nd,29/10/1965,Foggia,FG,18/10/2024,19:25:00,21/10/2024,Ascoli Satriano,FG,Venerd ,2024,Ottobre,58
 558,M,Ponte,BN,23/04/1926,Foggia,FG,21/10/2024,19:45:00,22/10/2024,Ponte,BN,Luned ,2024,Ottobre,98
-559,M,Castelluccio Dei Sauri,FG,24/09/1949,Hemsbach,,05/10/2024,Non Disponibile,22/10/2024,Hemsbach,,Sabato,2024,Ottobre,75
+559,M,Castelluccio Dei Sauri,FG,24/09/1949,Hemsbach,nd,05/10/2024,Non Disponibile,22/10/2024,Hemsbach,nd,Sabato,2024,Ottobre,75
 560,M,Pietramontecorvino,FG,17/08/1939,Foggia,FG,21/10/2024,23:57:00,23/10/2024,Lucera,FG,Luned ,2024,Ottobre,85
 561,M,Foggia,FG,22/10/2024,Foggia,FG,22/10/2024,07:00:00,23/10/2024,Castelluccio Dei Sauri,FG,Marted ,2024,Ottobre,0
 562,M,San Severo,FG,12/09/1957,Foggia,FG,23/10/2024,01:19:00,24/10/2024,San Severo,FG,Mercoled ,2024,Ottobre,67
@@ -586,7 +586,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 585,F,Orsara Di Puglia,FG,24/06/1941,Foggia,FG,07/11/2024,17:35:00,08/11/2024,Orsara Di Puglia,FG,Gioved ,2024,Novembre,83
 586,F,Mattinata,FG,03/01/1939,Foggia,FG,07/11/2024,07:37:00,08/11/2024,Orta Nova,FG,Gioved ,2024,Novembre,85
 587,M,Alberona,FG,14/07/1935,Foggia,FG,07/11/2024,11:31:00,08/11/2024,Alberona,FG,Gioved ,2024,Novembre,89
-588,M,Foggia,FG,05/03/1954,Dortmund,,22/10/2024,Non Disponibile,08/11/2024,Dortmund,,Marted ,2024,Ottobre,70
+588,M,Foggia,FG,05/03/1954,Dortmund,nd,22/10/2024,Non Disponibile,08/11/2024,Dortmund,nd,Marted ,2024,Ottobre,70
 589,F,Trevico,AV,26/11/1949,Foggia,FG,11/11/2024,14:55:00,12/11/2024,Candela,FG,Luned ,2024,Novembre,74
 590,M,Cerignola,FG,14/05/1946,Foggia,FG,14/11/2024,13:50:00,15/11/2024,Stornarella,FG,Gioved ,2024,Novembre,78
 591,F,Carpino,FG,17/04/1931,Foggia,FG,14/11/2024,01:20:00,15/11/2024,Roma,RM,Gioved ,2024,Novembre,93
@@ -607,7 +607,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 606,F,Motta Montecorvino,FG,07/12/1949,Foggia,FG,22/11/2024,15:45:00,23/11/2024,Lucera,FG,Venerd ,2024,Novembre,74
 607,F,Volturara Appula,FG,12/10/1945,Foggia,FG,22/11/2024,06:21:00,23/11/2024,Lucera,FG,Venerd ,2024,Novembre,79
 608,M,Cerignola,FG,04/08/1939,Foggia,FG,22/11/2024,05:45:00,23/11/2024,Cerignola,FG,Venerd ,2024,Novembre,85
-609,F,Breznitsa,,20/09/1975,Foggia,FG,15/11/2024,15:40:00,25/11/2024,Breznitsa,,Venerd ,2024,Novembre,49
+609,F,Breznitsa,nd,20/09/1975,Foggia,FG,15/11/2024,15:40:00,25/11/2024,Breznitsa,nd,Venerd ,2024,Novembre,49
 610,F,Orsara Di Puglia,FG,06/01/1943,Foggia,FG,23/11/2024,04:05:00,25/11/2024,Lucera,FG,Sabato,2024,Novembre,81
 611,M,Barletta,BT,07/04/1949,Foggia,FG,26/11/2024,13:00:00,27/11/2024,Barletta,BT,Marted ,2024,Novembre,75
 612,F,Chieuti,FG,27/02/1928,Foggia,FG,27/11/2024,04:54:00,28/11/2024,Chieuti,FG,Mercoled ,2024,Novembre,96
@@ -626,7 +626,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 625,M,Montefalcone Di Val Fortore,BN,25/09/1954,Foggia,FG,02/12/2024,00:40:00,03/12/2024,Biccari,FG,Luned ,2024,Dicembre,70
 626,F,Monteleone Di Puglia,FG,13/12/1929,Foggia,FG,01/12/2024,15:20:00,03/12/2024,Orta Nova,FG,Domenica,2024,Dicembre,94
 627,M,Foggia,FG,12/08/1957,Foggia,FG,02/12/2024,11:30:00,03/12/2024,Carapelle,FG,Luned ,2024,Dicembre,67
-628,F,Foggia,FG,25/01/1940,Cannes La Bocca,,04/07/2023,Non Disponibile,03/12/2024,Cannes,,Marted ,2023,Luglio,83
+628,F,Foggia,FG,25/01/1940,Cannes La Bocca,nd,04/07/2023,Non Disponibile,03/12/2024,Cannes,nd,Marted ,2023,Luglio,83
 629,M,San Paolo Di Civitate,FG,22/10/1939,Foggia,FG,03/12/2024,05:20:00,04/12/2024,San Paolo Di Civitate,FG,Marted ,2024,Dicembre,85
 630,M,Castelnuovo Della Daunia,FG,20/08/1941,Foggia,FG,03/12/2024,08:40:00,04/12/2024,Lucera,FG,Marted ,2024,Dicembre,83
 631,M,Anzano Di Puglia,FG,25/09/1940,Foggia,FG,04/12/2024,14:11:00,05/12/2024,Anzano Di Puglia,FG,Mercoled ,2024,Dicembre,84
@@ -636,7 +636,7 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 635,F,Foggia,FG,20/02/1960,Foggia,FG,04/12/2024,18:45:00,06/12/2024,Orta Nova,FG,Mercoled ,2024,Dicembre,64
 636,F,Cerignola,FG,13/06/1934,Foggia,FG,07/12/2024,11:00:00,09/12/2024,Cerignola,FG,Sabato,2024,Dicembre,90
 637,F,Pietramontecorvino,FG,17/03/1937,Foggia,FG,06/12/2024,20:40:00,09/12/2024,Pietramontecorvino,FG,Venerd ,2024,Dicembre,87
-638,F,Saint Pierre D'Albigny,,09/06/1955,Villeurbanne,,04/11/2015,Non Disponibile,09/12/2024,St. Alban Leysse,,Mercoled ,2015,Novembre,60
+638,F,Saint Pierre D'Albigny,nd,09/06/1955,Villeurbanne,nd,04/11/2015,Non Disponibile,09/12/2024,St. Alban Leysse,nd,Mercoled ,2015,Novembre,60
 639,M,Apricena,FG,05/02/1939,Foggia,FG,08/12/2024,06:48:00,09/12/2024,Apricena,FG,Domenica,2024,Dicembre,85
 640,M,Foggia,FG,02/02/1956,Foggia,FG,09/12/2024,05:10:00,10/12/2024,Orta Nova,FG,Luned ,2024,Dicembre,68
 641,M,Orta Nova,FG,07/06/1964,Foggia,FG,10/12/2024,00:36:00,11/12/2024,Orta Nova,FG,Marted ,2024,Dicembre,60
@@ -677,3 +677,4 @@ Numero,Sesso,Comune di Nascita,Sigla Comune Nascita,Data Nascita,Comune di  Mort
 676,F,Lucera,FG,24/02/1941,Foggia,FG,27/12/2024,10:05:00,28/12/2024,Lucera,FG,Venerd ,2024,Dicembre,83
 677,M,Torino,TO,14/09/1957,Foggia,FG,28/12/2024,23:40:00,30/12/2024,Lucera,FG,Sabato,2024,Dicembre,67
 678,F,Panni,FG,28/12/1939,Foggia,FG,30/12/2024,06:00:00,31/12/2024,Panni,FG,Luned ,2024,Dicembre,85
+
