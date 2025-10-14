@@ -1,0 +1,1602 @@
+Numero;Sesso;Comune di Nascita;Sigla Comune di Nascita;Data Nascita;Comune di Morte;Sigla Comune di Morte;Data  Morte;Ora Morte;Data Atto;Comune di Residenza;Sigla Residenza;Giorno Morte;Anno Morte;Mese Morte;Eta Morte
+1;F;Foggia;FG;17/08/1943;Foggia;FG;31/12/2023;09:26:00;01/01/2024;Foggia;FG;Domenica;2023;Dicembre;80
+2;M;Foggia;FG;04/03/1975;Foggia;FG;30/12/2023;10:12:00;01/01/2024;Foggia;FG;Sabato;2023;Dicembre;48
+3;M;Foggia;FG;19/03/1929;Foggia;FG;30/12/2023;19:55:00;01/01/2024;Foggia;FG;Sabato;2023;Dicembre;94
+4;M;Orta Nova;FG;05/12/1955;Foggia;FG;31/12/2023;14:20:00;01/01/2024;Foggia;FG;Domenica;2023;Dicembre;68
+5;M;Foggia;FG;27/05/1946;Foggia;FG;30/12/2023;16:00:00;01/01/2024;Foggia;FG;Sabato;2023;Dicembre;77
+6;M;Foggia;FG;01/02/1938;Foggia;FG;30/12/2023;06:18:00;01/01/2024;Foggia;FG;Sabato;2023;Dicembre;85
+7;F;Casacalenda;CB;17/09/1937;Foggia;FG;31/12/2023;10:10:00;01/01/2024;Foggia;FG;Domenica;2023;Dicembre;86
+8;M;Foggia;FG;01/09/1954;Foggia;FG;30/12/2023;00:01:00;01/01/2024;Foggia;FG;Sabato;2023;Dicembre;69
+9;M;Foggia;FG;14/08/1940;Foggia;FG;30/12/2023;17:03:00;01/01/2024;Foggia;FG;Sabato;2023;Dicembre;83
+10;F;Carapelle;FG;07/04/1938;Foggia;FG;31/12/2023;09:05:00;01/01/2024;Foggia;FG;Domenica;2023;Dicembre;85
+11;F;Trinitapoli;FG;20/09/1932;Foggia;FG;30/12/2023;13:15:00;01/01/2024;Foggia;FG;Sabato;2023;Dicembre;91
+12;M;Foggia;FG;30/05/1937;Foggia;FG;30/12/2023;15:20:00;01/01/2024;Foggia;FG;Sabato;2023;Dicembre;86
+13;M;Foggia;FG;21/02/1967;Foggia;FG;01/01/2024;15:42:00;02/01/2024;Foggia;FG;Lunedi;2024;Gennaio;56
+14;M;Castelluccio Dei Sauri;FG;14/12/1941;Foggia;FG;31/12/2023;05:17:00;02/01/2024;Foggia;FG;Domenica;2023;Dicembre;82
+15;F;Foggia;FG;27/04/1942;Foggia;FG;01/01/2024;03:00:00;02/01/2024;Foggia;FG;Lunedi;2024;Gennaio;81
+16;M;Foggia;FG;20/08/1945;Foggia;FG;01/01/2024;16:28:00;02/01/2024;Foggia;FG;Lunedi;2024;Gennaio;78
+17;M;Foggia;FG;03/05/1935;Foggia;FG;01/01/2024;03:00:00;02/01/2024;Foggia;FG;Lunedi;2024;Gennaio;88
+18;M;Foggia;FG;20/01/1941;Foggia;FG;01/01/2024;12:25:00;02/01/2024;Foggia;FG;Lunedi;2024;Gennaio;82
+19;M;Sant'Agata Di Puglia;FG;23/08/1934;Foggia;FG;01/01/2024;15:03:00;02/01/2024;Foggia;FG;Lunedi;2024;Gennaio;89
+20;F;Foggia;FG;09/02/1935;Foggia;FG;02/01/2024;08:15:00;03/01/2024;Foggia;FG;Martedi;2024;Gennaio;88
+21;F;Cerignola;FG;18/01/1929;Lucera;FG;24/12/2023;08:43:00;03/01/2024;Foggia;FG;Domenica;2023;Dicembre;94
+22;F;Foggia;FG;04/03/1935;Foggia;FG;02/01/2024;15:30:00;03/01/2024;Foggia;FG;Martedi;2024;Gennaio;88
+23;M;Monteleone Di Puglia;FG;23/10/1936;Foggia;FG;02/01/2024;21:15:00;04/01/2024;Foggia;FG;Martedi;2024;Gennaio;87
+24;F;Bovino;FG;18/08/1932;Foggia;FG;03/01/2024;07:30:00;04/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;91
+25;M;Foggia;FG;08/09/1953;Trani;BT;29/12/2023;11:50:00;04/01/2024;Foggia;FG;Venerdi;2023;Dicembre;70
+26;M;Foggia;FG;24/08/1942;Foggia;FG;03/01/2024;13:00:00;04/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;81
+27;M;Mattinata;FG;27/05/1949;Foggia;FG;03/01/2024;16:15:00;04/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;74
+28;M;Foggia;FG;10/11/1960;Foggia;FG;03/01/2024;12:45:00;04/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;63
+29;F;Foggia;FG;04/02/1927;Foggia;FG;03/01/2024;17:14:00;04/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;96
+30;F;Volturara Appula;FG;01/01/1922;Foggia;FG;03/01/2024;07:00:00;04/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;102
+31;M;Napoli;NA;09/10/2023;Foggia;FG;31/12/2023;11:10:00;04/01/2024;Foggia;FG;Domenica;2023;Dicembre;0
+32;F;Foggia;FG;14/09/1941;Foggia;FG;03/01/2024;17:25:00;04/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;82
+33;F;Cerignola;FG;19/08/1945;Foggia;FG;04/01/2024;01:50:00;05/01/2024;Foggia;FG;Giovedi;2024;Gennaio;78
+34;F;Foggia;FG;14/02/1958;Bari;BA;07/07/2023;05:00:00;05/01/2024;Foggia;FG;Venerdi;2023;Luglio;65
+35;F;Foggia;FG;11/11/1939;Foggia;FG;04/01/2024;16:15:00;05/01/2024;Foggia;FG;Giovedi;2024;Gennaio;84
+36;M;Lucera;FG;09/04/1952;Foggia;FG;04/01/2024;08:34:00;05/01/2024;Foggia;FG;Giovedi;2024;Gennaio;71
+37;F;Foggia;FG;02/03/1928;Foggia;FG;04/01/2024;07:30:00;05/01/2024;Foggia;FG;Giovedi;2024;Gennaio;95
+38;M;Accadia;FG;16/11/1940;Foggia;FG;04/01/2024;01:31:00;05/01/2024;Foggia;FG;Giovedi;2024;Gennaio;83
+39;F;Foggia;FG;05/03/1933;San Severo;FG;20/12/2023;15:45:00;05/01/2024;Foggia;FG;Mercoledi;2023;Dicembre;90
+40;M;Foggia;FG;17/08/1982;Foggia;FG;05/01/2024;01:45:00;06/01/2024;Foggia;FG;Venerdi;2024;Gennaio;41
+41;M;Orsara Di Puglia;FG;15/03/1942;Foggia;FG;05/01/2024;05:25:00;06/01/2024;Foggia;FG;Venerdi;2024;Gennaio;81
+42;F;Foggia;FG;25/03/1948;Foggia;FG;04/01/2024;19:45:00;06/01/2024;Foggia;FG;Giovedi;2024;Gennaio;75
+43;F;Aquilonia;AV;24/01/1944;Foggia;FG;05/01/2024;05:50:00;06/01/2024;Foggia;FG;Venerdi;2024;Gennaio;79
+44;M;Foggia;FG;25/04/1941;Foggia;FG;06/01/2024;15:50:00;08/01/2024;Foggia;FG;Sabato;2024;Gennaio;82
+45;M;San Vito Chietino;CH;06/09/1939;Foggia;FG;07/01/2024;07:30:00;08/01/2024;Foggia;FG;Domenica;2024;Gennaio;84
+46;M;Ascoli Satriano;FG;12/12/1931;Foggia;FG;05/01/2024;23:30:00;08/01/2024;Foggia;FG;Venerdi;2024;Gennaio;92
+47;F;Trinitapoli;FG;03/04/1942;Foggia;FG;07/01/2024;04:15:00;08/01/2024;Foggia;FG;Domenica;2024;Gennaio;81
+48;F;San Marco In Lamis;FG;10/01/1936;Foggia;FG;07/01/2024;17:10:00;08/01/2024;Foggia;FG;Domenica;2024;Gennaio;87
+49;M;Foggia;FG;09/06/1969;Foggia;FG;06/01/2024;00:51:00;08/01/2024;Foggia;FG;Sabato;2024;Gennaio;54
+50;M;Manfredonia;FG;16/10/1937;Foggia;FG;07/01/2024;06:30:00;08/01/2024;Foggia;FG;Domenica;2024;Gennaio;86
+51;F;Castelluccio Dei Sauri;FG;27/04/1926;Foggia;FG;07/01/2024;13:30:00;08/01/2024;Foggia;FG;Domenica;2024;Gennaio;97
+52;M;Foggia;FG;15/11/1972;Foggia;FG;05/01/2024;23:45:00;08/01/2024;Foggia;FG;Venerdi;2024;Gennaio;51
+53;M;Foggia;FG;29/06/1982;Foggia;FG;06/01/2024;02:50:00;08/01/2024;Foggia;FG;Sabato;2024;Gennaio;41
+54;F;Foggia;FG;27/07/1931;Foggia;FG;07/01/2024;19:30:00;08/01/2024;Foggia;FG;Domenica;2024;Gennaio;92
+55;M;Foggia;FG;04/09/1937;Foggia;FG;08/01/2024;13:22:00;09/01/2024;Foggia;FG;Lunedi;2024;Gennaio;86
+56;M;Foggia;FG;06/01/1965;Foggia;FG;16/12/2023;10:35:00;09/01/2024;Foggia;FG;Sabato;2023;Dicembre;58
+57;F;Rutigliano;BA;25/01/1933;Foggia;FG;08/01/2024;06:30:00;09/01/2024;Foggia;FG;Lunedi;2024;Gennaio;90
+58;M;Orta Nova;FG;30/06/1938;Foggia;FG;08/01/2024;16:30:00;09/01/2024;Foggia;FG;Lunedi;2024;Gennaio;85
+59;F;Monte Sant'Angelo;FG;23/05/1930;Foggia;FG;08/01/2024;12:40:00;09/01/2024;Foggia;FG;Lunedi;2024;Gennaio;93
+60;F;Molfetta;BA;29/03/1940;Foggia;FG;08/01/2024;14:30:00;09/01/2024;Foggia;FG;Lunedi;2024;Gennaio;83
+61;F;Foggia;FG;15/05/1948;San Giovanni Rotondo;FG;23/12/2023;02:55:00;09/01/2024;Foggia;FG;Sabato;2023;Dicembre;75
+62;F;Foggia;FG;14/12/1930;Foggia;FG;08/01/2024;06:12:00;09/01/2024;Foggia;FG;Lunedi;2024;Gennaio;93
+63;M;Foggia;FG;08/12/1939;Foggia;FG;08/01/2024;11:53:00;09/01/2024;Foggia;FG;Lunedi;2024;Gennaio;84
+64;M;Rionero In Vulture;PZ;07/01/1948;Torremaggiore;FG;22/12/2023;11:48:00;09/01/2024;Foggia;FG;Venerdi;2023;Dicembre;75
+65;F;Foggia;FG;23/08/1950;San Giovanni Rotondo;FG;23/12/2023;10:00:00;09/01/2024;Foggia;FG;Sabato;2023;Dicembre;73
+66;F;Bovino;FG;25/09/1935;Foggia;FG;09/01/2024;10:47:00;10/01/2024;Foggia;FG;Martedi;2024;Gennaio;88
+67;M;San Severo;FG;16/07/1942;San Giovanni Rotondo;FG;23/12/2023;20:00:00;10/01/2024;Foggia;FG;Sabato;2023;Dicembre;81
+68;F;Serracapriola;FG;13/11/1943;San Giovanni Rotondo;FG;07/01/2024;12:45:00;10/01/2024;Foggia;FG;Domenica;2024;Gennaio;80
+69;M;Foggia;FG;25/05/1964;Bari;BA;28/12/2023;10:30:00;10/01/2024;Foggia;FG;Giovedi;2023;Dicembre;59
+70;F;Cerignola;FG;03/10/1927;Foggia;FG;09/01/2024;09:45:00;10/01/2024;Foggia;FG;Martedi;2024;Gennaio;96
+71;M;Foggia;FG;12/05/1968;Foggia;FG;09/01/2024;05:40:00;10/01/2024;Foggia;FG;Martedi;2024;Gennaio;55
+72;F;Orsara Di Puglia;FG;06/07/1958;Foggia;FG;09/01/2024;05:55:00;10/01/2024;Foggia;FG;Martedi;2024;Gennaio;65
+73;M;Foggia;FG;23/04/1937;Foggia;FG;09/01/2024;12:30:00;10/01/2024;Foggia;FG;Martedi;2024;Gennaio;86
+74;M;Foggia;FG;19/02/1980;Foggia;FG;08/01/2024;23:13:00;10/01/2024;Foggia;FG;Lunedi;2024;Gennaio;43
+75;F;Maratea;PZ;19/04/1955;Padova;PD;05/01/2024;08:35:00;11/01/2024;Foggia;FG;Venerdi;2024;Gennaio;68
+76;M;Foggia;FG;26/11/1956;Foggia;FG;10/01/2024;15:46:00;11/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;67
+77;M;Foggia;FG;19/02/1936;Foggia;FG;11/01/2024;17:20:00;12/01/2024;Foggia;FG;Giovedi;2024;Gennaio;87
+78;F;Foggia;FG;30/06/1965;Foggia;FG;11/01/2024;12:00:00;12/01/2024;Foggia;FG;Giovedi;2024;Gennaio;58
+79;F;Apricena;FG;13/11/1938;Foggia;FG;11/01/2024;06:50:00;12/01/2024;Foggia;FG;Giovedi;2024;Gennaio;85
+80;F;Panni;FG;02/03/1926;Foggia;FG;12/01/2024;03:00:00;13/01/2024;Foggia;FG;Venerdi;2024;Gennaio;97
+81;M;Foggia;FG;01/11/1964;Foggia;FG;12/01/2024;11:00:00;13/01/2024;Foggia;FG;Venerdi;2024;Gennaio;59
+82;F;Lucera;FG;27/03/1935;Foggia;FG;12/01/2024;07:15:00;13/01/2024;Foggia;FG;Venerdi;2024;Gennaio;88
+83;F;Foggia;FG;02/08/1944;Foggia;FG;12/01/2024;09:45:00;13/01/2024;Foggia;FG;Venerdi;2024;Gennaio;79
+84;F;Foggia;FG;28/03/1933;Foggia;FG;12/01/2024;08:57:00;13/01/2024;Foggia;FG;Venerdi;2024;Gennaio;90
+85;M;Potenza;PZ;07/07/1949;Foggia;FG;12/01/2024;08:30:00;13/01/2024;Foggia;FG;Venerdi;2024;Gennaio;74
+86;F;Rutigliano;BA;19/12/1932;Foggia;FG;14/01/2024;08:05:00;15/01/2024;Foggia;FG;Domenica;2024;Gennaio;91
+87;M;Bovino;FG;25/11/1925;Foggia;FG;14/01/2024;11:20:00;15/01/2024;Foggia;FG;Domenica;2024;Gennaio;98
+88;M;Foggia;FG;29/04/1946;Foggia;FG;13/01/2024;02:35:00;15/01/2024;Foggia;FG;Sabato;2024;Gennaio;77
+89;M;Foggia;FG;18/11/1943;Foggia;FG;14/01/2024;19:30:00;15/01/2024;Foggia;FG;Domenica;2024;Gennaio;80
+90;F;Galatina;LE;25/08/1960;Foggia;FG;14/01/2024;17:35:00;15/01/2024;Foggia;FG;Domenica;2024;Gennaio;63
+91;F;Foggia;FG;20/08/1937;Lucera;FG;13/01/2024;05:40:00;16/01/2024;Foggia;FG;Sabato;2024;Gennaio;86
+92;F;San Marco In Lamis;FG;01/03/1934;San Filippo Del Mela;ME;14/01/2024;05:00:00;16/01/2024;Foggia;FG;Domenica;2024;Gennaio;89
+93;F;Corato;BA;11/03/1937;Foggia;FG;15/01/2024;10:42:00;16/01/2024;Foggia;FG;Lunedi;2024;Gennaio;86
+94;F;Ascoli Satriano;FG;29/10/1927;Foggia;FG;15/01/2024;02:20:00;16/01/2024;Foggia;FG;Lunedi;2024;Gennaio;96
+95;M;Foggia;FG;02/11/1955;Foggia;FG;15/01/2024;18:46:00;16/01/2024;Foggia;FG;Lunedi;2024;Gennaio;68
+96;F;Foggia;FG;27/10/1978;Manfredonia;FG;12/01/2024;16:45:00;16/01/2024;Foggia;FG;Venerdi;2024;Gennaio;45
+97;F;Foggia;FG;28/06/1946;Foggia;FG;15/01/2024;07:40:00;16/01/2024;Foggia;FG;Lunedi;2024;Gennaio;77
+98;F;Foggia;FG;09/08/1935;Foggia;FG;15/01/2024;17:00:00;16/01/2024;Foggia;FG;Lunedi;2024;Gennaio;88
+99;F;Foggia;FG;13/08/1947;Foggia;FG;16/01/2024;06:30:00;17/01/2024;Foggia;FG;Martedi;2024;Gennaio;76
+100;M;Foggia;FG;16/01/1951;Foggia;FG;16/01/2024;02:00:00;17/01/2024;Foggia;FG;Martedi;2024;Gennaio;73
+101;F;Monte Sant'Angelo;FG;08/01/1931;Lucera;FG;15/01/2024;00:20:00;17/01/2024;Foggia;FG;Lunedi;2024;Gennaio;93
+102;F;Maglie;LE;01/02/1934;Foggia;FG;16/01/2024;08:15:00;17/01/2024;Foggia;FG;Martedi;2024;Gennaio;89
+103;F;Napoli;NA;10/02/1944;Foggia;FG;15/01/2024;22:00:00;17/01/2024;Foggia;FG;Lunedi;2024;Gennaio;79
+104;M;Corato;BA;07/10/1926;Foggia;FG;16/01/2024;18:00:00;17/01/2024;Foggia;FG;Martedi;2024;Gennaio;97
+105;M;Foggia;FG;14/08/1964;Foggia;FG;12/01/2024;10:45:00;17/01/2024;Foggia;FG;Venerdi;2024;Gennaio;59
+106;F;Carapelle;FG;10/06/1927;Foggia;FG;16/01/2024;06:35:00;17/01/2024;Foggia;FG;Martedi;2024;Gennaio;96
+107;M;Monte Sant'Angelo;FG;31/01/1932;Foggia;FG;16/01/2024;09:00:00;17/01/2024;Foggia;FG;Martedi;2024;Gennaio;91
+108;M;Benevento;BN;15/03/1943;Foggia;FG;17/01/2024;13:40:00;18/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;80
+109;M;Lecce;LE;13/08/1944;Foggia;FG;17/01/2024;06:30:00;18/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;79
+110;F;Foggia;FG;12/01/1953;Foggia;FG;17/01/2024;17:00:00;18/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;71
+111;M;Napoli;NA;23/09/1947;Bari;BA;16/01/2024;11:00:00;18/01/2024;Foggia;FG;Martedi;2024;Gennaio;76
+112;M;Orsara Di Puglia;FG;24/08/1935;Lacedonia;AV;11/01/2024;13:50:00;18/01/2024;Foggia;FG;Giovedi;2024;Gennaio;88
+113;F;Candela;FG;20/07/1934;Foggia;FG;17/01/2024;17:20:00;18/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;89
+114;M;Foggia;FG;08/05/1968;Foggia;FG;17/01/2024;08:30:00;18/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;55
+115;F;Foggia;FG;24/04/1930;Foggia;FG;17/01/2024;05:00:00;18/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;93
+116;F;Foggia;FG;28/07/1929;Foggia;FG;16/01/2024;22:45:00;18/01/2024;Foggia;FG;Martedi;2024;Gennaio;94
+117;F;Foggia;FG;30/01/1936;Torremaggiore;FG;04/01/2024;03:20:00;18/01/2024;Foggia;FG;Giovedi;2024;Gennaio;87
+118;M;Orsara Di Puglia;FG;05/09/1939;Foggia;FG;17/01/2024;16:05:00;18/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;84
+119;F;Ascoli Satriano;FG;25/12/1932;Foggia;FG;17/01/2024;03:50:00;18/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;91
+120;F;Foggia;FG;12/03/1984;Foggia;FG;17/01/2024;21:10:00;18/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;39
+121;M;Foggia;FG;08/09/1953;Acquaviva Delle Fonti;BA;31/12/2023;06:48:00;18/01/2024;Foggia;FG;Domenica;2023;Dicembre;70
+122;M;Foggia;FG;16/05/1967;Foggia;FG;18/01/2024;08:30:00;19/01/2024;Foggia;FG;Giovedi;2024;Gennaio;56
+123;M;Orsara Di Puglia;FG;09/06/1946;Foggia;FG;17/01/2024;15:15:00;19/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;77
+124;F;Ischitella;FG;19/06/1930;Foggia;FG;18/01/2024;19:30:00;19/01/2024;Foggia;FG;Giovedi;2024;Gennaio;93
+125;F;Ascoli Satriano;FG;06/08/1938;Foggia;FG;18/01/2024;12:08:00;19/01/2024;Foggia;FG;Giovedi;2024;Gennaio;85
+126;F;Cerignola;FG;24/12/1937;Foggia;FG;18/01/2024;07:59:00;19/01/2024;Foggia;FG;Giovedi;2024;Gennaio;86
+127;F;Foggia;FG;18/02/1941;Foggia;FG;18/01/2024;13:50:00;19/01/2024;Foggia;FG;Giovedi;2024;Gennaio;82
+128;M;Foggia;FG;19/02/1965;Foggia;FG;12/01/2024;15:10:00;19/01/2024;Foggia;FG;Venerdi;2024;Gennaio;58
+129;F;Foggia;FG;24/05/1969;San Giovanni Rotondo;FG;13/01/2024;12:00:00;20/01/2024;Foggia;FG;Sabato;2024;Gennaio;54
+130;M;Foggia;FG;08/03/1965;Rodi Garganico;FG;15/01/2024;13:45:00;20/01/2024;Foggia;FG;Lunedi;2024;Gennaio;58
+131;F;Taranto;TA;25/04/1929;Foggia;FG;18/01/2024;19:08:00;20/01/2024;Foggia;FG;Giovedi;2024;Gennaio;94
+132;M;Monte Sant'Angelo;FG;06/11/1937;Foggia;FG;19/01/2024;09:30:00;20/01/2024;Foggia;FG;Venerdi;2024;Gennaio;86
+133;F;Foggia;FG;14/05/1947;Foggia;FG;19/01/2024;06:20:00;20/01/2024;Foggia;FG;Venerdi;2024;Gennaio;76
+134;F;Foggia;FG;20/08/1945;Foggia;FG;20/01/2024;00:30:00;22/01/2024;Foggia;FG;Sabato;2024;Gennaio;78
+135;M;Foggia;FG;06/10/1955;Foggia;FG;21/01/2024;02:55:00;22/01/2024;Foggia;FG;Domenica;2024;Gennaio;68
+136;F;Monte Sant'Angelo;FG;15/05/1932;Foggia;FG;20/01/2024;22:00:00;22/01/2024;Foggia;FG;Sabato;2024;Gennaio;91
+137;M;Foggia;FG;30/01/1954;Foggia;FG;20/01/2024;12:09:00;22/01/2024;Foggia;FG;Sabato;2024;Gennaio;69
+138;F;Foggia;FG;16/03/1929;Foggia;FG;21/01/2024;18:04:00;22/01/2024;Foggia;FG;Domenica;2024;Gennaio;94
+139;F;Foggia;FG;25/03/1939;Foggia;FG;20/01/2024;00:33:00;22/01/2024;Foggia;FG;Sabato;2024;Gennaio;84
+140;F;Troia;FG;07/03/1932;Foggia;FG;19/01/2024;23:30:00;22/01/2024;Foggia;FG;Venerdi;2024;Gennaio;91
+141;M;Sant'Agata Di Puglia;FG;23/03/1955;Foggia;FG;20/01/2024;13:00:00;22/01/2024;Foggia;FG;Sabato;2024;Gennaio;68
+142;M;Foggia;FG;18/11/1940;Foggia;FG;21/01/2024;11:00:00;22/01/2024;Foggia;FG;Domenica;2024;Gennaio;83
+143;F;Foggia;FG;13/10/1979;Foggia;FG;21/01/2024;03:00:00;22/01/2024;Foggia;FG;Domenica;2024;Gennaio;44
+144;F;Apricena;FG;07/10/1934;Foggia;FG;22/01/2024;08:40:00;23/01/2024;Foggia;FG;Lunedi;2024;Gennaio;89
+145;F;Volturino;FG;30/10/1944;Foggia;FG;22/01/2024;00:30:00;23/01/2024;Foggia;FG;Lunedi;2024;Gennaio;79
+146;F;Foggia;FG;27/05/1950;Foggia;FG;21/01/2024;22:50:00;23/01/2024;Foggia;FG;Domenica;2024;Gennaio;73
+147;F;Foggia;FG;20/11/1928;Foggia;FG;22/01/2024;17:15:00;23/01/2024;Foggia;FG;Lunedi;2024;Gennaio;95
+148;F;Bari;BA;24/05/1937;Foggia;FG;22/01/2024;17:18:00;23/01/2024;Foggia;FG;Lunedi;2024;Gennaio;86
+149;F;Adria;RO;13/04/1930;Cerignola;FC;19/01/2024;03:00:00;23/01/2024;Foggia;FG;Venerdi;2024;Gennaio;93
+150;M;Colletorto;CB;22/03/1940;Foggia;FG;22/01/2024;00:31:00;23/01/2024;Foggia;FG;Lunedi;2024;Gennaio;83
+151;F;Foggia;FG;14/08/1946;Foggia;FG;22/01/2024;11:35:00;23/01/2024;Foggia;FG;Lunedi;2024;Gennaio;77
+152;F;Cerignola;FG;20/12/1936;Foggia;FG;22/01/2024;07:00:00;23/01/2024;Foggia;FG;Lunedi;2024;Gennaio;87
+153;F;San Marco In Lamis;FG;20/02/1926;Foggia;FG;22/01/2024;23:40:00;24/01/2024;Foggia;FG;Lunedi;2024;Gennaio;97
+154;M;Cerignola;FG;28/03/1950;San Giovanni Rotondo;FG;21/01/2024;11:40:00;24/01/2024;Foggia;FG;Domenica;2024;Gennaio;73
+155;F;Foggia;FG;28/10/1939;Foggia;FG;24/01/2024;18:15:00;25/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;84
+156;F;Ariano Irpino;AV;26/02/1937;Foggia;FG;24/01/2024;10:00:00;25/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;86
+157;F;Foggia;FG;10/09/1950;Foggia;FG;24/01/2024;13:30:00;25/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;73
+158;M;Foggia;FG;25/08/1970;Foggia;FG;24/01/2024;03:13:00;25/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;53
+159;M;Foggia;FG;01/12/1935;Foggia;FG;24/01/2024;18:50:00;25/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;88
+160;F;Taranto;TA;15/10/1932;Foggia;FG;25/01/2024;21:05:00;26/01/2024;Foggia;FG;Giovedi;2024;Gennaio;91
+161;M;Lucera;FG;04/02/1938;Foggia;FG;25/01/2024;17:07:00;26/01/2024;Foggia;FG;Giovedi;2024;Gennaio;85
+162;F;Foggia;FG;10/05/1938;Foggia;FG;25/01/2024;00:20:00;26/01/2024;Foggia;FG;Giovedi;2024;Gennaio;85
+163;F;Salza Irpina;AV;18/11/1925;Foggia;FG;25/01/2024;17:06:00;26/01/2024;Foggia;FG;Giovedi;2024;Gennaio;98
+164;F;Adelfia;BA;07/09/1942;Foggia;FG;26/01/2024;06:00:00;27/01/2024;Foggia;FG;Venerdi;2024;Gennaio;81
+165;F;Foggia;FG;12/01/1937;Foggia;FG;27/01/2024;23:55:00;29/01/2024;Foggia;FG;Sabato;2024;Gennaio;87
+166;F;Bovino;FG;24/05/1937;Foggia;FG;26/01/2024;21:20:00;29/01/2024;Foggia;FG;Venerdi;2024;Gennaio;86
+167;F;Zungoli;AV;10/03/1931;Foggia;FG;27/01/2024;03:50:00;29/01/2024;Foggia;FG;Sabato;2024;Gennaio;92
+168;F;Foggia;FG;04/09/1930;Foggia;FG;27/01/2024;19:40:00;29/01/2024;Foggia;FG;Sabato;2024;Gennaio;93
+169;F;Foggia;FG;05/04/1930;Foggia;FG;27/01/2024;08:46:00;29/01/2024;Foggia;FG;Sabato;2024;Gennaio;93
+170;F;Foggia;FG;07/01/1936;Foggia;FG;27/01/2024;06:30:00;29/01/2024;Foggia;FG;Sabato;2024;Gennaio;88
+171;F;Berkovica;;15/10/1966;San Severo;FG;18/01/2024;17:52:00;29/01/2024;Foggia;FG;Giovedi;2024;Gennaio;57
+172;F;Foggia;FG;01/01/1949;Foggia;FG;29/01/2024;14:50:00;30/01/2024;Foggia;FG;Lunedi;2024;Gennaio;75
+173;F;Deliceto;FG;18/04/1934;Foggia;FG;28/01/2024;18:18:00;30/01/2024;Foggia;FG;Domenica;2024;Gennaio;89
+174;F;Foggia;FG;14/02/1934;Troia;FG;25/01/2024;02:40:00;30/01/2024;Foggia;FG;Giovedi;2024;Gennaio;89
+175;F;Foggia;FG;14/02/1957;Foggia;FG;29/01/2024;06:00:00;30/01/2024;Foggia;FG;Lunedi;2024;Gennaio;66
+176;F;Monte Sant'Angelo;FG;04/05/1933;Foggia;FG;28/01/2024;23:52:00;30/01/2024;Foggia;FG;Domenica;2024;Gennaio;90
+177;F;Riesi;CL;02/03/1942;San Giovanni Rotondo;FG;24/01/2024;00:20:00;30/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;81
+178;M;Cervia;RA;14/06/1926;Foggia;FG;30/01/2024;03:00:00;31/01/2024;Foggia;FG;Martedi;2024;Gennaio;97
+179;F;Sammichele Di Bari;BA;01/09/1940;Foggia;FG;29/01/2024;22:40:00;31/01/2024;Foggia;FG;Lunedi;2024;Gennaio;83
+180;F;San Marco In Lamis;FG;30/08/1943;Foggia;FG;30/01/2024;08:00:00;31/01/2024;Foggia;FG;Martedi;2024;Gennaio;80
+181;F;Foggia;FG;31/05/1970;Foggia;FG;30/01/2024;06:00:00;31/01/2024;Foggia;FG;Martedi;2024;Gennaio;53
+182;F;Panni;FG;15/10/1961;Foggia;FG;30/01/2024;13:47:00;31/01/2024;Foggia;FG;Martedi;2024;Gennaio;62
+183;M;Foggia;FG;02/01/1941;Bovino;FG;03/09/2023;09:30:00;31/01/2024;Foggia;FG;Domenica;2023;Settembre;82
+184;F;Foggia;FG;19/12/1954;Foggia;FG;30/01/2024;08:34:00;31/01/2024;Foggia;FG;Martedi;2024;Gennaio;69
+185;F;Foggia;FG;07/12/1925;San Severo;FG;24/01/2024;20:50:00;31/01/2024;Foggia;FG;Mercoledi;2024;Gennaio;98
+186;F;Foggia;FG;22/11/1941;Foggia;FG;30/01/2024;04:00:00;31/01/2024;Foggia;FG;Martedi;2024;Gennaio;82
+187;F;Foggia;FG;23/01/1950;Foggia;FG;29/01/2024;06:35:00;31/01/2024;Foggia;FG;Lunedi;2024;Gennaio;74
+188;F;Poggibonsi;SI;07/05/1955;Foggia;FG;30/01/2024;10:30:00;31/01/2024;Foggia;FG;Martedi;2024;Gennaio;68
+189;M;Avellino;AV;21/12/1935;Foggia;FG;31/01/2024;23:30:00;02/02/2024;Foggia;FG;Mercoledi;2024;Gennaio;88
+190;F;Monte Sant'Angelo;FG;10/08/1945;Foggia;FG;01/02/2024;17:15:00;02/02/2024;Foggia;FG;Giovedi;2024;Febbraio;78
+191;F;Foggia;FG;16/10/1953;Foggia;FG;01/02/2024;17:23:00;02/02/2024;Foggia;FG;Giovedi;2024;Febbraio;70
+192;F;Manfredonia;FG;07/12/1946;Foggia;FG;02/02/2024;13:40:00;03/02/2024;Foggia;FG;Venerdi;2024;Febbraio;77
+193;F;Aquila Degli Abruzzi;AQ;19/09/1933;Foggia;FG;01/02/2024;22:25:00;03/02/2024;Foggia;FG;Giovedi;2024;Febbraio;90
+194;M;Orsara Di Puglia;FG;12/08/1928;Foggia;FG;03/02/2024;21:00:00;05/02/2024;Foggia;FG;Sabato;2024;Febbraio;95
+195;F;Foggia;FG;28/03/1972;Foggia;FG;04/02/2024;05:30:00;05/02/2024;Foggia;FG;Domenica;2024;Febbraio;51
+196;M;Foggia;FG;05/09/1921;Francavilla Al Mare;CH;02/02/2023;19:37:00;05/02/2024;Foggia;FG;Giovedi;2023;Febbraio;101
+197;F;Foggia;FG;23/04/1942;Foggia;FG;03/02/2024;19:15:00;05/02/2024;Foggia;FG;Sabato;2024;Febbraio;81
+198;F;Sant'Agata Di Puglia;FG;28/08/1949;Foggia;FG;03/02/2024;19:45:00;05/02/2024;Foggia;FG;Sabato;2024;Febbraio;74
+199;M;Foggia;FG;28/08/1949;Foggia;FG;03/02/2024;08:05:00;05/02/2024;Foggia;FG;Sabato;2024;Febbraio;74
+200;F;Foggia;FG;19/05/1925;Foggia;FG;03/02/2024;04:00:00;05/02/2024;Foggia;FG;Sabato;2024;Febbraio;98
+201;M;Cerignola;FG;21/07/1942;Foggia;FG;02/02/2024;22:50:00;05/02/2024;Foggia;FG;Venerdi;2024;Febbraio;81
+202;M;Foggia;FG;03/07/1933;Foggia;FG;05/02/2024;16:11:00;06/02/2024;Foggia;FG;Lunedi;2024;Febbraio;90
+203;M;Alberona;FG;21/05/1943;Foggia;FG;05/02/2024;01:30:00;06/02/2024;Foggia;FG;Lunedi;2024;Febbraio;80
+204;F;Grottaminarda;AV;13/10/1930;Foggia;FG;04/02/2024;23:50:00;06/02/2024;Foggia;FG;Domenica;2024;Febbraio;93
+205;M;San Severo;FG;27/06/1938;Foggia;FG;05/02/2024;17:04:00;06/02/2024;Foggia;FG;Lunedi;2024;Febbraio;85
+206;F;Napoli;NA;18/02/1940;Foggia;FG;05/02/2024;16:58:00;06/02/2024;Foggia;FG;Lunedi;2024;Febbraio;83
+207;F;Foggia;FG;09/07/1943;Foggia;FG;05/02/2024;06:00:00;06/02/2024;Foggia;FG;Lunedi;2024;Febbraio;80
+208;F;Foggia;FG;03/06/1936;Foggia;FG;05/02/2024;05:28:00;06/02/2024;Foggia;FG;Lunedi;2024;Febbraio;87
+209;F;Foggia;FG;31/03/1953;Lucera;FG;30/01/2024;02:00:00;06/02/2024;Foggia;FG;Martedi;2024;Gennaio;70
+210;M;Foggia;FG;09/12/1964;Foggia;FG;05/02/2024;02:02:00;06/02/2024;Foggia;FG;Lunedi;2024;Febbraio;59
+211;M;Foggia;FG;09/06/1953;Foggia;FG;05/02/2024;17:40:00;07/02/2024;Foggia;FG;Lunedi;2024;Febbraio;70
+212;M;Foggia;FG;09/06/1964;Foggia;FG;05/02/2024;22:20:00;07/02/2024;Foggia;FG;Lunedi;2024;Febbraio;59
+213;F;Foggia;FG;03/02/1942;Foggia;FG;06/02/2024;09:30:00;07/02/2024;Foggia;FG;Martedi;2024;Febbraio;82
+214;M;Foggia;FG;26/01/1947;Foggia;FG;06/02/2024;09:15:00;07/02/2024;Foggia;FG;Martedi;2024;Febbraio;77
+215;M;Foggia;FG;16/02/1929;Foggia;FG;06/02/2024;07:30:00;07/02/2024;Foggia;FG;Martedi;2024;Febbraio;94
+216;F;Foggia;FG;27/09/1940;Foggia;FG;06/02/2024;01:00:00;07/02/2024;Foggia;FG;Martedi;2024;Febbraio;83
+217;M;Foggia;FG;12/02/1956;Foggia;FG;07/02/2024;17:08:00;08/02/2024;Foggia;FG;Mercoledi;2024;Febbraio;67
+218;M;Foggia;FG;27/01/1947;Lucera;FG;26/01/2024;18:54:00;08/02/2024;Foggia;FG;Venerdi;2024;Gennaio;76
+219;F;Canosa Di Puglia;BA;03/10/1933;Foggia;FG;07/02/2024;01:30:00;08/02/2024;Foggia;FG;Mercoledi;2024;Febbraio;90
+220;F;Orta Nova;FG;18/09/1938;Foggia;FG;07/02/2024;09:00:00;08/02/2024;Foggia;FG;Mercoledi;2024;Febbraio;85
+221;M;Foggia;FG;06/04/1972;Sanremo;IM;19/12/2023;21:10:00;09/02/2024;Foggia;FG;Martedi;2023;Dicembre;51
+222;F;Stornarella;FG;05/10/1934;Foggia;FG;08/02/2024;13:30:00;09/02/2024;Foggia;FG;Giovedi;2024;Febbraio;89
+223;F;Foggia;FG;02/05/1969;Foggia;FG;08/02/2024;03:00:00;09/02/2024;Foggia;FG;Giovedi;2024;Febbraio;54
+224;F;San Severo;FG;25/07/1925;Foggia;FG;08/02/2024;11:00:00;09/02/2024;Foggia;FG;Giovedi;2024;Febbraio;98
+225;M;Foggia;FG;30/06/1952;Foggia;FG;09/02/2024;06:00:00;10/02/2024;Foggia;FG;Venerdi;2024;Febbraio;71
+226;M;Foggia;FG;17/06/1971;Foggia;FG;09/02/2024;02:40:00;10/02/2024;Foggia;FG;Venerdi;2024;Febbraio;52
+227;F;Foggia;FG;18/08/1930;Foggia;FG;09/02/2024;01:30:00;10/02/2024;Foggia;FG;Venerdi;2024;Febbraio;93
+228;M;Foggia;FG;07/05/1953;Foggia;FG;09/02/2024;15:20:00;10/02/2024;Foggia;FG;Venerdi;2024;Febbraio;70
+229;M;Foggia;FG;08/02/1930;Foggia;FG;10/02/2024;16:42:00;12/02/2024;Foggia;FG;Sabato;2024;Febbraio;94
+230;M;Anzano Di Puglia;FG;23/07/1932;Foggia;FG;10/02/2024;06:10:00;12/02/2024;Foggia;FG;Sabato;2024;Febbraio;91
+231;F;Candela;FG;19/12/1947;Foggia;FG;10/02/2024;09:20:00;12/02/2024;Foggia;FG;Sabato;2024;Febbraio;76
+232;M;Troia;FG;21/03/1929;Foggia;FG;11/02/2024;12:33:00;12/02/2024;Foggia;FG;Domenica;2024;Febbraio;94
+233;M;San Marco In Lamis;FG;12/11/1941;Foggia;FG;11/02/2024;00:45:00;12/02/2024;Foggia;FG;Domenica;2024;Febbraio;82
+234;F;Foggia;FG;02/08/1932;Foggia;FG;10/02/2024;09:45:00;12/02/2024;Foggia;FG;Sabato;2024;Febbraio;91
+235;F;Foggia;FG;23/03/1947;Foggia;FG;10/02/2024;09:39:00;12/02/2024;Foggia;FG;Sabato;2024;Febbraio;76
+236;F;Foggia;FG;10/08/1946;Foggia;FG;10/02/2024;13:45:00;12/02/2024;Foggia;FG;Sabato;2024;Febbraio;77
+237;M;Foggia;FG;09/01/1951;Foggia;FG;10/02/2024;19:53:00;12/02/2024;Foggia;FG;Sabato;2024;Febbraio;73
+238;F;Foggia;FG;14/05/1933;Foggia;FG;10/02/2024;07:50:00;12/02/2024;Foggia;FG;Sabato;2024;Febbraio;90
+239;M;Bisaccia;AV;08/06/1943;Foggia;FG;12/02/2024;14:45:00;13/02/2024;Foggia;FG;Lunedi;2024;Febbraio;80
+240;F;Foggia;FG;05/06/2013;Gravina In Puglia;BA;29/10/2023;11:00:00;13/02/2024;Foggia;FG;Domenica;2023;Ottobre;10
+241;F;Castelluccio Dei Sauri;FG;19/08/1935;Foggia;FG;12/02/2024;02:45:00;13/02/2024;Foggia;FG;Lunedi;2024;Febbraio;88
+242;M;Sant'Agata Di Puglia;FG;08/10/1930;Foggia;FG;12/02/2024;10:40:00;13/02/2024;Foggia;FG;Lunedi;2024;Febbraio;93
+243;F;Bisaccia;AV;18/05/1941;Foggia;FG;12/02/2024;20:01:00;13/02/2024;Foggia;FG;Lunedi;2024;Febbraio;82
+244;M;Poggio Imperiale;FG;26/02/1945;Foggia;FG;13/02/2024;14:35:00;14/02/2024;Foggia;FG;Martedi;2024;Febbraio;78
+245;M;Foggia;FG;23/11/1931;Foggia;FG;12/02/2024;21:30:00;14/02/2024;Foggia;FG;Lunedi;2024;Febbraio;92
+246;F;Foggia;FG;31/03/1941;Foggia;FG;13/02/2024;13:00:00;14/02/2024;Foggia;FG;Martedi;2024;Febbraio;82
+247;F;Ascoli Satriano;FG;24/09/1943;Foggia;FG;13/02/2024;20:15:00;14/02/2024;Foggia;FG;Martedi;2024;Febbraio;80
+248;M;Napoli;NA;22/06/1939;Foggia;FG;13/02/2024;19:00:00;14/02/2024;Foggia;FG;Martedi;2024;Febbraio;84
+249;M;Biccari;FG;21/06/1934;San Giovanni Rotondo;FG;12/02/2024;02:20:00;15/02/2024;Foggia;FG;Lunedi;2024;Febbraio;89
+250;M;Sant'Agata Di Puglia;FG;21/03/1938;Foggia;FG;13/02/2024;20:30:00;15/02/2024;Foggia;FG;Martedi;2024;Febbraio;85
+251;F;Foggia;FG;06/05/1948;Foggia;FG;13/02/2024;21:34:00;15/02/2024;Foggia;FG;Martedi;2024;Febbraio;75
+252;F;Colletorto;CB;25/06/1944;Foggia;FG;14/02/2024;10:00:00;15/02/2024;Foggia;FG;Mercoledi;2024;Febbraio;79
+253;M;Foggia;FG;27/07/1957;Foggia;FG;15/02/2024;11:30:00;16/02/2024;Foggia;FG;Giovedi;2024;Febbraio;66
+254;M;Foggia;FG;01/08/1953;Foggia;FG;15/02/2024;16:12:00;16/02/2024;Foggia;FG;Giovedi;2024;Febbraio;70
+255;M;Mattinata;FG;04/06/1931;Foggia;FG;15/02/2024;20:39:00;17/02/2024;Foggia;FG;Giovedi;2024;Febbraio;92
+256;F;Grumo Nevano;NA;15/11/1926;Foggia;FG;16/02/2024;09:15:00;17/02/2024;Foggia;FG;Venerdi;2024;Febbraio;97
+257;M;Foggia;FG;23/05/1926;Foggia;FG;16/02/2024;10:00:00;17/02/2024;Foggia;FG;Venerdi;2024;Febbraio;97
+258;M;Foggia;FG;19/04/1959;Foggia;FG;16/02/2024;04:25:00;17/02/2024;Foggia;FG;Venerdi;2024;Febbraio;64
+259;F;San Marco In Lamis;FG;07/04/1931;Foggia;FG;16/02/2024;12:05:00;17/02/2024;Foggia;FG;Venerdi;2024;Febbraio;92
+260;M;Foggia;FG;09/02/1941;Foggia;FG;16/02/2024;08:39:00;17/02/2024;Foggia;FG;Venerdi;2024;Febbraio;83
+261;F;Foggia;FG;27/09/1934;Foggia;FG;18/02/2024;08:30:00;19/02/2024;Foggia;FG;Domenica;2024;Febbraio;89
+262;F;Foggia;FG;25/09/1926;Foggia;FG;17/02/2024;06:00:00;19/02/2024;Foggia;FG;Sabato;2024;Febbraio;97
+263;F;Sant'Agata Di Puglia;FG;27/07/1947;Foggia;FG;18/02/2024;10:30:00;19/02/2024;Foggia;FG;Domenica;2024;Febbraio;76
+264;F;Foggia;FG;12/04/1935;Foggia;FG;17/02/2024;06:21:00;19/02/2024;Foggia;FG;Sabato;2024;Febbraio;88
+265;M;Foggia;FG;20/12/1932;Foggia;FG;17/02/2024;06:40:00;19/02/2024;Foggia;FG;Sabato;2024;Febbraio;91
+266;F;Foggia;FG;21/11/1925;Foggia;FG;18/02/2024;09:00:00;19/02/2024;Foggia;FG;Domenica;2024;Febbraio;98
+267;F;Foggia;FG;15/10/1938;Foggia;FG;18/02/2024;17:10:00;19/02/2024;Foggia;FG;Domenica;2024;Febbraio;85
+268;M;Biccari;FG;17/03/1924;Foggia;FG;17/02/2024;07:00:00;19/02/2024;Foggia;FG;Sabato;2024;Febbraio;99
+269;F;Taranto;TA;25/02/1932;Foggia;FG;17/02/2024;08:35:00;19/02/2024;Foggia;FG;Sabato;2024;Febbraio;91
+270;F;Foggia;FG;24/12/1932;Foggia;FG;18/02/2024;11:46:00;19/02/2024;Foggia;FG;Domenica;2024;Febbraio;91
+271;M;Trinitapoli;FG;07/08/1943;Foggia;FG;19/02/2024;14:35:00;20/02/2024;Foggia;FG;Lunedi;2024;Febbraio;80
+272;F;San Paolo Di Civitate;FG;06/05/1935;San Giovanni Rotondo;FG;18/02/2024;23:53:00;20/02/2024;Foggia;FG;Domenica;2024;Febbraio;88
+273;M;Orsara Di Puglia;FG;23/02/1945;Orsara Di Puglia;FG;08/01/2024;16:00:00;20/02/2024;Foggia;FG;Lunedi;2024;Gennaio;78
+274;F;Foggia;FG;27/04/1944;Foggia;FG;19/02/2024;13:00:00;20/02/2024;Foggia;FG;Lunedi;2024;Febbraio;79
+275;F;Vieste;FG;25/10/1931;Foggia;FG;19/02/2024;14:40:00;20/02/2024;Foggia;FG;Lunedi;2024;Febbraio;92
+276;F;Apricena;FG;14/09/1927;Foggia;FG;19/02/2024;01:00:00;20/02/2024;Foggia;FG;Lunedi;2024;Febbraio;96
+277;M;Foggia;FG;25/06/1950;Busto Arsizio;VA;13/02/2024;15:50:00;20/02/2024;Foggia;FG;Martedi;2024;Febbraio;73
+278;M;San Severo;FG;14/05/1948;Foggia;FG;19/02/2024;22:40:00;21/02/2024;Foggia;FG;Lunedi;2024;Febbraio;75
+279;F;Foggia;FG;27/01/1934;Foggia;FG;20/02/2024;10:12:00;21/02/2024;Foggia;FG;Martedi;2024;Febbraio;90
+280;M;Rocchetta Sant'Antonio;FG;18/05/1943;Foggia;FG;19/02/2024;17:50:00;21/02/2024;Foggia;FG;Lunedi;2024;Febbraio;80
+281;M;Petrella Salto;RI;24/04/1934;Foggia;FG;20/02/2024;18:46:00;21/02/2024;Foggia;FG;Martedi;2024;Febbraio;89
+282;F;Foggia;FG;02/06/1934;Foggia;FG;20/02/2024;13:10:00;21/02/2024;Foggia;FG;Martedi;2024;Febbraio;89
+283;M;Foggia;FG;31/03/1938;Foggia;FG;20/02/2024;14:05:00;21/02/2024;Foggia;FG;Martedi;2024;Febbraio;85
+284;M;Foggia;FG;23/11/1940;Foggia;FG;20/02/2024;05:40:00;21/02/2024;Foggia;FG;Martedi;2024;Febbraio;83
+285;M;Foggia;FG;10/08/1934;Foggia;FG;20/02/2024;08:00:00;21/02/2024;Foggia;FG;Martedi;2024;Febbraio;89
+286;M;Sant'Agata Di Puglia;FG;02/01/1941;Foggia;FG;20/02/2024;23:45:00;22/02/2024;Foggia;FG;Martedi;2024;Febbraio;83
+287;M;Foggia;FG;07/11/1950;Foggia;FG;21/02/2024;00:45:00;22/02/2024;Foggia;FG;Mercoledi;2024;Febbraio;73
+288;M;Foggia;FG;17/09/1928;Foggia;FG;22/02/2024;01:30:00;23/02/2024;Foggia;FG;Giovedi;2024;Febbraio;95
+289;F;Foggia;FG;01/03/1936;Foggia;FG;22/02/2024;01:45:00;23/02/2024;Foggia;FG;Giovedi;2024;Febbraio;87
+290;M;Rutigliano;BA;19/06/1934;Foggia;FG;21/02/2024;03:30:00;23/02/2024;Foggia;FG;Mercoledi;2024;Febbraio;89
+291;F;Foggia;FG;01/06/1932;Foggia;FG;22/02/2024;03:45:00;23/02/2024;Foggia;FG;Giovedi;2024;Febbraio;91
+292;F;Foggia;FG;22/11/1964;Foggia;FG;22/02/2024;17:55:00;23/02/2024;Foggia;FG;Giovedi;2024;Febbraio;59
+293;F;Foggia;FG;02/08/1929;Foggia;FG;22/02/2024;17:00:00;23/02/2024;Foggia;FG;Giovedi;2024;Febbraio;94
+294;M;Foggia;FG;19/06/1969;Foggia;FG;25/02/2024;03:30:00;26/02/2024;Foggia;FG;Domenica;2024;Febbraio;54
+295;F;Foggia;FG;20/12/1938;Foggia;FG;25/02/2024;06:22:00;26/02/2024;Foggia;FG;Domenica;2024;Febbraio;85
+296;F;Biccari;FG;28/05/1939;Accadia;FG;16/02/2024;14:30:00;26/02/2024;Foggia;FG;Venerdi;2024;Febbraio;84
+297;F;Montaguto;AV;28/09/1933;Foggia;FG;23/02/2024;11:35:00;26/02/2024;Foggia;FG;Venerdi;2024;Febbraio;90
+298;M;Foggia;FG;17/01/1963;San Giovanni Rotondo;FG;20/02/2024;06:00:00;26/02/2024;Foggia;FG;Martedi;2024;Febbraio;61
+299;M;Foggia;FG;26/02/1957;Foggia;FG;23/02/2024;13:30:00;26/02/2024;Foggia;FG;Venerdi;2024;Febbraio;66
+300;M;Foggia;FG;04/01/1947;Foggia;FG;25/02/2024;01:35:00;26/02/2024;Foggia;FG;Domenica;2024;Febbraio;77
+301;F;San Marco In Lamis;FG;28/06/1937;Foggia;FG;23/02/2024;22:00:00;26/02/2024;Foggia;FG;Venerdi;2024;Febbraio;86
+302;F;Foggia;FG;14/08/1943;Foggia;FG;23/02/2024;10:25:00;26/02/2024;Foggia;FG;Venerdi;2024;Febbraio;80
+303;M;Foggia;FG;21/02/1967;Foggia;FG;23/02/2024;00:50:00;26/02/2024;Foggia;FG;Venerdi;2024;Febbraio;57
+304;F;Castelluccio Dei Sauri;FG;19/09/1939;Foggia;FG;24/02/2024;08:40:00;26/02/2024;Foggia;FG;Sabato;2024;Febbraio;84
+305;M;Foggia;FG;07/06/1954;Foggia;FG;24/02/2024;03:15:00;26/02/2024;Foggia;FG;Sabato;2024;Febbraio;69
+306;M;Foggia;FG;16/09/1966;Chieti;CH;22/02/2024;22:38:00;26/02/2024;Foggia;FG;Giovedi;2024;Febbraio;57
+307;M;Foggia;FG;14/01/1948;San Giovanni Rotondo;FG;16/02/2024;12:15:00;26/02/2024;Foggia;FG;Venerdi;2024;Febbraio;76
+308;M;San Marco In Lamis;FG;26/10/1958;Foggia;FG;26/02/2024;16:00:00;27/02/2024;Foggia;FG;Lunedi;2024;Febbraio;65
+309;F;Manfredonia;FG;02/08/1934;San Giovanni Rotondo;FG;21/02/2024;20:00:00;27/02/2024;Foggia;FG;Mercoledi;2024;Febbraio;89
+310;F;Lucera;FG;14/06/1930;Lucera;FG;22/02/2024;18:38:00;27/02/2024;Foggia;FG;Giovedi;2024;Febbraio;93
+311;F;Foggia;FG;14/10/1933;Foggia;FG;26/02/2024;06:30:00;27/02/2024;Foggia;FG;Lunedi;2024;Febbraio;90
+312;F;Foggia;FG;23/10/1955;Foggia;FG;26/02/2024;10:15:00;27/02/2024;Foggia;FG;Lunedi;2024;Febbraio;68
+313;M;Alberona;FG;12/05/1947;Foggia;FG;26/02/2024;04:00:00;27/02/2024;Foggia;FG;Lunedi;2024;Febbraio;76
+314;M;Foggia;FG;15/02/1948;Foggia;FG;26/02/2024;07:25:00;27/02/2024;Foggia;FG;Lunedi;2024;Febbraio;76
+315;M;Troia;FG;25/03/1933;Foggia;FG;27/02/2024;01:45:00;28/02/2024;Foggia;FG;Martedi;2024;Febbraio;90
+316;M;Candela;FG;10/05/1950;Foggia;FG;27/02/2024;14:10:00;28/02/2024;Foggia;FG;Martedi;2024;Febbraio;73
+317;M;Bari;BA;24/07/1947;Foggia;FG;27/02/2024;08:15:00;28/02/2024;Foggia;FG;Martedi;2024;Febbraio;76
+318;F;Foggia;FG;07/09/1930;Foggia;FG;27/02/2024;12:00:00;28/02/2024;Foggia;FG;Martedi;2024;Febbraio;93
+319;M;Mirabella Eclano;AV;02/11/1960;Foggia;FG;28/02/2024;12:25:00;29/02/2024;Foggia;FG;Mercoledi;2024;Febbraio;63
+320;M;Foggia;FG;13/08/1937;Foggia;FG;28/02/2024;05:00:00;29/02/2024;Foggia;FG;Mercoledi;2024;Febbraio;86
+321;F;Foggia;FG;11/01/1948;Foggia;FG;01/03/2024;10:10:00;02/03/2024;Foggia;FG;Venerdi;2024;Marzo;76
+322;M;Foggia;FG;31/03/1940;Foggia;FG;01/03/2024;08:40:00;02/03/2024;Foggia;FG;Venerdi;2024;Marzo;83
+323;F;Foggia;FG;10/03/1968;Foggia;FG;01/03/2024;04:20:00;02/03/2024;Foggia;FG;Venerdi;2024;Marzo;55
+324;M;Monte Sant'Angelo;FG;19/10/1936;Foggia;FG;03/03/2024;10:10:00;04/03/2024;Foggia;FG;Domenica;2024;Marzo;87
+325;F;Foggia;FG;01/02/1935;Foggia;FG;02/03/2024;22:09:00;04/03/2024;Foggia;FG;Sabato;2024;Marzo;89
+326;F;Foggia;FG;03/06/1943;Foggia;FG;02/03/2024;18:30:00;04/03/2024;Foggia;FG;Sabato;2024;Marzo;80
+327;F;Foggia;FG;20/08/1936;Foggia;FG;03/03/2024;18:20:00;04/03/2024;Foggia;FG;Domenica;2024;Marzo;87
+328;M;Roma;RM;06/04/1931;Foggia;FG;03/03/2024;02:20:00;04/03/2024;Foggia;FG;Domenica;2024;Marzo;92
+329;F;Foggia;FG;06/01/1933;Foggia;FG;02/03/2024;02:14:00;04/03/2024;Foggia;FG;Sabato;2024;Marzo;91
+330;M;Monte Sant'Angelo;FG;11/11/1935;Foggia;FG;04/03/2024;18:22:00;05/03/2024;Foggia;FG;Lunedi;2024;Marzo;88
+331;M;Rocchetta Sant'Antonio;AV;15/09/1929;Foggia;FG;04/03/2024;00:52:00;05/03/2024;Foggia;FG;Lunedi;2024;Marzo;94
+332;F;Vieste;FG;10/07/1930;Foggia;FG;04/03/2024;06:00:00;05/03/2024;Foggia;FG;Lunedi;2024;Marzo;93
+333;M;Biccari;FG;28/01/1938;San Giovanni Rotondo;FG;02/03/2024;07:40:00;06/03/2024;Foggia;FG;Sabato;2024;Marzo;86
+334;F;Scanno;AQ;11/01/1932;Foggia;FG;05/03/2024;00:17:00;06/03/2024;Foggia;FG;Martedi;2024;Marzo;92
+335;M;Foggia;FG;13/09/1960;Foggia;FG;05/03/2024;09:14:00;06/03/2024;Foggia;FG;Martedi;2024;Marzo;63
+336;M;Manfredonia;FG;12/02/1937;Foggia;FG;06/03/2024;09:05:00;07/03/2024;Foggia;FG;Mercoledi;2024;Marzo;87
+337;F;Melito Irpino;AV;11/07/1949;Foggia;FG;06/03/2024;08:10:00;07/03/2024;Foggia;FG;Mercoledi;2024;Marzo;74
+338;M;Torremaggiore;FG;25/02/1930;Foggia;FG;06/03/2024;06:00:00;07/03/2024;Foggia;FG;Mercoledi;2024;Marzo;94
+339;M;San Nicandro Garganico;FG;04/11/1937;Foggia;FG;06/03/2024;02:05:00;07/03/2024;Foggia;FG;Mercoledi;2024;Marzo;86
+340;M;Foggia;FG;15/01/1942;Foggia;FG;06/03/2024;08:00:00;07/03/2024;Foggia;FG;Mercoledi;2024;Marzo;82
+341;F;Foggia;FG;13/10/1932;Foggia;FG;07/03/2024;14:38:00;08/03/2024;Foggia;FG;Giovedi;2024;Marzo;91
+342;M;Foggia;FG;20/02/1943;Foggia;FG;07/03/2024;09:42:00;08/03/2024;Foggia;FG;Giovedi;2024;Marzo;81
+343;F;Deliceto;FG;08/11/1938;Foggia;FG;08/03/2024;18:00:00;09/03/2024;Foggia;FG;Venerdi;2024;Marzo;85
+344;M;Foggia;FG;04/09/1940;Foggia;FG;08/03/2024;15:10:00;09/03/2024;Foggia;FG;Venerdi;2024;Marzo;83
+345;F;Caivano;NA;06/12/1932;Foggia;FG;08/03/2024;05:50:00;09/03/2024;Foggia;FG;Venerdi;2024;Marzo;91
+346;F;Barile;PZ;02/01/1930;Foggia;FG;08/03/2024;01:18:00;09/03/2024;Foggia;FG;Venerdi;2024;Marzo;94
+347;F;Foggia;FG;19/01/1973;Foggia;FG;08/03/2024;06:00:00;09/03/2024;Foggia;FG;Venerdi;2024;Marzo;51
+348;M;Castelnuovo Della Daunia;FG;19/01/1941;Foggia;FG;09/03/2024;20:10:00;11/03/2024;Foggia;FG;Sabato;2024;Marzo;83
+349;M;Foggia;FG;01/01/1962;Foggia;FG;11/03/2024;12:30:00;12/03/2024;Foggia;FG;Lunedi;2024;Marzo;62
+350;M;Foggia;FG;24/07/1976;Foggia;FG;10/03/2024;04:30:00;12/03/2024;Foggia;FG;Domenica;2024;Marzo;47
+351;M;Foggia;FG;21/07/1963;Foggia;FG;11/03/2024;17:15:00;12/03/2024;Foggia;FG;Lunedi;2024;Marzo;60
+352;M;San Severo;FG;12/02/1948;Foggia;FG;11/03/2024;12:17:00;12/03/2024;Foggia;FG;Lunedi;2024;Marzo;76
+353;F;Foggia;FG;26/03/1938;Foggia;FG;11/03/2024;10:20:00;12/03/2024;Foggia;FG;Lunedi;2024;Marzo;85
+354;F;Foggia;FG;16/05/1934;Foggia;FG;11/03/2024;02:27:00;12/03/2024;Foggia;FG;Lunedi;2024;Marzo;89
+355;F;Foggia;FG;05/02/1948;Milano;MI;04/03/2024;09:28:00;13/03/2024;Foggia;FG;Lunedi;2024;Marzo;76
+356;F;Foggia;FG;29/09/1939;Foggia;FG;11/03/2024;21:50:00;13/03/2024;Foggia;FG;Lunedi;2024;Marzo;84
+357;F;Foggia;FG;22/04/1939;Foggia;FG;12/03/2024;09:30:00;13/03/2024;Foggia;FG;Martedi;2024;Marzo;84
+358;F;Manfredonia;FG;24/10/1932;Foggia;FG;12/03/2024;06:50:00;13/03/2024;Foggia;FG;Martedi;2024;Marzo;91
+359;M;Portici;NA;11/11/1937;Foggia;FG;12/03/2024;12:00:00;13/03/2024;Foggia;FG;Martedi;2024;Marzo;86
+360;M;Torino;TO;07/05/1956;Foggia;FG;13/03/2024;17:00:00;14/03/2024;Foggia;FG;Mercoledi;2024;Marzo;67
+361;F;Foggia;FG;18/03/1937;Foggia;FG;13/03/2024;20:00:00;14/03/2024;Foggia;FG;Mercoledi;2024;Marzo;86
+362;F;Foggia;FG;17/07/1959;Foggia;FG;13/03/2024;15:48:00;14/03/2024;Foggia;FG;Mercoledi;2024;Marzo;64
+363;F;Foggia;FG;23/08/1975;Foggia;FG;14/03/2024;15:00:00;15/03/2024;Foggia;FG;Giovedi;2024;Marzo;48
+364;M;Foggia;FG;05/01/1941;Foggia;FG;14/03/2024;15:45:00;15/03/2024;Foggia;FG;Giovedi;2024;Marzo;83
+365;F;Foggia;FG;09/10/1924;Grosseto;GR;11/03/2024;08:30:00;15/03/2024;Foggia;FG;Lunedi;2024;Marzo;99
+366;F;Foggia;FG;04/05/1948;Foggia;FG;13/03/2024;22:40:00;15/03/2024;Foggia;FG;Mercoledi;2024;Marzo;75
+367;M;Foggia;FG;13/02/1980;Foggia;FG;03/03/2024;04:30:00;16/03/2024;Foggia;FG;Domenica;2024;Marzo;44
+368;M;Foggia;FG;13/02/1946;Foggia;FG;15/03/2024;15:00:00;16/03/2024;Foggia;FG;Venerdi;2024;Marzo;78
+369;M;Foggia;FG;15/01/1948;Foggia;FG;15/03/2024;00:05:00;16/03/2024;Foggia;FG;Venerdi;2024;Marzo;76
+370;M;Foggia;FG;02/07/1964;Foggia;FG;16/03/2024;19:30:00;18/03/2024;Foggia;FG;Sabato;2024;Marzo;59
+371;F;Orsara Di Puglia;FG;30/10/1934;Foggia;FG;17/03/2024;00:47:00;18/03/2024;Foggia;FG;Domenica;2024;Marzo;89
+372;F;Foggia;FG;21/04/1931;Foggia;FG;16/03/2024;16:20:00;18/03/2024;Foggia;FG;Sabato;2024;Marzo;92
+373;F;Foggia;FG;03/03/1939;Foggia;FG;15/03/2024;21:30:00;18/03/2024;Foggia;FG;Venerdi;2024;Marzo;85
+374;M;Vico Del Gargano;FG;26/02/1936;Foggia;FG;16/03/2024;14:10:00;18/03/2024;Foggia;FG;Sabato;2024;Marzo;88
+375;M;Foggia;FG;02/01/1931;Foggia;FG;17/03/2024;12:44:00;18/03/2024;Foggia;FG;Domenica;2024;Marzo;93
+376;F;San Giovanni Rotondo;FG;14/01/1934;Foggia;FG;18/03/2024;05:30:00;19/03/2024;Foggia;FG;Lunedi;2024;Marzo;90
+377;M;Foggia;FG;21/10/1948;Foggia;FG;17/03/2024;20:10:00;19/03/2024;Foggia;FG;Domenica;2024;Marzo;75
+378;M;Monte Sant'Angelo;FG;22/01/1952;Foggia;FG;18/03/2024;02:31:00;19/03/2024;Foggia;FG;Lunedi;2024;Marzo;72
+379;F;San Marco In Lamis;FG;15/05/1940;Foggia;FG;18/03/2024;07:31:00;19/03/2024;Foggia;FG;Lunedi;2024;Marzo;83
+380;F;Manfredonia;FG;01/03/1939;Foggia;FG;18/03/2024;17:20:00;19/03/2024;Foggia;FG;Lunedi;2024;Marzo;85
+381;F;Foggia;FG;21/05/1954;Foggia;FG;17/03/2024;03:56:00;19/03/2024;Foggia;FG;Domenica;2024;Marzo;69
+382;M;Foggia;FG;08/06/1943;Foggia;FG;18/03/2024;11:34:00;19/03/2024;Foggia;FG;Lunedi;2024;Marzo;80
+383;M;Bari;BA;20/10/1932;Foggia;FG;19/03/2024;08:00:00;20/03/2024;Foggia;FG;Martedi;2024;Marzo;91
+384;F;Foggia;FG;14/10/1953;Lucera;FG;17/03/2024;21:53:00;20/03/2024;Foggia;FG;Domenica;2024;Marzo;70
+385;M;Cagnano Varano;FG;13/01/1952;Foggia;FG;19/03/2024;08:00:00;20/03/2024;Foggia;FG;Martedi;2024;Marzo;72
+386;M;Foggia;FG;07/05/1960;Foggia;FG;19/03/2024;15:10:00;20/03/2024;Foggia;FG;Martedi;2024;Marzo;63
+387;F;Foggia;FG;09/02/1963;Foggia;FG;19/03/2024;03:13:00;20/03/2024;Foggia;FG;Martedi;2024;Marzo;61
+388;F;Apricena;FG;14/05/1936;Foggia;FG;20/03/2024;13:27:00;21/03/2024;Foggia;FG;Mercoledi;2024;Marzo;87
+389;F;Lucera;FG;04/12/1932;Foggia;FG;20/03/2024;10:45:00;21/03/2024;Foggia;FG;Mercoledi;2024;Marzo;91
+390;M;Sant'Agata Di Puglia;FG;09/02/1943;Foggia;FG;21/03/2024;17:40:00;23/03/2024;Foggia;FG;Giovedi;2024;Marzo;81
+391;M;San Marco In Lamis;FG;21/08/1936;Foggia;FG;21/03/2024;16:10:00;23/03/2024;Foggia;FG;Giovedi;2024;Marzo;87
+392;M;Monte Sant'Angelo;FG;09/01/1946;Foggia;FG;21/03/2024;03:05:00;23/03/2024;Foggia;FG;Giovedi;2024;Marzo;78
+393;F;Foggia;FG;03/05/1945;Foggia;FG;22/03/2024;05:10:00;23/03/2024;Foggia;FG;Venerdi;2024;Marzo;78
+394;M;Castelluccio Valmaggiore;FG;20/04/1935;Foggia;FG;22/03/2024;14:00:00;23/03/2024;Foggia;FG;Venerdi;2024;Marzo;88
+395;F;Foggia;FG;25/08/1929;Foggia;FG;22/03/2024;05:00:00;23/03/2024;Foggia;FG;Venerdi;2024;Marzo;94
+396;F;Foggia;FG;31/08/1948;Foggia;FG;24/03/2024;00:40:00;25/03/2024;Foggia;FG;Domenica;2024;Marzo;75
+397;M;Foggia;FG;03/02/1931;Foggia;FG;23/03/2024;05:25:00;25/03/2024;Foggia;FG;Sabato;2024;Marzo;93
+398;M;Foggia;FG;27/02/1931;Lucera;FG;24/03/2024;00:38:00;25/03/2024;Foggia;FG;Domenica;2024;Marzo;93
+399;M;Castelnuovo Della Daunia;FG;05/02/1946;San Giovanni Rotondo;FG;21/03/2024;13:00:00;25/03/2024;Foggia;FG;Giovedi;2024;Marzo;78
+400;F;Monte Sant'Angelo;FG;30/12/1929;Foggia;FG;24/03/2024;21:05:00;25/03/2024;Foggia;FG;Domenica;2024;Marzo;94
+401;M;Foggia;FG;25/10/2000;Foggia;FG;23/03/2024;19:00:00;25/03/2024;Foggia;FG;Sabato;2024;Marzo;23
+402;M;Foggia;FG;14/01/1951;Bari;BA;15/03/2024;12:05:00;25/03/2024;Foggia;FG;Venerdi;2024;Marzo;73
+403;F;Foggia;FG;27/01/1945;Foggia;FG;24/03/2024;17:05:00;25/03/2024;Foggia;FG;Domenica;2024;Marzo;79
+404;F;Foggia;FG;29/09/1933;Foggia;FG;23/03/2024;12:24:00;25/03/2024;Foggia;FG;Sabato;2024;Marzo;90
+405;M;Foggia;FG;17/10/1969;Foggia;FG;24/03/2024;05:05:00;25/03/2024;Foggia;FG;Domenica;2024;Marzo;54
+406;M;Avigliano;PZ;30/01/1947;Avigliano;PZ;23/03/2024;12:50:00;25/03/2024;Foggia;FG;Sabato;2024;Marzo;77
+407;F;San Giovanni Rotondo;FG;18/01/1922;Foggia;FG;24/03/2024;11:00:00;25/03/2024;Foggia;FG;Domenica;2024;Marzo;102
+408;M;Monte Sant'Angelo;FG;21/09/1945;Foggia;FG;25/03/2024;03:15:00;26/03/2024;Foggia;FG;Lunedi;2024;Marzo;78
+409;M;Foggia;FG;03/03/1956;Foggia;FG;26/03/2024;11:00:00;27/03/2024;Foggia;FG;Martedi;2024;Marzo;68
+410;M;Carpino;FG;24/12/1947;Foggia;FG;26/03/2024;04:20:00;27/03/2024;Foggia;FG;Martedi;2024;Marzo;76
+411;F;San Severo;FG;19/10/1916;Foggia;FG;26/03/2024;21:30:00;27/03/2024;Foggia;FG;Martedi;2024;Marzo;107
+412;M;Foggia;FG;11/04/1947;Foggia;FG;26/03/2024;13:30:00;27/03/2024;Foggia;FG;Martedi;2024;Marzo;76
+413;F;Foggia;FG;01/04/1952;Foggia;FG;26/03/2024;12:40:00;27/03/2024;Foggia;FG;Martedi;2024;Marzo;71
+414;M;Foggia;FG;28/05/1951;Foggia;FG;27/03/2024;18:00:00;28/03/2024;Foggia;FG;Mercoledi;2024;Marzo;72
+415;M;Foggia;FG;14/07/1950;Foggia;FG;26/03/2024;23:00:00;28/03/2024;Foggia;FG;Martedi;2024;Marzo;73
+416;M;Bovino;FG;02/01/1949;San Giovanni Rotondo;FG;26/03/2024;15:40:00;28/03/2024;Foggia;FG;Martedi;2024;Marzo;75
+417;F;Foggia;FG;12/09/1931;Foggia;FG;26/03/2024;21:22:00;28/03/2024;Foggia;FG;Martedi;2024;Marzo;92
+418;M;Serracapriola;FG;29/03/1936;Bovino;FG;27/03/2024;09:00:00;28/03/2024;Foggia;FG;Mercoledi;2024;Marzo;87
+419;M;Foggia;FG;18/09/1928;Foggia;FG;28/03/2024;21:17:00;29/03/2024;Foggia;FG;Giovedi;2024;Marzo;95
+420;F;San Ferdinando Di Puglia;FG;28/06/1930;Foggia;FG;27/03/2024;23:00:00;29/03/2024;Foggia;FG;Mercoledi;2024;Marzo;93
+421;M;Foggia;FG;15/02/1968;Foggia;FG;28/03/2024;04:00:00;29/03/2024;Foggia;FG;Giovedi;2024;Marzo;56
+422;F;Foggia;FG;22/10/1937;Foggia;FG;29/03/2024;10:20:00;30/03/2024;Foggia;FG;Venerdi;2024;Marzo;86
+423;M;Foggia;FG;22/07/1968;Foggia;FG;31/03/2024;07:15:00;01/04/2024;Foggia;FG;Domenica;2024;Marzo;55
+424;M;Foggia;FG;16/09/2014;Foggia;FG;31/03/2024;16:20:00;01/04/2024;Foggia;FG;Domenica;2024;Marzo;9
+425;M;Bra;CN;23/01/1936;Foggia;FG;31/03/2024;19:45:00;01/04/2024;Foggia;FG;Domenica;2024;Marzo;88
+426;F;San Nicandro Garganico;FG;09/11/1936;Foggia;FG;31/03/2024;02:20:00;01/04/2024;Foggia;FG;Domenica;2024;Marzo;87
+427;F;Rutigliano;BA;23/10/1928;Foggia;FG;30/03/2024;11:17:00;01/04/2024;Foggia;FG;Sabato;2024;Marzo;95
+428;M;Foggia;FG;19/09/1931;Foggia;FG;31/03/2024;15:00:00;01/04/2024;Foggia;FG;Domenica;2024;Marzo;92
+429;M;Foggia;FG;19/11/1941;Foggia;FG;01/04/2024;03:19:00;02/04/2024;Foggia;FG;Lunedi;2024;Aprile;82
+430;M;San Severo;FG;18/05/1956;Foggia;FG;01/04/2024;13:05:00;02/04/2024;Foggia;FG;Lunedi;2024;Aprile;67
+431;M;Canosa Di Puglia;BA;06/01/1928;Foggia;FG;02/04/2024;03:30:00;03/04/2024;Foggia;FG;Martedi;2024;Aprile;96
+432;M;Foggia;FG;30/08/1932;Foggia;FG;02/04/2024;07:30:00;03/04/2024;Foggia;FG;Martedi;2024;Aprile;91
+433;M;San Nicandro Garganico;FG;26/05/1959;Foggia;FG;02/04/2024;05:15:00;03/04/2024;Foggia;FG;Martedi;2024;Aprile;64
+434;M;Foggia;FG;21/08/1939;Lucera;FG;29/03/2024;06:15:00;04/04/2024;Foggia;FG;Venerdi;2024;Marzo;84
+435;M;Foggia;FG;10/06/1958;Foggia;FG;02/04/2024;21:30:00;04/04/2024;Foggia;FG;Martedi;2024;Aprile;65
+436;M;Foggia;FG;29/08/1961;Vieste;FG;31/03/2024;12:30:00;04/04/2024;Foggia;FG;Domenica;2024;Marzo;62
+437;M;Castelluccio Valmaggiore;FG;19/10/1943;Foggia;FG;03/04/2024;17:30:00;04/04/2024;Foggia;FG;Mercoledi;2024;Aprile;80
+438;F;San Marco Dei Cavoti;BN;30/05/1930;San Giovanni Rotondo;FG;31/03/2024;04:00:00;04/04/2024;Foggia;FG;Domenica;2024;Marzo;93
+439;F;Pietramontecorvino;F G;08/09/1945;Foggia;FG;03/04/2024;09:34:00;04/04/2024;Foggia;FG;Mercoledi;2024;Aprile;78
+440;F;Foggia;FG;14/05/1926;Foggia;FG;03/04/2024;20:30:00;05/04/2024;Foggia;FG;Mercoledi;2024;Aprile;97
+441;F;Foggia;FG;06/08/1955;Foggia;FG;04/04/2024;00:45:00;05/04/2024;Foggia;FG;Giovedi;2024;Aprile;68
+442;M;Foggia;FG;27/08/1980;San Giovanni Rotondo;FG;29/03/2024;12:45:00;05/04/2024;Foggia;FG;Venerdi;2024;Marzo;43
+443;F;Sant'Agata Di Puglia;FG;11/03/1932;Foggia;FG;04/04/2024;17:08:00;05/04/2024;Foggia;FG;Giovedi;2024;Aprile;92
+444;F;Benin City;;01/01/1960;Foggia;FG;15/03/2024;15:30:00;05/04/2024;Foggia;FG;Venerdi;2024;Marzo;64
+445;F;Foggia;FG;02/12/1936;Foggia;FG;05/04/2024;17:30:00;06/04/2024;Foggia;FG;Venerdi;2024;Aprile;87
+446;M;Foggia;FG;20/01/1950;Foggia;FG;04/04/2024;21:41:00;06/04/2024;Foggia;FG;Giovedi;2024;Aprile;74
+447;M;Foggia;FG;01/11/1960;Foggia;FG;05/04/2024;11:15:00;06/04/2024;Foggia;FG;Venerdi;2024;Aprile;63
+448;F;Candela;FG;08/05/1937;Foggia;FG;05/04/2024;12:45:00;06/04/2024;Foggia;FG;Venerdi;2024;Aprile;86
+449;F;Accadia;FG;28/01/1931;Foggia;FG;04/04/2024;12:45:00;06/04/2024;Foggia;FG;Giovedi;2024;Aprile;93
+450;M;Foggia;FG;11/01/1942;Foggia;FG;06/04/2024;10:40:00;08/04/2024;Foggia;FG;Sabato;2024;Aprile;82
+451;F;Termoli;CB;27/10/1939;Foggia;FG;06/04/2024;22:33:00;08/04/2024;Foggia;FG;Sabato;2024;Aprile;84
+452;F;Orsara Di Puglia;FG;10/05/1938;Foggia;FG;07/04/2024;15:15:00;08/04/2024;Foggia;FG;Domenica;2024;Aprile;85
+453;F;Foggia;FG;27/11/1938;Foggia;FG;06/04/2024;10:48:00;08/04/2024;Foggia;FG;Sabato;2024;Aprile;85
+454;F;Monte Sant'Angelo;FG;13/05/1925;Foggia;FG;06/04/2024;02:00:00;08/04/2024;Foggia;FG;Sabato;2024;Aprile;98
+455;F;Foggia;FG;15/06/1946;Foggia;FG;06/04/2024;09:00:00;08/04/2024;Foggia;FG;Sabato;2024;Aprile;77
+456;F;Foggia;FG;02/11/1941;Foggia;FG;07/04/2024;23:20:00;09/04/2024;Foggia;FG;Domenica;2024;Aprile;82
+457;M;Foggia;FG;23/01/1939;Foggia;FG;08/04/2024;06:30:00;09/04/2024;Foggia;FG;Lunedi;2024;Aprile;85
+458;F;Casalvecchio Di Puglia;FG;24/03/1946;San Giovanni Rotondo;FG;07/04/2024;06:00:00;09/04/2024;Foggia;FG;Domenica;2024;Aprile;78
+459;F;Foggia;FG;19/01/1937;Foggia;FG;08/04/2024;01:47:00;09/04/2024;Foggia;FG;Lunedi;2024;Aprile;87
+460;M;Canosa Di Puglia;BA;01/07/1935;Troia;FG;05/04/2024;21:15:00;09/04/2024;Foggia;FG;Venerdi;2024;Aprile;88
+461;F;Foggia;FG;29/03/1932;Foggia;FG;08/04/2024;12:30:00;09/04/2024;Foggia;FG;Lunedi;2024;Aprile;92
+462;F;Lucera;FG;28/02/1944;Foggia;FG;08/04/2024;09:00:00;09/04/2024;Foggia;FG;Lunedi;2024;Aprile;80
+463;F;Rodi Garganico;FG;08/04/1952;Foggia;FG;08/04/2024;00:35:00;09/04/2024;Foggia;FG;Lunedi;2024;Aprile;72
+464;M;Foggia;FG;07/10/1926;Foggia;FG;09/04/2024;15:00:00;10/04/2024;Foggia;FG;Martedi;2024;Aprile;97
+465;F;Sant'Agata Di Puglia;FG;11/11/1934;San Severo;FG;08/04/2024;05:00:00;10/04/2024;Foggia;FG;Lunedi;2024;Aprile;89
+466;M;Stornara;FG;23/06/1945;Foggia;FG;08/04/2024;16:48:00;10/04/2024;Foggia;FG;Lunedi;2024;Aprile;78
+467;M;Deliceto;FG;25/03/1952;Foggia;FG;08/04/2024;23:40:00;10/04/2024;Foggia;FG;Lunedi;2024;Aprile;72
+468;F;Casalnuovo Monterotaro;FG;19/12/1937;Varese;VA;04/04/2024;20:45:00;11/04/2024;Foggia;FG;Giovedi;2024;Aprile;86
+469;M;Lecco;CO;29/08/1957;Foggia;FG;10/04/2024;03:00:00;11/04/2024;Foggia;FG;Mercoledi;2024;Aprile;66
+470;M;Foggia;FG;29/05/1958;Foggia;FG;10/04/2024;14:00:00;11/04/2024;Foggia;FG;Mercoledi;2024;Aprile;65
+471;M;Bari;BA;19/10/1939;Foggia;FG;10/04/2024;05:10:00;11/04/2024;Foggia;FG;Mercoledi;2024;Aprile;84
+472;F;Foggia;FG;29/12/1959;Foggia;FG;09/04/2024;23:30:00;11/04/2024;Foggia;FG;Martedi;2024;Aprile;64
+473;M;Foggia;FG;14/12/1933;Foggia;FG;11/04/2024;03:20:00;12/04/2024;Foggia;FG;Giovedi;2024;Aprile;90
+474;M;Bovino;FG;03/01/1933;Foggia;FG;11/04/2024;10:00:00;12/04/2024;Foggia;FG;Giovedi;2024;Aprile;91
+475;F;Foggia;FG;06/03/1940;Foggia;FG;11/04/2024;22:11:00;13/04/2024;Foggia;FG;Giovedi;2024;Aprile;84
+476;F;Foggia;FG;10/12/1931;Foggia;FG;12/04/2024;01:00:00;13/04/2024;Foggia;FG;Venerdi;2024;Aprile;92
+477;F;Sant'Agata Di Puglia;FG;25/12/1940;Foggia;FG;12/04/2024;19:20:00;13/04/2024;Foggia;FG;Venerdi;2024;Aprile;83
+478;F;Foggia;FG;05/07/1945;Foggia;FG;12/04/2024;06:55:00;13/04/2024;Foggia;FG;Venerdi;2024;Aprile;78
+479;M;Taranto;TA;19/02/1959;Foggia;FG;13/04/2024;04:54:00;15/04/2024;Foggia;FG;Sabato;2024;Aprile;65
+480;M;Foggia;FG;18/05/1941;Foggia;FG;14/04/2024;17:28:00;15/04/2024;Foggia;FG;Domenica;2024;Aprile;82
+481;M;Foggia;FG;19/12/1931;Foggia;FG;13/04/2024;04:30:00;15/04/2024;Foggia;FG;Sabato;2024;Aprile;92
+482;F;Foggia;FG;19/08/1935;Foggia;FG;14/04/2024;08:30:00;15/04/2024;Foggia;FG;Domenica;2024;Aprile;88
+483;M;Torremaggiore;FG;29/01/1943;Foggia;FG;14/04/2024;16:00:00;15/04/2024;Foggia;FG;Domenica;2024;Aprile;81
+484;F;Torremaggiore;FG;16/06/1931;Foggia;FG;14/04/2024;18:00:00;15/04/2024;Foggia;FG;Domenica;2024;Aprile;92
+485;M;Casalvecchio Di Puglia;FG;21/12/1938;Foggia;FG;14/04/2024;18:00:00;15/04/2024;Foggia;FG;Domenica;2024;Aprile;85
+486;M;Castelluccio Valmaggiore;FG;31/01/1938;Foggia;FG;14/04/2024;13:01:00;15/04/2024;Foggia;FG;Domenica;2024;Aprile;86
+487;F;Foggia;FG;10/04/1963;Foggia;FG;15/04/2024;13:08:00;16/04/2024;Foggia;FG;Lunedi;2024;Aprile;61
+488;F;Foggia;FG;18/10/1931;Foggia;FG;14/04/2024;17:00:00;16/04/2024;Foggia;FG;Domenica;2024;Aprile;92
+489;F;Foggia;FG;22/11/1933;Foggia;FG;14/04/2024;23:35:00;16/04/2024;Foggia;FG;Domenica;2024;Aprile;90
+490;M;Foggia;FG;26/04/1941;Foggia;FG;14/04/2024;23:00:00;16/04/2024;Foggia;FG;Domenica;2024;Aprile;82
+491;F;Guardia Lombardi;AV;13/09/1938;Foggia;FG;16/04/2024;11:00:00;17/04/2024;Foggia;FG;Martedi;2024;Aprile;85
+492;M;Foggia;FG;10/04/1943;Foggia;FG;17/04/2024;20:52:00;18/04/2024;Foggia;FG;Mercoledi;2024;Aprile;81
+493;F;Foggia;FG;09/01/1953;Foggia;FG;17/04/2024;04:00:00;18/04/2024;Foggia;FG;Mercoledi;2024;Aprile;71
+494;M;Foggia;FG;13/06/1932;Foggia;FG;17/04/2024;14:20:00;18/04/2024;Foggia;FG;Mercoledi;2024;Aprile;91
+495;M;Foggia;FG;30/07/1948;Foggia;FG;17/04/2024;07:00:00;18/04/2024;Foggia;FG;Mercoledi;2024;Aprile;75
+496;F;Foggia;FG;28/08/1941;Foggia;FG;16/04/2024;21:35:00;18/04/2024;Foggia;FG;Martedi;2024;Aprile;82
+497;F;Foggia;FG;21/12/1935;Foggia;FG;17/04/2024;23:20:00;19/04/2024;Foggia;FG;Mercoledi;2024;Aprile;88
+498;F;Lucera;FG;25/01/1929;Foggia;FG;18/04/2024;03:45:00;19/04/2024;Foggia;FG;Giovedi;2024;Aprile;95
+499;M;Foggia;FG;01/01/1944;Foggia;FG;17/04/2024;21:41:00;19/04/2024;Foggia;FG;Mercoledi;2024;Aprile;80
+500;M;Foggia;FG;29/07/1939;Foggia;FG;19/04/2024;05:28:00;20/04/2024;Foggia;FG;Venerdi;2024;Aprile;84
+501;F;Foggia;FG;09/10/1928;Foggia;FG;19/04/2024;19:30:00;20/04/2024;Foggia;FG;Venerdi;2024;Aprile;95
+502;M;Foggia;FG;05/07/1934;Foggia;FG;11/04/2024;21:30:00;22/04/2024;Foggia;FG;Giovedi;2024;Aprile;89
+503;M;Foggia;FG;14/09/1935;Foggia;FG;20/04/2024;03:50:00;22/04/2024;Foggia;FG;Sabato;2024;Aprile;88
+504;F;Foggia;FG;09/05/1945;Foggia;FG;21/04/2024;00:32:00;22/04/2024;Foggia;FG;Domenica;2024;Aprile;78
+505;M;Foggia;FG;25/07/1943;Foggia;FG;20/04/2024;13:15:00;22/04/2024;Foggia;FG;Sabato;2024;Aprile;80
+506;M;Torre Del Greco;NA;19/03/1944;Foggia;FG;19/04/2024;23:55:00;22/04/2024;Foggia;FG;Venerdi;2024;Aprile;80
+507;F;Foggia;FG;23/06/1937;Foggia;FG;21/04/2024;18:04:00;22/04/2024;Foggia;FG;Domenica;2024;Aprile;86
+508;F;Foggia;FG;26/03/1947;Morlupo;RM;17/04/2024;18:00:00;22/04/2024;Foggia;FG;Mercoledi;2024;Aprile;77
+509;F;Tripoli;;27/02/1935;Foggia;FG;19/04/2024;21:22:00;22/04/2024;Foggia;FG;Venerdi;2024;Aprile;89
+510;F;Torremaggiore;FG;02/07/1965;Foggia;FG;20/04/2024;03:10:00;22/04/2024;Foggia;FG;Sabato;2024;Aprile;58
+511;F;Foggia;FG;11/10/1949;Foggia;FG;21/04/2024;07:33:00;22/04/2024;Foggia;FG;Domenica;2024;Aprile;74
+512;M;Foggia;FG;25/11/1939;San Giovanni Rotondo;FG;19/04/2024;13:00:00;23/04/2024;Foggia;FG;Venerdi;2024;Aprile;84
+513;M;Foggia;FG;24/09/1936;Lucera;FG;19/04/2024;22:13:00;23/04/2024;Foggia;FG;Venerdi;2024;Aprile;87
+514;F;Stornara;FG;26/05/1934;Foggia;FG;22/04/2024;18:00:00;23/04/2024;Foggia;FG;Lunedi;2024;Aprile;89
+515;M;Foggia;FG;07/05/1953;Foggia;FG;21/04/2024;23:45:00;23/04/2024;Foggia;FG;Domenica;2024;Aprile;70
+516;M;Foggia;FG;02/01/1936;Foggia;FG;23/04/2024;11:45:00;24/04/2024;Foggia;FG;Martedi;2024;Aprile;88
+517;M;Foggia;FG;03/11/1947;Foggia;FG;23/04/2024;11:25:00;24/04/2024;Foggia;FG;Martedi;2024;Aprile;76
+518;M;Foggia;FG;26/11/1940;Foggia;FG;23/04/2024;14:30:00;24/04/2024;Foggia;FG;Martedi;2024;Aprile;83
+519;F;Foggia;FG;20/01/1923;Foggia;FG;23/04/2024;01:35:00;24/04/2024;Foggia;FG;Martedi;2024;Aprile;101
+520;M;Foggia;FG;29/09/1944;Foggia;FG;23/04/2024;15:35:00;24/04/2024;Foggia;FG;Martedi;2024;Aprile;79
+521;F;Sant'Agata Di Puglia;FG;24/01/1934;Foggia;FG;23/04/2024;10:30:00;24/04/2024;Foggia;FG;Martedi;2024;Aprile;90
+522;F;Ferrara;FE;29/04/1936;Foggia;FG;23/04/2024;13:00:00;24/04/2024;Foggia;FG;Martedi;2024;Aprile;87
+523;F;Cautano;BN;30/04/1932;Foggia;FG;25/04/2024;14:30:00;26/04/2024;Foggia;FG;Giovedi;2024;Aprile;91
+524;F;Foggia;FG;19/02/1944;Foggia;FG;23/04/2024;23:00:00;26/04/2024;Foggia;FG;Martedi;2024;Aprile;80
+525;F;San Marco In Lamis;FG;31/08/1955;Foggia;FG;25/04/2024;10:00:00;26/04/2024;Foggia;FG;Giovedi;2024;Aprile;68
+526;F;Foggia;FG;08/06/1934;Foggia;FG;25/04/2024;08:58:00;26/04/2024;Foggia;FG;Giovedi;2024;Aprile;89
+527;M;Foggia;FG;24/04/1943;Foggia;FG;18/04/2024;05:45:00;26/04/2024;Foggia;FG;Giovedi;2024;Aprile;80
+528;M;Foggia;FG;04/01/1965;Foggia;FG;25/04/2024;12:30:00;26/04/2024;Foggia;FG;Giovedi;2024;Aprile;59
+529;M;Foggia;FG;26/05/1933;Foggia;FG;26/04/2024;01:20:00;27/04/2024;Foggia;FG;Venerdi;2024;Aprile;90
+530;F;Foggia;FG;25/04/1959;Foggia;FG;26/04/2024;11:00:00;27/04/2024;Foggia;FG;Venerdi;2024;Aprile;65
+531;F;Foggia;FG;04/06/1938;Foggia;FG;27/04/2024;05:41:00;29/04/2024;Foggia;FG;Sabato;2024;Aprile;85
+532;F;Foggia;FG;01/04/1948;Foggia;FG;27/04/2024;07:00:00;29/04/2024;Foggia;FG;Sabato;2024;Aprile;76
+533;M;Foggia;FG;30/03/1947;Foggia;FG;28/04/2024;19:00:00;29/04/2024;Foggia;FG;Domenica;2024;Aprile;77
+534;F;Foggia;FG;29/01/1946;Foggia;FG;28/04/2024;08:00:00;29/04/2024;Foggia;FG;Domenica;2024;Aprile;78
+535;F;Anzano Di Puglia;FG;17/02/1940;Foggia;FG;28/04/2024;18:35:00;29/04/2024;Foggia;FG;Domenica;2024;Aprile;84
+536;M;Foggia;FG;01/05/1952;Foggia;FG;26/04/2024;20:30:00;29/04/2024;Foggia;FG;Venerdi;2024;Aprile;71
+537;F;Lucera;FG;15/01/1937;Foggia;FG;27/04/2024;11:15:00;29/04/2024;Foggia;FG;Sabato;2024;Aprile;87
+538;F;Santeramo In Colle;BA;17/01/1940;Foggia;FG;29/04/2024;11:30:00;30/04/2024;Foggia;FG;Lunedi;2024;Aprile;84
+539;F;Pietramontecorvino;F G;27/05/1927;Foggia;FG;29/04/2024;17:05:00;30/04/2024;Foggia;FG;Lunedi;2024;Aprile;96
+540;F;Foggia;FG;15/01/1932;Foggia;FG;29/04/2024;13:48:00;30/04/2024;Foggia;FG;Lunedi;2024;Aprile;92
+541;F;Guardia Lombardi;AV;03/06/1936;Foggia;FG;29/04/2024;06:08:00;30/04/2024;Foggia;FG;Lunedi;2024;Aprile;87
+542;M;Foggia;FG;02/02/1969;Foggia;FG;29/04/2024;09:30:00;30/04/2024;Foggia;FG;Lunedi;2024;Aprile;55
+543;M;Foggia;FG;30/11/1940;Foggia;FG;29/04/2024;18:38:00;30/04/2024;Foggia;FG;Lunedi;2024;Aprile;83
+544;M;Apice;BN;03/10/1938;Foggia;FG;29/04/2024;21:30:00;02/05/2024;Foggia;FG;Lunedi;2024;Aprile;85
+545;M;Bisaccia;AV;07/01/1934;Foggia;FG;30/04/2024;10:38:00;02/05/2024;Foggia;FG;Martedi;2024;Aprile;90
+546;F;Lucera;FG;24/02/1934;Foggia;FG;01/05/2024;19:40:00;02/05/2024;Foggia;FG;Mercoledi;2024;Maggio;90
+547;M;Cagnano Varano;FG;09/10/1963;Foggia;FG;30/04/2024;19:50:00;02/05/2024;Foggia;FG;Martedi;2024;Aprile;60
+548;F;Foggia;FG;12/11/1929;Foggia;FG;30/04/2024;12:30:00;02/05/2024;Foggia;FG;Martedi;2024;Aprile;94
+549;M;Foggia;FG;12/10/1954;Foggia;FG;02/05/2024;12:50:00;03/05/2024;Foggia;FG;Giovedi;2024;Maggio;69
+550;M;San Marco La Catola;FG;10/12/1943;San Giovanni Rotondo;FG;27/04/2024;12:10:00;03/05/2024;Foggia;FG;Sabato;2024;Aprile;80
+551;F;Foggia;FG;03/01/1949;Foggia;FG;02/05/2024;06:50:00;03/05/2024;Foggia;FG;Giovedi;2024;Maggio;75
+552;M;Foggia;FG;30/11/1939;Foggia;FG;02/05/2024;10:30:00;03/05/2024;Foggia;FG;Giovedi;2024;Maggio;84
+553;M;Foggia;FG;16/03/1957;Foggia;FG;03/05/2024;00:30:00;04/05/2024;Foggia;FG;Venerdi;2024;Maggio;67
+554;F;Casalduni;BN;21/09/1924;Foggia;FG;02/05/2024;18:00:00;04/05/2024;Foggia;FG;Giovedi;2024;Maggio;99
+555;M;Foggia;FG;07/01/1940;Foggia;FG;03/05/2024;04:30:00;04/05/2024;Foggia;FG;Venerdi;2024;Maggio;84
+556;F;Foggia;FG;05/09/1944;Foggia;FG;03/05/2024;18:00:00;04/05/2024;Foggia;FG;Venerdi;2024;Maggio;79
+557;F;Foggia;FG;02/11/1970;Foggia;FG;05/05/2024;17:35:00;06/05/2024;Foggia;FG;Domenica;2024;Maggio;53
+558;M;Foggia;FG;26/05/1948;Foggia;FG;05/05/2024;12:00:00;06/05/2024;Foggia;FG;Domenica;2024;Maggio;75
+559;M;Teramo;TE;18/05/1935;Foggia;FG;05/05/2024;12:03:00;06/05/2024;Foggia;FG;Domenica;2024;Maggio;88
+560;M;Foggia;FG;21/02/1931;Foggia;FG;02/05/2024;22:30:00;06/05/2024;Foggia;FG;Giovedi;2024;Maggio;93
+561;M;Napoli;NA;11/11/1940;Foggia;FG;03/05/2024;22:25:00;06/05/2024;Foggia;FG;Venerdi;2024;Maggio;83
+562;F;Orta Nova;FG;19/07/1926;Foggia;FG;05/05/2024;20:00:00;06/05/2024;Foggia;FG;Domenica;2024;Maggio;97
+563;M;Foggia;FG;29/10/1934;Foggia;FG;04/05/2024;15:32:00;06/05/2024;Foggia;FG;Sabato;2024;Maggio;89
+564;M;Foggia;FG;29/10/1938;Foggia;FG;05/05/2024;22:05:00;07/05/2024;Foggia;FG;Domenica;2024;Maggio;85
+565;F;Troia;FG;10/09/1933;Foggia;FG;06/05/2024;09:05:00;07/05/2024;Foggia;FG;Lunedi;2024;Maggio;90
+566;M;Foggia;FG;02/01/1938;Foggia;FG;06/05/2024;18:55:00;07/05/2024;Foggia;FG;Lunedi;2024;Maggio;86
+567;M;Candela;FG;19/08/1952;Foggia;FG;06/05/2024;12:40:00;07/05/2024;Foggia;FG;Lunedi;2024;Maggio;71
+568;M;Foggia;FG;04/09/1955;Foggia;FG;05/05/2024;22:50:00;07/05/2024;Foggia;FG;Domenica;2024;Maggio;68
+569;M;Orsara Di Puglia;FG;11/03/1958;Monteleone Di Puglia;FG;05/05/2024;14:40:00;08/05/2024;Foggia;FG;Domenica;2024;Maggio;66
+570;M;Foggia;FG;01/01/1949;Foggia;FG;07/05/2024;04:15:00;08/05/2024;Foggia;FG;Martedi;2024;Maggio;75
+571;F;Avigliano;PZ;26/04/1933;Lucera;FG;02/05/2024;05:35:00;08/05/2024;Foggia;FG;Giovedi;2024;Maggio;91
+572;F;Foggia;FG;12/03/1928;Foggia;FG;07/05/2024;08:15:00;08/05/2024;Foggia;FG;Martedi;2024;Maggio;96
+573;M;Sant'Agata Di Puglia;FG;18/10/1940;Lucera;FG;07/05/2024;08:05:00;09/05/2024;Foggia;FG;Martedi;2024;Maggio;83
+574;M;Foggia;FG;07/06/1935;Foggia;FG;08/05/2024;00:30:00;09/05/2024;Foggia;FG;Mercoledi;2024;Maggio;88
+575;F;Foggia;FG;21/10/1922;Foggia;FG;08/05/2024;03:00:00;09/05/2024;Foggia;FG;Mercoledi;2024;Maggio;101
+576;F;Ordona;FG;07/02/1930;Foggia;FG;08/05/2024;17:00:00;09/05/2024;Foggia;FG;Mercoledi;2024;Maggio;94
+577;M;Contursi;SA;25/09/1943;Foggia;FG;08/05/2024;00:01:00;09/05/2024;Foggia;FG;Mercoledi;2024;Maggio;80
+578;M;Foggia;FG;31/03/1945;San Giovanni Rotondo;FG;07/05/2024;18:40:00;09/05/2024;Foggia;FG;Martedi;2024;Maggio;79
+579;F;Foggia;FG;07/03/1950;Roma;RM;18/04/2024;00:45:00;10/05/2024;Foggia;FG;Giovedi;2024;Aprile;74
+580;M;Foggia;FG;29/10/1931;Foggia;FG;09/05/2024;13:00:00;10/05/2024;Foggia;FG;Giovedi;2024;Maggio;92
+581;M;Orsara Di Puglia;FG;22/06/1937;Foggia;FG;10/05/2024;20:30:00;11/05/2024;Foggia;FG;Venerdi;2024;Maggio;86
+582;M;Foggia;FG;15/06/1945;Foggia;FG;09/05/2024;23:30:00;11/05/2024;Foggia;FG;Giovedi;2024;Maggio;78
+583;M;Foggia;FG;19/02/1937;Foggia;FG;10/05/2024;18:00:00;11/05/2024;Foggia;FG;Venerdi;2024;Maggio;87
+584;M;Biccari;FG;02/06/1931;Foggia;FG;11/05/2024;21:00:00;13/05/2024;Foggia;FG;Sabato;2024;Maggio;92
+585;F;Pescasseroli;AQ;06/06/1946;Foggia;FG;11/05/2024;11:15:00;13/05/2024;Foggia;FG;Sabato;2024;Maggio;77
+586;M;Foggia;FG;10/12/1935;Foggia;FG;12/05/2024;10:15:00;13/05/2024;Foggia;FG;Domenica;2024;Maggio;88
+587;F;Foggia;FG;07/06/1941;Foggia;FG;12/05/2024;18:30:00;13/05/2024;Foggia;FG;Domenica;2024;Maggio;82
+588;M;Brindisi;BR;15/12/1930;Foggia;FG;13/05/2024;16:12:00;14/05/2024;Foggia;FG;Lunedi;2024;Maggio;93
+589;F;Castelluccio Dei Sauri;FG;15/09/1931;Foggia;FG;13/05/2024;04:30:00;14/05/2024;Foggia;FG;Lunedi;2024;Maggio;92
+590;F;Monte Sant'Angelo;FG;04/08/1930;Foggia;FG;13/05/2024;10:00:00;14/05/2024;Foggia;FG;Lunedi;2024;Maggio;93
+591;F;Foggia;FG;07/09/1923;Foggia;FG;13/05/2024;18:45:00;14/05/2024;Foggia;FG;Lunedi;2024;Maggio;100
+592;M;Foggia;FG;01/10/1946;Bovino;FG;11/03/2024;08:50:00;14/05/2024;Foggia;FG;Lunedi;2024;Marzo;77
+593;F;Ascoli Satriano;FG;02/04/1946;Foggia;FG;12/05/2024;21:56:00;14/05/2024;Foggia;FG;Domenica;2024;Maggio;78
+594;M;Foggia;FG;27/05/1952;Foggia;FG;13/05/2024;18:00:00;14/05/2024;Foggia;FG;Lunedi;2024;Maggio;71
+595;M;Orta Nova;FG;20/11/1939;Foggia;FG;13/05/2024;03:25:00;14/05/2024;Foggia;FG;Lunedi;2024;Maggio;84
+596;F;Foggia;FG;02/11/1946;Foggia;FG;12/05/2024;20:25:00;14/05/2024;Foggia;FG;Domenica;2024;Maggio;77
+597;M;Foggia;FG;01/09/1942;Foggia;FG;13/05/2024;15:23:00;14/05/2024;Foggia;FG;Lunedi;2024;Maggio;81
+598;F;Monteleone Di Puglia;FG;08/01/1932;Foggia;FG;14/05/2024;03:40:00;15/05/2024;Foggia;FG;Martedi;2024;Maggio;92
+599;M;Foggia;FG;20/10/1933;Foggia;FG;14/05/2024;18:53:00;15/05/2024;Foggia;FG;Martedi;2024;Maggio;90
+600;M;Deliceto;FG;13/05/1947;Foggia;FG;14/05/2024;07:40:00;15/05/2024;Foggia;FG;Martedi;2024;Maggio;77
+601;M;Multan;;05/09/1972;Lecce;LE;14/05/2024;06:45:00;16/05/2024;Foggia;FG;Martedi;2024;Maggio;51
+602;F;Foggia;FG;13/03/1938;Foggia;FG;15/05/2024;17:37:00;16/05/2024;Foggia;FG;Mercoledi;2024;Maggio;86
+603;F;Monte Sant'Angelo;FG;20/07/1948;Foggia;FG;16/05/2024;18:50:00;17/05/2024;Foggia;FG;Giovedi;2024;Maggio;75
+604;M;San Nicandro Garganico;FG;24/03/1929;Foggia;FG;16/05/2024;06:20:00;17/05/2024;Foggia;FG;Giovedi;2024;Maggio;95
+605;F;Foggia;FG;05/01/1947;Foggia;FG;16/05/2024;21:20:00;17/05/2024;Foggia;FG;Giovedi;2024;Maggio;77
+606;M;Foggia;FG;11/08/1942;Foggia;FG;16/05/2024;00:30:00;17/05/2024;Foggia;FG;Giovedi;2024;Maggio;81
+607;M;Monte Sant'Angelo;FG;04/11/1933;Wermelskirchen;DE(GERMANIA);21/04/2024;Non Specificato;18/05/2024;Foggia;FG;Domenica;2024;Aprile;90
+608;F;Foggia;FG;26/10/1932;Foggia;FG;16/05/2024;19:40:00;18/05/2024;Foggia;FG;Giovedi;2024;Maggio;91
+609;M;Pietrapertosa;PZ;11/10/1943;Foggia;FG;17/05/2024;09:50:00;18/05/2024;Foggia;FG;Venerdi;2024;Maggio;80
+610;F;Foggia;FG;10/06/1945;Foggia;FG;18/05/2024;07:00:00;20/05/2024;Foggia;FG;Sabato;2024;Maggio;78
+611;M;Foggia;FG;13/03/1948;Foggia;FG;18/05/2024;23:04:00;20/05/2024;Foggia;FG;Sabato;2024;Maggio;76
+612;F;Foggia;FG;10/06/1954;Foggia;FG;18/05/2024;02:45:00;20/05/2024;Foggia;FG;Sabato;2024;Maggio;69
+613;M;Foggia;FG;10/03/1955;Foggia;FG;18/05/2024;01:15:00;20/05/2024;Foggia;FG;Sabato;2024;Maggio;69
+614;F;Foggia;FG;14/11/1939;Foggia;FG;18/05/2024;01:43:00;20/05/2024;Foggia;FG;Sabato;2024;Maggio;84
+615;M;Foggia;FG;05/11/1959;Foggia;FG;18/05/2024;04:00:00;20/05/2024;Foggia;FG;Sabato;2024;Maggio;64
+616;F;Foggia;FG;03/11/1933;Foggia;FG;19/05/2024;05:51:00;20/05/2024;Foggia;FG;Domenica;2024;Maggio;90
+617;F;Sant'Agata Di Puglia;FG;25/12/1938;Foggia;FG;20/05/2024;20:40:00;21/05/2024;Foggia;FG;Lunedi;2024;Maggio;85
+618;M;Foggia;FG;24/11/1951;Foggia;FG;20/05/2024;13:15:00;21/05/2024;Foggia;FG;Lunedi;2024;Maggio;72
+619;F;Casalvecchio Di Puglia;FG;04/02/1937;Foggia;FG;20/05/2024;06:00:00;21/05/2024;Foggia;FG;Lunedi;2024;Maggio;87
+620;M;Foggia;FG;10/02/1934;Foggia;FG;21/05/2024;11:19:00;22/05/2024;Foggia;FG;Martedi;2024;Maggio;90
+621;M;Foggia;FG;11/08/1975;Arzachena;SS;20/04/2024;07:52:00;22/05/2024;Foggia;FG;Sabato;2024;Aprile;48
+622;F;Cerignola;FG;22/05/1940;Foggia;FG;21/05/2024;06:00:00;22/05/2024;Foggia;FG;Martedi;2024;Maggio;83
+623;F;Foggia;FG;24/11/1929;Foggia;FG;21/05/2024;08:00:00;22/05/2024;Foggia;FG;Martedi;2024;Maggio;94
+624;M;Foggia;FG;05/09/1961;Barletta;BT;19/05/2024;09:50:00;23/05/2024;Foggia;FG;Domenica;2024;Maggio;62
+625;M;Foggia;FG;15/11/1938;Foggia;FG;21/05/2024;23:02:00;23/05/2024;Foggia;FG;Martedi;2024;Maggio;85
+626;M;Foggia;FG;16/04/1934;Foggia;FG;22/05/2024;03:50:00;23/05/2024;Foggia;FG;Mercoledi;2024;Maggio;90
+627;M;Foggia;FG;25/10/1945;Foggia;FG;22/05/2024;00:30:00;23/05/2024;Foggia;FG;Mercoledi;2024;Maggio;78
+628;F;Foggia;FG;12/07/1949;Foggia;FG;22/05/2024;03:30:00;23/05/2024;Foggia;FG;Mercoledi;2024;Maggio;74
+629;F;Foggia;FG;27/02/1941;Foggia;FG;22/05/2024;18:30:00;23/05/2024;Foggia;FG;Mercoledi;2024;Maggio;83
+630;M;Lucera;FG;20/08/1947;Foggia;FG;22/05/2024;07:45:00;23/05/2024;Foggia;FG;Mercoledi;2024;Maggio;76
+631;M;Napoli;NA;01/04/1972;Foggia;FG;22/05/2024;01:30:00;23/05/2024;Foggia;FG;Mercoledi;2024;Maggio;52
+632;F;Foggia;FG;04/09/1941;Foggia;FG;22/05/2024;04:40:00;23/05/2024;Foggia;FG;Mercoledi;2024;Maggio;82
+633;M;Foggia;FG;21/07/1947;Foggia;FG;23/05/2024;10:30:00;24/05/2024;Foggia;FG;Giovedi;2024;Maggio;76
+634;M;Foggia;FG;04/02/1950;Foggia;FG;23/05/2024;16:00:00;24/05/2024;Foggia;FG;Giovedi;2024;Maggio;74
+635;M;Lucera;FG;27/12/1964;Torino;TO;25/04/2024;07:31:00;24/05/2024;Foggia;FG;Giovedi;2024;Aprile;59
+636;M;Foggia;FG;30/05/1957;Foggia;FG;23/05/2024;14:25:00;24/05/2024;Foggia;FG;Giovedi;2024;Maggio;66
+637;M;Foggia;FG;06/06/1933;Foggia;FG;23/05/2024;16:50:00;24/05/2024;Foggia;FG;Giovedi;2024;Maggio;90
+638;F;Foggia;FG;29/03/1957;San Giovanni Rotondo;FG;22/05/2024;17:20:00;24/05/2024;Foggia;FG;Mercoledi;2024;Maggio;67
+639;F;Monte Sant'Angelo;FG;17/09/1956;Foggia;FG;24/05/2024;19:10:00;25/05/2024;Foggia;FG;Venerdi;2024;Maggio;67
+640;F;Rutigliano;BA;25/01/1950;Foggia;FG;24/05/2024;02:50:00;25/05/2024;Foggia;FG;Venerdi;2024;Maggio;74
+641;F;Cerignola;FG;20/11/1935;Foggia;FG;24/05/2024;12:05:00;25/05/2024;Foggia;FG;Venerdi;2024;Maggio;88
+642;M;Foggia;FG;29/10/1932;San Giovanni Rotondo;FG;26/05/2024;12:50:00;27/05/2024;Foggia;FG;Domenica;2024;Maggio;91
+643;M;Foggia;FG;07/03/1940;San Giovanni Rotondo;FG;24/05/2024;08:50:00;27/05/2024;Foggia;FG;Venerdi;2024;Maggio;84
+644;F;Foggia;FG;06/09/1933;Foggia;FG;25/05/2024;23:45:00;27/05/2024;Foggia;FG;Sabato;2024;Maggio;90
+645;M;Foggia;FG;25/07/1937;Foggia;FG;26/05/2024;07:42:00;27/05/2024;Foggia;FG;Domenica;2024;Maggio;86
+646;F;Cosenza;CS;15/11/1935;Foggia;FG;24/05/2024;22:30:00;27/05/2024;Foggia;FG;Venerdi;2024;Maggio;88
+647;F;Trinitapoli;FG;10/09/1929;Foggia;FG;27/05/2024;04:05:00;28/05/2024;Foggia;FG;Lunedi;2024;Maggio;94
+648;F;Foggia;FG;05/12/1929;Foggia;FG;27/05/2024;11:30:00;28/05/2024;Foggia;FG;Lunedi;2024;Maggio;94
+649;M;Foggia;FG;15/07/1953;Foggia;FG;27/05/2024;23:45:00;29/05/2024;Foggia;FG;Lunedi;2024;Maggio;70
+650;F;Foggia;FG;26/04/1950;Foggia;FG;28/05/2024;03:25:00;29/05/2024;Foggia;FG;Martedi;2024;Maggio;74
+651;F;Panni;FG;20/06/1930;Foggia;FG;28/05/2024;17:45:00;29/05/2024;Foggia;FG;Martedi;2024;Maggio;93
+652;F;Foggia;FG;24/05/1943;Foggia;FG;28/05/2024;09:09:00;29/05/2024;Foggia;FG;Martedi;2024;Maggio;81
+653;M;Refane Ndiod;;05/04/1980;Canosa Di Puglia;BT;22/05/2024;05:00:00;30/05/2024;Foggia;FG;Mercoledi;2024;Maggio;44
+654;F;Foggia;FG;16/11/1938;Foggia;FG;28/05/2024;19:10:00;30/05/2024;Foggia;FG;Martedi;2024;Maggio;85
+655;F;Milano;MI;17/09/1966;Foggia;FG;29/05/2024;08:15:00;30/05/2024;Foggia;FG;Mercoledi;2024;Maggio;57
+656;M;Mattinata;FG;01/11/1932;Foggia;FG;29/05/2024;09:54:00;30/05/2024;Foggia;FG;Mercoledi;2024;Maggio;91
+657;M;Foggia;FG;06/07/1946;Foggia;FG;29/05/2024;08:27:00;30/05/2024;Foggia;FG;Mercoledi;2024;Maggio;77
+658;M;Foggia;FG;18/08/1965;Foggia;FG;29/05/2024;09:00:00;30/05/2024;Foggia;FG;Mercoledi;2024;Maggio;58
+659;F;Foggia;FG;08/04/1936;Foggia;FG;29/05/2024;07:30:00;30/05/2024;Foggia;FG;Mercoledi;2024;Maggio;88
+660;M;Foggia;FG;20/01/1945;Foggia;FG;29/05/2024;20:26:00;30/05/2024;Foggia;FG;Mercoledi;2024;Maggio;79
+661;F;Foggia;FG;10/01/1948;Foggia;FG;30/05/2024;23:37:00;01/06/2024;Foggia;FG;Giovedi;2024;Maggio;76
+662;M;Foggia;FG;30/10/1933;Foggia;FG;31/05/2024;09:00:00;01/06/2024;Foggia;FG;Venerdi;2024;Maggio;90
+663;M;Sant'Agata Di Puglia;FG;14/03/1937;Foggia;FG;02/06/2024;15:37:00;03/06/2024;Foggia;FG;Domenica;2024;Giugno;87
+664;M;Foggia;FG;02/10/1958;Foggia;FG;02/06/2024;01:50:00;03/06/2024;Foggia;FG;Domenica;2024;Giugno;65
+665;M;Foggia;FG;20/11/1938;San Giovanni Rotondo;FG;28/05/2024;23:50:00;03/06/2024;Foggia;FG;Martedi;2024;Maggio;85
+666;M;Foggia;FG;15/09/1940;Foggia;FG;01/06/2024;17:00:00;03/06/2024;Foggia;FG;Sabato;2024;Giugno;83
+667;M;Foggia;FG;23/11/1961;Foggia;FG;01/06/2024;18:20:00;03/06/2024;Foggia;FG;Sabato;2024;Giugno;62
+668;F;Foggia;FG;28/09/1939;Foggia;FG;02/06/2024;02:58:00;03/06/2024;Foggia;FG;Domenica;2024;Giugno;84
+669;M;Foggia;FG;23/09/1952;Targoviste;RO (ROMANIA);22/06/2021;Non Specificato;03/06/2024;Foggia;FG;Martedi;2021;Giugno;68
+670;F;Foggia;FG;27/06/1940;Foggia;FG;01/06/2024;11:17:00;03/06/2024;Foggia;FG;Sabato;2024;Giugno;83
+671;F;Foggia;FG;11/03/1938;Foggia;FG;01/06/2024;22:55:00;03/06/2024;Foggia;FG;Sabato;2024;Giugno;86
+672;M;Bari;BA;26/07/1930;Foggia;FG;31/05/2024;23:30:00;03/06/2024;Foggia;FG;Venerdi;2024;Maggio;93
+673;M;Foggia;FG;05/01/1932;Foggia;FG;03/06/2024;07:50:00;04/06/2024;Foggia;FG;Lunedi;2024;Giugno;92
+674;F;Apricena;FG;01/01/1925;Foggia;FG;03/06/2024;04:00:00;04/06/2024;Foggia;FG;Lunedi;2024;Giugno;99
+675;F;Foggia;FG;12/02/1938;Foggia;FG;03/06/2024;15:30:00;04/06/2024;Foggia;FG;Lunedi;2024;Giugno;86
+676;M;Foggia;FG;22/06/1937;Foggia;FG;04/06/2024;11:50:00;05/06/2024;Foggia;FG;Martedi;2024;Giugno;86
+677;M;Foggia;FG;20/02/1957;Foggia;FG;04/06/2024;08:05:00;05/06/2024;Foggia;FG;Martedi;2024;Giugno;67
+678;M;Foggia;FG;14/02/1946;Foggia;FG;04/06/2024;16:50:00;05/06/2024;Foggia;FG;Martedi;2024;Giugno;78
+679;M;Alberona;FG;31/05/1943;Foggia;FG;05/06/2024;16:55:00;06/06/2024;Foggia;FG;Mercoledi;2024;Giugno;81
+680;M;Foggia;FG;20/10/1934;Foggia;FG;05/06/2024;09:25:00;06/06/2024;Foggia;FG;Mercoledi;2024;Giugno;89
+681;M;Motta Montecorvino;FG;04/04/1945;Padova;PD;02/06/2024;23:05:00;06/06/2024;Foggia;FG;Domenica;2024;Giugno;79
+682;M;San Severo;FG;14/10/1940;Foggia;FG;06/06/2024;09:30:00;07/06/2024;Foggia;FG;Giovedi;2024;Giugno;83
+683;M;Foggia;FG;06/08/1966;Foggia;FG;06/06/2024;23:07:00;08/06/2024;Foggia;FG;Giovedi;2024;Giugno;57
+684;M;Foggia;FG;07/08/1959;Foggia;FG;08/06/2024;15:30:00;10/06/2024;Foggia;FG;Sabato;2024;Giugno;64
+685;F;Napoli;NA;03/09/1938;Foggia;FG;08/06/2024;09:28:00;10/06/2024;Foggia;FG;Sabato;2024;Giugno;85
+686;F;Sant'Agata Di Puglia;FG;07/11/1947;Foggia;FG;09/06/2024;07:30:00;10/06/2024;Foggia;FG;Domenica;2024;Giugno;76
+687;M;Foggia;FG;07/10/1948;Foggia;FG;09/06/2024;06:14:00;10/06/2024;Foggia;FG;Domenica;2024;Giugno;75
+688;F;Cagnano Varano;FG;25/04/1969;Foggia;FG;08/06/2024;07:15:00;10/06/2024;Foggia;FG;Sabato;2024;Giugno;55
+689;F;San Giovanni Rotondo;FG;18/12/1931;Foggia;FG;09/06/2024;17:20:00;10/06/2024;Foggia;FG;Domenica;2024;Giugno;92
+690;M;Marsala;TP;20/08/1934;Foggia;FG;08/06/2024;04:00:00;10/06/2024;Foggia;FG;Sabato;2024;Giugno;89
+691;F;Foggia;FG;22/02/1935;Foggia;FG;10/06/2024;20:05:00;11/06/2024;Foggia;FG;Lunedi;2024;Giugno;89
+692;M;Foggia;FG;14/04/1953;Cesena;FC;05/06/2024;09:50:00;11/06/2024;Foggia;FG;Mercoledi;2024;Giugno;71
+693;M;Foggia;FG;21/06/1941;Foggia;FG;10/06/2024;11:20:00;11/06/2024;Foggia;FG;Lunedi;2024;Giugno;82
+694;F;Foggia;FG;17/04/1959;Foggia;FG;11/06/2024;10:35:00;12/06/2024;Foggia;FG;Martedi;2024;Giugno;65
+695;M;San Giovanni Rotondo;FG;27/03/1952;San Giovanni Rotondo;FG;11/06/2024;12:00:00;12/06/2024;Foggia;FG;Martedi;2024;Giugno;72
+696;M;Foggia;FG;11/06/2024;Foggia;FG;11/06/2024;11:06:00;12/06/2024;Foggia;FG;Martedi;2024;Giugno;0
+697;F;Troia;FG;01/02/1933;Foggia;FG;11/06/2024;13:30:00;12/06/2024;Foggia;FG;Martedi;2024;Giugno;91
+698;F;Foggia;FG;06/05/1947;Foggia;FG;11/06/2024;04:20:00;12/06/2024;Foggia;FG;Martedi;2024;Giugno;77
+699;F;Bisaccia;AV;17/10/1942;Foggia;FG;11/06/2024;09:30:00;12/06/2024;Foggia;FG;Martedi;2024;Giugno;81
+700;F;Foggia;FG;13/01/1940;Foggia;FG;11/06/2024;15:00:00;12/06/2024;Foggia;FG;Martedi;2024;Giugno;84
+701;F;Foggia;FG;26/09/1938;San Giovanni Rotondo;FG;11/06/2024;17:35:00;13/06/2024;Foggia;FG;Martedi;2024;Giugno;85
+702;M;Foggia;FG;11/08/1935;Foggia;FG;12/06/2024;21:10:00;13/06/2024;Foggia;FG;Mercoledi;2024;Giugno;88
+703;M;Cagnano Varano;FG;21/06/1944;Lucera;FG;11/06/2024;11:15:00;13/06/2024;Foggia;FG;Martedi;2024;Giugno;79
+704;M;Foggia;FG;04/01/1945;San Giovanni Rotondo;FG;07/06/2024;11:05:00;13/06/2024;Foggia;FG;Venerdi;2024;Giugno;79
+705;M;Lucera;FG;22/01/1948;Lucera;FG;06/06/2024;18:41:00;13/06/2024;Foggia;FG;Giovedi;2024;Giugno;76
+706;F;Foggia;FG;14/11/1927;Lucera;FG;10/06/2024;05:48:00;13/06/2024;Foggia;FG;Lunedi;2024;Giugno;96
+707;M;Bovino;FG;15/08/1932;Foggia;FG;12/06/2024;18:05:00;13/06/2024;Foggia;FG;Mercoledi;2024;Giugno;91
+708;M;Motta Montecorvino;FG;21/07/1929;Foggia;FG;13/06/2024;16:30:00;14/06/2024;Foggia;FG;Giovedi;2024;Giugno;94
+709;F;Foggia;FG;18/07/1931;Foggia;FG;12/06/2024;22:00:00;14/06/2024;Foggia;FG;Mercoledi;2024;Giugno;92
+710;M;Rignano Garganico;FG;30/09/1936;San Giovanni Rotondo;FG;10/06/2024;16:30:00;14/06/2024;Foggia;FG;Lunedi;2024;Giugno;87
+711;M;Cerignola;FG;21/07/1938;Foggia;FG;13/06/2024;20:30:00;14/06/2024;Foggia;FG;Giovedi;2024;Giugno;85
+712;F;Foggia;FG;25/10/1929;Foggia;FG;14/06/2024;01:30:00;15/06/2024;Foggia;FG;Venerdi;2024;Giugno;94
+713;F;Foggia;FG;16/06/1932;Bovino;FG;12/06/2024;00:20:00;15/06/2024;Foggia;FG;Mercoledi;2024;Giugno;91
+714;M;Foggia;FG;02/10/1981;Foggia;FG;14/06/2024;14:45:00;15/06/2024;Foggia;FG;Venerdi;2024;Giugno;42
+715;M;Foggia;FG;25/09/1967;Foggia;FG;14/06/2024;03:50:00;15/06/2024;Foggia;FG;Venerdi;2024;Giugno;56
+716;M;Orta Nova;FG;19/03/1941;Foggia;FG;14/06/2024;04:20:00;15/06/2024;Foggia;FG;Venerdi;2024;Giugno;83
+717;M;Panni;FG;22/08/1960;Foggia;FG;15/06/2024;08:40:00;17/06/2024;Foggia;FG;Sabato;2024;Giugno;63
+718;F;Foggia;FG;18/05/1930;Foggia;FG;15/06/2024;14:20:00;17/06/2024;Foggia;FG;Sabato;2024;Giugno;94
+719;F;Foggia;FG;04/02/1938;Foggia;FG;15/06/2024;17:30:00;17/06/2024;Foggia;FG;Sabato;2024;Giugno;86
+720;F;Orta Nova;FG;11/06/1931;Foggia;FG;15/06/2024;10:50:00;17/06/2024;Foggia;FG;Sabato;2024;Giugno;93
+721;M;Potenza;PZ;24/04/1942;Foggia;FG;15/06/2024;21:42:00;17/06/2024;Foggia;FG;Sabato;2024;Giugno;82
+722;M;Cerignola;FG;02/01/1940;Foggia;FG;17/06/2024;03:30:00;18/06/2024;Foggia;FG;Lunedi;2024;Giugno;84
+723;M;Sant'Agata Di Puglia;FG;01/12/1930;Foggia;FG;16/06/2024;22:35:00;18/06/2024;Foggia;FG;Domenica;2024;Giugno;93
+724;M;Foggia;FG;25/10/1941;Eboli;SA;07/06/2024;15:00:00;18/06/2024;Foggia;FG;Venerdi;2024;Giugno;82
+725;M;Foggia;FG;01/01/1933;Foggia;FG;17/06/2024;19:00:00;18/06/2024;Foggia;FG;Lunedi;2024;Giugno;91
+726;M;Lucera;FG;02/01/1945;Foggia;FG;18/06/2024;04:30:00;19/06/2024;Foggia;FG;Martedi;2024;Giugno;79
+727;F;Foggia;FG;24/09/1945;Foggia;FG;18/06/2024;19:47:00;19/06/2024;Foggia;FG;Martedi;2024;Giugno;78
+728;M;Monteleone Di Puglia;FG;06/11/1932;Foggia;FG;18/06/2024;17:45:00;19/06/2024;Foggia;FG;Martedi;2024;Giugno;91
+729;M;Bisaccia;AV;10/08/1934;Foggia;FG;17/06/2024;20:45:00;19/06/2024;Foggia;FG;Lunedi;2024;Giugno;89
+730;F;Foggia;FG;21/12/1984;Vieste;FG;15/06/2024;16:30:00;19/06/2024;Foggia;FG;Sabato;2024;Giugno;39
+731;F;Foggia;FG;27/11/1941;Foggia;FG;18/06/2024;15:50:00;19/06/2024;Foggia;FG;Martedi;2024;Giugno;82
+732;F;Foggia;FG;01/10/1938;Foggia;FG;19/06/2024;13:20:00;20/06/2024;Foggia;FG;Mercoledi;2024;Giugno;85
+733;M;Foggia;FG;23/09/1933;Foggia;FG;19/06/2024;07:07:00;20/06/2024;Foggia;FG;Mercoledi;2024;Giugno;90
+734;M;Foggia;FG;01/03/1948;San Giovanni Rotondo;FG;18/06/2024;21:20:00;20/06/2024;Foggia;FG;Martedi;2024;Giugno;76
+735;F;Foggia;FG;26/04/1938;Foggia;FG;19/06/2024;03:20:00;20/06/2024;Foggia;FG;Mercoledi;2024;Giugno;86
+736;F;Foggia;FG;20/10/1933;Foggia;FG;19/06/2024;13:45:00;21/06/2024;Foggia;FG;Mercoledi;2024;Giugno;90
+737;F;Foggia;FG;20/03/1952;Foggia;FG;20/06/2024;13:50:00;21/06/2024;Foggia;FG;Giovedi;2024;Giugno;72
+738;F;Orsara Di Puglia;FG;08/03/1948;Foggia;FG;20/06/2024;18:00:00;21/06/2024;Foggia;FG;Giovedi;2024;Giugno;76
+739;F;Foggia;FG;04/10/1931;Foggia;FG;21/06/2024;05:15:00;22/06/2024;Foggia;FG;Venerdi;2024;Giugno;92
+740;F;Foggia;FG;13/07/1940;Foggia;FG;20/06/2024;22:30:00;22/06/2024;Foggia;FG;Giovedi;2024;Giugno;83
+741;F;Foggia;FG;26/10/1934;Foggia;FG;21/06/2024;17:00:00;22/06/2024;Foggia;FG;Venerdi;2024;Giugno;89
+742;F;Manfredonia;FG;14/08/1929;Foggia;FG;21/06/2024;23:32:00;24/06/2024;Foggia;FG;Venerdi;2024;Giugno;94
+743;M;Foggia;FG;01/01/1955;Foggia;FG;22/06/2024;13:20:00;24/06/2024;Foggia;FG;Sabato;2024;Giugno;69
+744;M;Manfredonia;FG;18/02/1944;Foggia;FG;22/06/2024;11:10:00;24/06/2024;Foggia;FG;Sabato;2024;Giugno;80
+745;M;Bovino;FG;18/03/1948;Foggia;FG;23/06/2024;00:10:00;24/06/2024;Foggia;FG;Domenica;2024;Giugno;76
+746;F;Foggia;FG;26/06/1936;Foggia;FG;22/06/2024;05:05:00;24/06/2024;Foggia;FG;Sabato;2024;Giugno;87
+747;M;Foggia;FG;10/04/1928;Foggia;FG;23/06/2024;07:15:00;24/06/2024;Foggia;FG;Domenica;2024;Giugno;96
+748;M;Lucera;FG;26/04/1937;Foggia;FG;23/06/2024;09:10:00;24/06/2024;Foggia;FG;Domenica;2024;Giugno;87
+749;M;Foggia;FG;28/10/1936;Foggia;FG;24/06/2024;06:50:00;25/06/2024;Foggia;FG;Lunedi;2024;Giugno;87
+750;F;Foggia;FG;07/07/1945;Foggia;FG;24/06/2024;19:30:00;25/06/2024;Foggia;FG;Lunedi;2024;Giugno;78
+751;M;Atella;PZ;21/08/1937;Foggia;FG;24/06/2024;21:30:00;25/06/2024;Foggia;FG;Lunedi;2024;Giugno;86
+752;M;Foggia;FG;19/02/1934;Foggia;FG;24/06/2024;11:15:00;25/06/2024;Foggia;FG;Lunedi;2024;Giugno;90
+753;F;Rocchetta Sant'Antonio;FG;18/02/1939;Foggia;FG;25/06/2024;04:45:00;26/06/2024;Foggia;FG;Martedi;2024;Giugno;85
+754;F;Foggia;FG;01/08/1928;Foggia;FG;25/06/2024;06:30:00;26/06/2024;Foggia;FG;Martedi;2024;Giugno;95
+755;M;San Severo;FG;05/06/1932;Foggia;FG;25/06/2024;05:30:00;26/06/2024;Foggia;FG;Martedi;2024;Giugno;92
+756;F;Carapelle;FG;14/09/1952;Foggia;FG;25/06/2024;11:10:00;26/06/2024;Foggia;FG;Martedi;2024;Giugno;71
+757;M;Foggia;FG;01/02/1940;Foggia;FG;25/06/2024;03:33:00;26/06/2024;Foggia;FG;Martedi;2024;Giugno;84
+758;F;Fermignano;PS;31/07/1938;Foggia;FG;25/06/2024;01:30:00;26/06/2024;Foggia;FG;Martedi;2024;Giugno;85
+759;F;Foggia;FG;25/07/1936;Foggia;FG;26/06/2024;05:40:00;27/06/2024;Foggia;FG;Mercoledi;2024;Giugno;87
+760;M;Foggia;FG;03/01/1947;Foggia;FG;26/06/2024;06:30:00;27/06/2024;Foggia;FG;Mercoledi;2024;Giugno;77
+761;M;Faeto;FG;05/07/1936;Foggia;FG;25/06/2024;23:46:00;27/06/2024;Foggia;FG;Martedi;2024;Giugno;87
+762;M;Ascoli Satriano;FG;22/07/1938;Foggia;FG;26/06/2024;13:20:00;27/06/2024;Foggia;FG;Mercoledi;2024;Giugno;85
+763;F;Manfredonia;FG;18/11/1943;Foggia;FG;26/06/2024;14:20:00;27/06/2024;Foggia;FG;Mercoledi;2024;Giugno;80
+764;M;Lucera;FG;29/07/1949;Foggia;FG;25/06/2024;22:30:00;27/06/2024;Foggia;FG;Martedi;2024;Giugno;74
+765;M;Carapelle;FG;19/04/1945;Foggia;FG;26/06/2024;12:55:00;27/06/2024;Foggia;FG;Mercoledi;2024;Giugno;79
+766;M;Foggia;FG;03/02/1957;Foggia;FG;27/06/2024;08:14:00;28/06/2024;Foggia;FG;Giovedi;2024;Giugno;67
+767;M;Foggia;FG;19/05/1952;Foggia;FG;27/06/2024;09:30:00;28/06/2024;Foggia;FG;Giovedi;2024;Giugno;72
+768;F;Foggia;FG;01/01/1945;Foggia;FG;27/06/2024;20:00:00;28/06/2024;Foggia;FG;Giovedi;2024;Giugno;79
+769;F;Candela;FG;13/12/1946;Foggia;FG;28/06/2024;00:15:00;29/06/2024;Foggia;FG;Venerdi;2024;Giugno;77
+770;F;Foggia;FG;27/12/1931;Foggia;FG;28/06/2024;11:00:00;29/06/2024;Foggia;FG;Venerdi;2024;Giugno;92
+771;F;Foggia;FG;28/09/1939;Foggia;FG;28/06/2024;17:00:00;29/06/2024;Foggia;FG;Venerdi;2024;Giugno;84
+772;F;Foggia;FG;18/04/1937;Foggia;FG;28/06/2024;19:35:00;29/06/2024;Foggia;FG;Venerdi;2024;Giugno;87
+773;M;Foggia;FG;15/10/1964;Chieti;CH;25/06/2024;15:30:00;29/06/2024;Foggia;FG;Martedi;2024;Giugno;59
+774;F;Orta Nova;FG;06/09/1918;Foggia;FG;29/06/2024;22:13:00;01/07/2024;Foggia;FG;Sabato;2024;Giugno;105
+775;F;San Giorgio La Molara;BN;23/11/1921;Foggia;FG;30/06/2024;09:45:00;01/07/2024;Foggia;FG;Domenica;2024;Giugno;102
+776;F;Foggia;FG;10/07/1947;Lesina;FG;26/06/2024;16:20:00;01/07/2024;Foggia;FG;Mercoledi;2024;Giugno;76
+777;M;Gorgoglione;MT;24/12/1935;Manfredonia;FG;26/06/2024;23:51:00;01/07/2024;Foggia;FG;Mercoledi;2024;Giugno;88
+778;M;Foggia;FG;12/01/1925;Foggia;FG;29/06/2024;16:48:00;01/07/2024;Foggia;FG;Sabato;2024;Giugno;99
+779;M;Foggia;FG;28/03/1963;Foggia;FG;30/06/2024;01:00:00;01/07/2024;Foggia;FG;Domenica;2024;Giugno;61
+780;M;Foggia;FG;15/03/1940;Foggia;FG;30/06/2024;11:35:00;01/07/2024;Foggia;FG;Domenica;2024;Giugno;84
+781;M;Domodossola;NO;14/08/1942;Foggia;FG;29/06/2024;14:05:00;01/07/2024;Foggia;FG;Sabato;2024;Giugno;81
+782;M;Foggia;FG;24/09/1998;Foggia;FG;25/06/2024;04:00:00;02/07/2024;Foggia;FG;Martedi;2024;Giugno;25
+783;M;Bari;BA;04/06/1941;Foggia;FG;01/07/2024;08:35:00;02/07/2024;Foggia;FG;Lunedi;2024;Luglio;83
+784;M;Mutlangen;;13/01/1980;Foggia;FG;30/06/2024;21:48:00;02/07/2024;Foggia;FG;Domenica;2024;Giugno;44
+785;F;Montaguto;AV;24/05/1936;Foggia;FG;30/06/2024;00:45:00;02/07/2024;Foggia;FG;Domenica;2024;Giugno;88
+786;M;Foggia;FG;11/10/1933;Foggia;FG;01/07/2024;13:00:00;02/07/2024;Foggia;FG;Lunedi;2024;Luglio;90
+787;F;Foggia;FG;06/05/1948;San Giovanni Rotondo;FG;27/06/2024;17:00:00;02/07/2024;Foggia;FG;Giovedi;2024;Giugno;76
+788;M;Foggia;FG;07/06/1933;Foggia;FG;01/07/2024;12:20:00;02/07/2024;Foggia;FG;Lunedi;2024;Luglio;91
+789;F;Carpino;FG;22/11/1929;Foggia;FG;01/07/2024;09:45:00;02/07/2024;Foggia;FG;Lunedi;2024;Luglio;94
+790;M;Foggia;FG;08/04/1959;Foggia;FG;01/07/2024;16:53:00;02/07/2024;Foggia;FG;Lunedi;2024;Luglio;65
+791;F;Sant'Agata Di Puglia;FG;27/06/1950;Foggia;FG;02/07/2024;04:30:00;03/07/2024;Foggia;FG;Martedi;2024;Luglio;74
+792;M;Foggia;FG;31/01/1940;Foggia;FG;02/07/2024;06:29:00;03/07/2024;Foggia;FG;Martedi;2024;Luglio;84
+793;F;Roseto Valfortore;FG;06/04/1927;Lucera;FG;28/06/2024;11:35:00;03/07/2024;Foggia;FG;Venerdi;2024;Giugno;97
+794;F;Troia;FG;25/10/1935;Foggia;FG;03/07/2024;06:10:00;04/07/2024;Foggia;FG;Mercoledi;2024;Luglio;88
+795;F;Foggia;FG;22/09/1932;Foggia;FG;03/07/2024;08:24:00;04/07/2024;Foggia;FG;Mercoledi;2024;Luglio;91
+796;M;Foggia;FG;08/07/2005;Foggia;FG;03/07/2024;00:05:00;04/07/2024;Foggia;FG;Mercoledi;2024;Luglio;18
+797;M;Foggia;FG;04/05/1967;Foggia;FG;03/07/2024;13:07:00;04/07/2024;Foggia;FG;Mercoledi;2024;Luglio;57
+798;M;Rodi Garganico;FG;26/05/1941;Foggia;FG;04/07/2024;09:50:00;05/07/2024;Foggia;FG;Giovedi;2024;Luglio;83
+799;M;Foggia;FG;06/11/1954;Foggia;FG;04/07/2024;16:22:00;05/07/2024;Foggia;FG;Giovedi;2024;Luglio;69
+800;F;Foggia;FG;27/03/1952;Foggia;FG;05/07/2024;15:00:00;06/07/2024;Foggia;FG;Venerdi;2024;Luglio;72
+801;M;Foggia;FG;08/01/1948;Foggia;FG;04/07/2024;23:59:00;06/07/2024;Foggia;FG;Giovedi;2024;Luglio;76
+802;F;Foggia;FG;01/10/1939;Foggia;FG;05/07/2024;03:00:00;06/07/2024;Foggia;FG;Venerdi;2024;Luglio;84
+803;M;Monte Sant'Angelo;FG;07/10/1943;Foggia;FG;05/07/2024;06:10:00;06/07/2024;Foggia;FG;Venerdi;2024;Luglio;80
+804;F;Foggia;FG;09/05/1954;Foggia;FG;06/07/2024;16:30:00;08/07/2024;Foggia;FG;Sabato;2024;Luglio;70
+805;F;Stornarella;FG;23/09/1944;Foggia;FG;06/07/2024;20:20:00;08/07/2024;Foggia;FG;Sabato;2024;Luglio;79
+806;F;Foggia;FG;26/10/1932;Foggia;FG;07/07/2024;11:00:00;08/07/2024;Foggia;FG;Domenica;2024;Luglio;91
+807;F;Foggia;FG;10/09/1932;Foggia;FG;07/07/2024;17:00:00;08/07/2024;Foggia;FG;Domenica;2024;Luglio;91
+808;M;Lecce;LE;28/05/1944;Foggia;FG;08/07/2024;04:35:00;09/07/2024;Foggia;FG;Lunedi;2024;Luglio;80
+809;M;Foggia;FG;18/08/1989;Foggia;FG;08/07/2024;14:25:00;09/07/2024;Foggia;FG;Lunedi;2024;Luglio;34
+810;F;Faeto;FG;11/09/1942;Foggia;FG;08/07/2024;18:40:00;09/07/2024;Foggia;FG;Lunedi;2024;Luglio;81
+811;F;Foggia;FG;19/08/1927;Foggia;FG;09/07/2024;14:00:00;10/07/2024;Foggia;FG;Martedi;2024;Luglio;96
+812;M;Foggia;FG;27/03/1937;Milano;MI;31/05/2024;04:40:00;10/07/2024;Foggia;FG;Venerdi;2024;Maggio;87
+813;F;Foggia;FG;26/06/1950;Foggia;FG;09/07/2024;12:50:00;10/07/2024;Foggia;FG;Martedi;2024;Luglio;74
+814;M;Castello Di Serravalle;BO;23/03/1954;Imola;BO;06/07/2024;21:55:00;10/07/2024;Foggia;FG;Sabato;2024;Luglio;70
+815;F;Foggia;FG;28/02/1942;Foggia;FG;10/07/2024;04:45:00;11/07/2024;Foggia;FG;Mercoledi;2024;Luglio;82
+816;F;Monte Sant'Angelo;FG;25/07/1949;Foggia;FG;10/07/2024;06:00:00;11/07/2024;Foggia;FG;Mercoledi;2024;Luglio;74
+817;F;Manfredonia;FG;03/11/1933;Vieste;FG;10/07/2024;02:28:00;11/07/2024;Foggia;FG;Mercoledi;2024;Luglio;90
+818;M;Tallinding;;05/11/1981;San Giovanni Rotondo;FG;24/06/2024;08:38:00;11/07/2024;Foggia;FG;Lunedi;2024;Giugno;42
+819;M;Troia;FG;06/05/1939;Foggia;FG;11/07/2024;18:30:00;12/07/2024;Foggia;FG;Giovedi;2024;Luglio;85
+820;M;Foggia;FG;15/05/1959;Foggia;FG;10/07/2024;20:00:00;12/07/2024;Foggia;FG;Mercoledi;2024;Luglio;65
+821;M;Foggia;FG;29/11/1950;Foggia;FG;11/07/2024;10:00:00;12/07/2024;Foggia;FG;Giovedi;2024;Luglio;73
+822;F;Foggia;FG;03/02/1959;Foggia;FG;10/07/2024;11:00:00;12/07/2024;Foggia;FG;Mercoledi;2024;Luglio;65
+823;F;San Marco In Lamis;FG;21/03/1962;Foggia;FG;12/07/2024;07:20:00;13/07/2024;Foggia;FG;Venerdi;2024;Luglio;62
+824;F;San Ferdinando Di Puglia;FG;14/07/1945;Foggia;FG;12/07/2024;18:00:00;13/07/2024;Foggia;FG;Venerdi;2024;Luglio;78
+825;M;Foggia;FG;24/02/1936;Foggia;FG;12/07/2024;08:00:00;13/07/2024;Foggia;FG;Venerdi;2024;Luglio;88
+826;F;Foggia;FG;26/01/1940;Foggia;FG;12/07/2024;01:00:00;13/07/2024;Foggia;FG;Venerdi;2024;Luglio;84
+827;F;Foggia;FG;08/10/1923;Foggia;FG;14/07/2024;16:55:00;15/07/2024;Foggia;FG;Domenica;2024;Luglio;100
+828;F;Foggia;FG;24/02/1934;Foggia;FG;13/07/2024;22:05:00;15/07/2024;Foggia;FG;Sabato;2024;Luglio;90
+829;F;Bologna;BO;09/05/1941;Foggia;FG;14/07/2024;00:49:00;15/07/2024;Foggia;FG;Domenica;2024;Luglio;83
+830;F;Foggia;FG;29/03/1939;Foggia;FG;14/07/2024;15:25:00;15/07/2024;Foggia;FG;Domenica;2024;Luglio;85
+831;M;Foggia;FG;23/01/1950;Foggia;FG;14/07/2024;08:23:00;15/07/2024;Foggia;FG;Domenica;2024;Luglio;74
+832;F;Foggia;FG;27/08/1936;San Giovanni Rotondo;FG;11/07/2024;12:40:00;15/07/2024;Foggia;FG;Giovedi;2024;Luglio;87
+833;F;Accadia;FG;27/09/1938;Foggia;FG;13/07/2024;09:00:00;15/07/2024;Foggia;FG;Sabato;2024;Luglio;85
+834;F;Foggia;FG;01/05/1946;Foggia;FG;13/07/2024;14:07:00;15/07/2024;Foggia;FG;Sabato;2024;Luglio;78
+835;M;Foggia;FG;25/10/1948;Bari;BA;11/07/2024;00:55:00;15/07/2024;Foggia;FG;Giovedi;2024;Luglio;75
+836;F;Foggia;FG;02/07/1946;Foggia;FG;15/07/2024;11:10:00;16/07/2024;Foggia;FG;Lunedi;2024;Luglio;78
+837;M;Accadia;FG;18/10/1930;Foggia;FG;14/07/2024;23:06:00;16/07/2024;Foggia;FG;Domenica;2024;Luglio;93
+838;M;Foggia;FG;28/11/1946;Foggia;FG;15/07/2024;16:39:00;16/07/2024;Foggia;FG;Lunedi;2024;Luglio;77
+839;F;Foggia;FG;13/06/1931;Foggia;FG;15/07/2024;12:00:00;16/07/2024;Foggia;FG;Lunedi;2024;Luglio;93
+840;F;Foggia;FG;23/04/1925;Lucera;FG;14/07/2024;19:10:00;16/07/2024;Foggia;FG;Domenica;2024;Luglio;99
+841;F;Cerignola;FG;08/11/1933;Foggia;FG;15/07/2024;21:50:00;16/07/2024;Foggia;FG;Lunedi;2024;Luglio;90
+842;F;Lucera;FG;04/07/1953;Foggia;FG;16/07/2024;09:34:00;17/07/2024;Foggia;FG;Martedi;2024;Luglio;71
+843;M;Foggia;FG;14/09/1936;Foggia;FG;16/07/2024;07:05:00;17/07/2024;Foggia;FG;Martedi;2024;Luglio;87
+844;M;Napoli;NA;15/09/1943;Foggia;FG;16/07/2024;10:45:00;17/07/2024;Foggia;FG;Martedi;2024;Luglio;80
+845;F;Orsara Di Puglia;FG;07/01/1932;Foggia;FG;16/07/2024;17:10:00;17/07/2024;Foggia;FG;Martedi;2024;Luglio;92
+846;F;Foggia;FG;02/05/1931;Foggia;FG;16/07/2024;20:30:00;17/07/2024;Foggia;FG;Martedi;2024;Luglio;93
+847;F;Manfredonia;FG;24/10/1962;Foggia;FG;16/07/2024;18:05:00;17/07/2024;Foggia;FG;Martedi;2024;Luglio;61
+848;M;Foggia;FG;20/07/1946;Foggia;FG;16/07/2024;03:24:00;17/07/2024;Foggia;FG;Martedi;2024;Luglio;77
+849;M;San Severo;FG;28/08/1940;Foggia;FG;16/07/2024;22:50:00;18/07/2024;Foggia;FG;Martedi;2024;Luglio;83
+850;F;Foggia;FG;03/03/1937;Foggia;FG;17/07/2024;03:50:00;18/07/2024;Foggia;FG;Mercoledi;2024;Luglio;87
+851;F;Foggia;FG;21/11/1935;Foggia;FG;16/07/2024;21:45:00;18/07/2024;Foggia;FG;Martedi;2024;Luglio;88
+852;F;Foggia;FG;26/10/1932;Foggia;FG;18/07/2024;11:00:00;19/07/2024;Foggia;FG;Giovedi;2024;Luglio;91
+853;M;Cerignola;FG;10/09/1943;Foggia;FG;18/07/2024;11:50:00;19/07/2024;Foggia;FG;Giovedi;2024;Luglio;80
+854;M;Canosa Di Puglia;BA;05/01/1929;Foggia;FG;18/07/2024;11:00:00;19/07/2024;Foggia;FG;Giovedi;2024;Luglio;95
+855;F;Rocchetta Sant'Antonio;FG;22/02/1944;Foggia;FG;18/07/2024;15:50:00;19/07/2024;Foggia;FG;Giovedi;2024;Luglio;80
+856;F;Foggia;FG;13/12/1935;Foggia;FG;18/07/2024;06:05:00;19/07/2024;Foggia;FG;Giovedi;2024;Luglio;88
+857;M;Foggia;FG;22/11/1952;Foggia;FG;19/07/2024;06:45:00;20/07/2024;Foggia;FG;Venerdi;2024;Luglio;71
+858;F;Trinitapoli;FG;31/01/1925;Foggia;FG;19/07/2024;04:00:00;20/07/2024;Foggia;FG;Venerdi;2024;Luglio;99
+859;F;Foggia;FG;23/01/1934;Foggia;FG;19/07/2024;07:15:00;20/07/2024;Foggia;FG;Venerdi;2024;Luglio;90
+860;F;Foggia;FG;03/12/1957;Foggia;FG;19/07/2024;15:53:00;20/07/2024;Foggia;FG;Venerdi;2024;Luglio;66
+861;M;Carlantino;FG;10/09/1942;Foggia;FG;19/07/2024;04:25:00;20/07/2024;Foggia;FG;Venerdi;2024;Luglio;81
+862;F;Foggia;FG;03/06/1954;Foggia;FG;21/07/2024;07:40:00;22/07/2024;Foggia;FG;Domenica;2024;Luglio;70
+863;M;San Marco In Lamis;FG;29/09/1944;Foggia;FG;21/07/2024;17:38:00;22/07/2024;Foggia;FG;Domenica;2024;Luglio;79
+864;M;Monte Sant'Angelo;FG;10/06/1946;Foggia;FG;20/07/2024;14:22:00;22/07/2024;Foggia;FG;Sabato;2024;Luglio;78
+865;F;Lucera;FG;06/03/1923;Foggia;FG;20/07/2024;07:30:00;22/07/2024;Foggia;FG;Sabato;2024;Luglio;101
+866;M;Foggia;FG;03/07/1952;Foggia;FG;20/07/2024;13:35:00;22/07/2024;Foggia;FG;Sabato;2024;Luglio;72
+867;M;Desulo;NU;17/04/1957;Foggia;FG;21/07/2024;08:00:00;22/07/2024;Foggia;FG;Domenica;2024;Luglio;67
+868;M;Rocchetta Sant'Antonio;FG;02/08/1943;Foggia;FG;20/07/2024;11:00:00;22/07/2024;Foggia;FG;Sabato;2024;Luglio;80
+869;M;Foggia;FG;02/01/1964;Foggia;FG;21/07/2024;08:40:00;22/07/2024;Foggia;FG;Domenica;2024;Luglio;60
+870;M;Ascoli Satriano;FG;10/02/1940;Foggia;FG;20/07/2024;15:25:00;22/07/2024;Foggia;FG;Sabato;2024;Luglio;84
+871;F;Foggia;FG;22/07/1936;Foggia;FG;22/07/2024;19:00:00;23/07/2024;Foggia;FG;Lunedi;2024;Luglio;88
+872;M;Lacedonia;AV;20/09/1938;Foggia;FG;22/07/2024;16:38:00;23/07/2024;Foggia;FG;Lunedi;2024;Luglio;85
+873;M;Foggia;FG;08/10/1929;Foggia;FG;23/07/2024;07:31:00;24/07/2024;Foggia;FG;Martedi;2024;Luglio;94
+874;M;Foggia;FG;19/10/1969;Foggia;FG;23/07/2024;06:00:00;24/07/2024;Foggia;FG;Martedi;2024;Luglio;54
+875;F;Cerignola;FG;01/01/1939;Foggia;FG;23/07/2024;18:00:00;24/07/2024;Foggia;FG;Martedi;2024;Luglio;85
+876;M;Foggia;FG;02/06/1971;Foggia;FG;24/07/2024;22:55:00;25/07/2024;Foggia;FG;Mercoledi;2024;Luglio;53
+877;M;Foggia;FG;03/08/1956;Foggia;FG;24/07/2024;03:06:00;25/07/2024;Foggia;FG;Mercoledi;2024;Luglio;67
+878;F;San Ferdinando Di Puglia;FG;16/06/1929;Foggia;FG;23/07/2024;23:00:00;25/07/2024;Foggia;FG;Martedi;2024;Luglio;95
+879;M;Foggia;FG;04/12/1930;Foggia;FG;24/07/2024;07:45:00;25/07/2024;Foggia;FG;Mercoledi;2024;Luglio;93
+880;F;Alatri;FR;28/12/1942;Foggia;FG;24/07/2024;17:30:00;25/07/2024;Foggia;FG;Mercoledi;2024;Luglio;81
+881;M;Manfredonia;FG;09/08/1943;Foggia;FG;25/07/2024;11:00:00;26/07/2024;Foggia;FG;Giovedi;2024;Luglio;80
+882;F;San Bartolomeo In Galdo;BN;26/03/1928;Foggia;FG;25/07/2024;19:00:00;26/07/2024;Foggia;FG;Giovedi;2024;Luglio;96
+883;F;San Severo;FG;07/03/1936;Foggia;FG;25/07/2024;03:23:00;26/07/2024;Foggia;FG;Giovedi;2024;Luglio;88
+884;M;Pescara;PE;06/10/1951;Foggia;FG;25/07/2024;17:18:00;26/07/2024;Foggia;FG;Giovedi;2024;Luglio;72
+885;M;Foggia;FG;09/06/1943;Foggia;FG;26/07/2024;09:30:00;27/07/2024;Foggia;FG;Venerdi;2024;Luglio;81
+886;F;Foggia;FG;05/01/1935;Foggia;FG;26/07/2024;06:10:00;27/07/2024;Foggia;FG;Venerdi;2024;Luglio;89
+887;M;Foggia;FG;28/10/1939;Foggia;FG;26/07/2024;00:40:00;27/07/2024;Foggia;FG;Venerdi;2024;Luglio;84
+888;M;Foggia;FG;28/03/1939;Foggia;FG;26/07/2024;16:09:00;27/07/2024;Foggia;FG;Venerdi;2024;Luglio;85
+889;M;Lucera;FG;04/03/1939;Foggia;FG;26/07/2024;21:16:00;27/07/2024;Foggia;FG;Venerdi;2024;Luglio;85
+890;M;Foggia;FG;24/04/1930;Foggia;FG;25/07/2024;21:50:00;27/07/2024;Foggia;FG;Giovedi;2024;Luglio;94
+891;F;Stornara;FG;04/09/1943;Foggia;FG;26/07/2024;10:10:00;27/07/2024;Foggia;FG;Venerdi;2024;Luglio;80
+892;F;Foggia;FG;06/04/1941;Foggia;FG;27/07/2024;05:30:00;29/07/2024;Foggia;FG;Sabato;2024;Luglio;83
+893;F;Foggia;FG;29/10/1945;Foggia;FG;28/07/2024;10:40:00;29/07/2024;Foggia;FG;Domenica;2024;Luglio;78
+894;M;San Marco In Lamis;FG;22/11/1941;Foggia;FG;27/07/2024;13:40:00;29/07/2024;Foggia;FG;Sabato;2024;Luglio;82
+895;F;Catania;CT;19/04/1933;Foggia;FG;28/07/2024;11:00:00;29/07/2024;Foggia;FG;Domenica;2024;Luglio;91
+896;F;Foggia;FG;04/03/1940;Foggia;FG;28/07/2024;19:00:00;29/07/2024;Foggia;FG;Domenica;2024;Luglio;84
+897;F;Foggia;FG;22/08/1938;Foggia;FG;28/07/2024;12:30:00;29/07/2024;Foggia;FG;Domenica;2024;Luglio;85
+898;F;Foggia;FG;20/04/1953;Foggia;FG;27/07/2024;20:30:00;29/07/2024;Foggia;FG;Sabato;2024;Luglio;71
+899;M;Foggia;FG;01/10/1955;Foggia;FG;27/07/2024;20:50:00;29/07/2024;Foggia;FG;Sabato;2024;Luglio;68
+900;M;Foggia;FG;23/04/1947;Foggia;FG;27/07/2024;18:50:00;29/07/2024;Foggia;FG;Sabato;2024;Luglio;77
+901;M;Foggia;FG;20/05/1945;Foggia;FG;29/07/2024;14:10:00;30/07/2024;Foggia;FG;Lunedi;2024;Luglio;79
+902;M;San Giovanni Rotondo;FG;12/05/1963;Civitavecchi;RM;21/07/2024;07:55:00;30/07/2024;Foggia;FG;Domenica;2024;Luglio;61
+903;M;Foggia;FG;23/10/1955;Roma;RM;08/07/2024;09:03:00;30/07/2024;Foggia;FG;Lunedi;2024;Luglio;68
+904;F;Spalato;;30/05/1924;Foggia;FG;29/07/2024;08:05:00;30/07/2024;Foggia;FG;Lunedi;2024;Luglio;100
+905;M;Bari;BA;18/08/1974;Foggia;FG;29/07/2024;01:30:00;30/07/2024;Foggia;FG;Lunedi;2024;Luglio;49
+906;M;Ripacandida;PZ;03/06/1937;Foggia;FG;29/07/2024;01:39:00;30/07/2024;Foggia;FG;Lunedi;2024;Luglio;87
+907;M;Foggia;FG;02/07/1959;Foggia;FG;29/07/2024;08:31:00;30/07/2024;Foggia;FG;Lunedi;2024;Luglio;65
+908;M;Volturino;FG;02/04/1934;Foggia;FG;29/07/2024;10:30:00;30/07/2024;Foggia;FG;Lunedi;2024;Luglio;90
+909;M;Foggia;FG;16/06/1949;Foggia;FG;29/07/2024;06:50:00;30/07/2024;Foggia;FG;Lunedi;2024;Luglio;75
+910;F;San Severo;FG;04/05/1932;Foggia;FG;29/07/2024;09:45:00;30/07/2024;Foggia;FG;Lunedi;2024;Luglio;92
+911;M;Foggia;FG;13/06/1946;Foggia;FG;29/07/2024;08:00:00;30/07/2024;Foggia;FG;Lunedi;2024;Luglio;78
+912;F;Foggia;FG;07/01/1929;Foggia;FG;29/07/2024;20:30:00;31/07/2024;Foggia;FG;Lunedi;2024;Luglio;95
+913;F;Cerignola;FG;13/09/1941;San Giovanni Rotondo;FG;28/07/2024;04:29:00;31/07/2024;Foggia;FG;Domenica;2024;Luglio;82
+914;M;Acerra;NA;22/06/1931;Foggia;FG;30/07/2024;02:55:00;31/07/2024;Foggia;FG;Martedi;2024;Luglio;93
+915;F;San Marco In Lamis;FG;13/01/1947;San Marco In Lamis;FG;24/07/2024;20:00:00;31/07/2024;Foggia;FG;Mercoledi;2024;Luglio;77
+916;M;Foggia;FG;10/04/1943;Foggia;FG;30/07/2024;02:40:00;31/07/2024;Foggia;FG;Martedi;2024;Luglio;81
+917;F;Gravina In Puglia;BA;26/06/1932;Foggia;FG;30/07/2024;13:15:00;31/07/2024;Foggia;FG;Martedi;2024;Luglio;92
+918;F;Foggia;FG;22/10/1947;Foggia;FG;29/07/2024;21:50:00;31/07/2024;Foggia;FG;Lunedi;2024;Luglio;76
+919;F;San Severo;FG;01/09/1938;Foggia;FG;31/07/2024;20:30:00;01/08/2024;Foggia;FG;Mercoledi;2024;Luglio;85
+920;F;Manduria;TA;04/12/1959;Foggia;FG;31/07/2024;01:00:00;01/08/2024;Foggia;FG;Mercoledi;2024;Luglio;64
+921;F;Vasto;CH;30/08/1922;Foggia;FG;31/07/2024;10:30:00;01/08/2024;Foggia;FG;Mercoledi;2024;Luglio;101
+922;M;San Severo;FG;07/02/1965;Foggia;FG;28/07/2024;10:30:00;01/08/2024;Foggia;FG;Domenica;2024;Luglio;59
+923;F;Foggia;FG;16/02/1929;Foggia;FG;31/07/2024;20:00:00;01/08/2024;Foggia;FG;Mercoledi;2024;Luglio;95
+924;M;Foggia;FG;19/07/1950;Foggia;FG;31/07/2024;05:00:00;01/08/2024;Foggia;FG;Mercoledi;2024;Luglio;74
+925;M;Mantoukoua;;25/04/1988;Foggia;FG;09/03/2024;07:50:00;01/08/2024;Foggia;FG;Sabato;2024;Marzo;35
+926;F;Orta Nova;FG;01/07/1926;Foggia;FG;01/08/2024;02:55:00;02/08/2024;Foggia;FG;Giovedi;2024;Agosto;98
+927;M;San Giovanni Rotondo;FG;13/01/1938;Foggia;FG;01/08/2024;12:05:00;02/08/2024;Foggia;FG;Giovedi;2024;Agosto;86
+928;M;Empoli;FI;22/08/1957;Foggia;FG;31/07/2024;23:31:00;02/08/2024;Foggia;FG;Mercoledi;2024;Luglio;66
+929;F;Foggia;FG;22/02/1946;Lucera;FG;31/07/2024;16:16:00;02/08/2024;Foggia;FG;Mercoledi;2024;Luglio;78
+930;M;Foggia;FG;01/01/1946;Foggia;FG;31/07/2024;23:01:00;02/08/2024;Foggia;FG;Mercoledi;2024;Luglio;78
+931;M;Foggia;FG;29/12/1933;Foggia;FG;01/08/2024;10:10:00;02/08/2024;Foggia;FG;Giovedi;2024;Agosto;90
+932;F;Foggia;FG;18/04/1949;Foggia;FG;02/08/2024;00:30:00;03/08/2024;Foggia;FG;Venerdi;2024;Agosto;75
+933;F;Foggia;FG;19/02/1949;Foggia;FG;02/08/2024;04:00:00;03/08/2024;Foggia;FG;Venerdi;2024;Agosto;75
+934;F;Ascoli Satriano;FG;11/11/1928;Foggia;FG;01/08/2024;21:40:00;03/08/2024;Foggia;FG;Giovedi;2024;Agosto;95
+935;M;Cerignola;FG;07/04/1949;Foggia;FG;02/08/2024;16:46:00;05/08/2024;Foggia;FG;Venerdi;2024;Agosto;75
+936;M;Bovino;FG;12/10/1952;Foggia;FG;04/08/2024;17:00:00;05/08/2024;Foggia;FG;Domenica;2024;Agosto;71
+937;M;Foggia;FG;22/12/1937;Foggia;FG;03/08/2024;18:40:00;05/08/2024;Foggia;FG;Sabato;2024;Agosto;86
+938;M;Foggia;FG;26/10/1939;Foggia;FG;04/08/2024;15:27:00;05/08/2024;Foggia;FG;Domenica;2024;Agosto;84
+939;M;Foggia;FG;19/12/1940;Foggia;FG;03/08/2024;23:40:00;05/08/2024;Foggia;FG;Sabato;2024;Agosto;83
+940;F;Vico Del Gargano;FG;23/10/1943;Foggia;FG;03/08/2024;05:30:00;05/08/2024;Foggia;FG;Sabato;2024;Agosto;80
+941;F;Taranto;TA;21/03/1925;Foggia;FG;03/08/2024;20:29:00;05/08/2024;Foggia;FG;Sabato;2024;Agosto;99
+942;M;Foggia;FG;23/11/1967;Foggia;FG;04/08/2024;11:35:00;05/08/2024;Foggia;FG;Domenica;2024;Agosto;56
+943;M;Foggia;FG;15/11/1931;Foggia;FG;04/08/2024;16:30:00;05/08/2024;Foggia;FG;Domenica;2024;Agosto;92
+944;M;Caserta;NA;08/06/1935;Foggia;FG;03/08/2024;05:00:00;05/08/2024;Foggia;FG;Sabato;2024;Agosto;89
+945;M;Foggia;FG;27/09/1939;Foggia;FG;03/08/2024;06:32:00;05/08/2024;Foggia;FG;Sabato;2024;Agosto;84
+946;F;Foggia;FG;15/01/1937;Foggia;FG;05/08/2024;18:55:00;06/08/2024;Foggia;FG;Lunedi;2024;Agosto;87
+947;M;Ariano Irpino;AV;09/12/1940;Foggia;FG;05/08/2024;06:40:00;06/08/2024;Foggia;FG;Lunedi;2024;Agosto;83
+948;F;Salo';BS;11/03/1931;Foggia;FG;05/08/2024;13:37:00;06/08/2024;Foggia;FG;Lunedi;2024;Agosto;93
+949;M;Foggia;FG;27/05/1943;Foggia;FG;05/08/2024;14:50:00;06/08/2024;Foggia;FG;Lunedi;2024;Agosto;81
+950;F;Bovino;FG;03/11/1933;Foggia;FG;05/08/2024;21:20:00;07/08/2024;Foggia;FG;Lunedi;2024;Agosto;90
+951;F;Biccari;FG;12/03/1934;Biccari;FG;23/07/2024;13:15:00;07/08/2024;Foggia;FG;Martedi;2024;Luglio;90
+952;F;Foggia;FG;04/08/1944;Castelluccio Dei Sauri;FG;28/07/2024;15:00:00;07/08/2024;Foggia;FG;Domenica;2024;Luglio;79
+953;M;Foggia;FG;26/07/1945;Manfredonia;FG;05/08/2024;06:00:00;07/08/2024;Foggia;FG;Lunedi;2024;Agosto;79
+954;M;Manfredonia;FG;07/07/1943;Foggia;FG;07/08/2024;19:15:00;08/08/2024;Foggia;FG;Mercoledi;2024;Agosto;81
+955;F;Foggia;FG;30/08/1959;Foggia;FG;07/08/2024;10:11:00;08/08/2024;Foggia;FG;Mercoledi;2024;Agosto;64
+956;M;Foggia;FG;15/04/1930;Foggia;FG;06/08/2024;22:42:00;08/08/2024;Foggia;FG;Martedi;2024;Agosto;94
+957;M;Foggia;FG;10/10/1963;Foggia;FG;08/08/2024;10:40:00;09/08/2024;Foggia;FG;Giovedi;2024;Agosto;60
+958;F;Foggia;FG;17/05/1937;Foggia;FG;08/08/2024;12:44:00;09/08/2024;Foggia;FG;Giovedi;2024;Agosto;87
+959;F;Foggia;FG;30/12/1961;Foggia;FG;08/08/2024;09:30:00;09/08/2024;Foggia;FG;Giovedi;2024;Agosto;62
+960;F;Candela;FG;15/12/1946;Foggia;FG;08/08/2024;23:10:00;10/08/2024;Foggia;FG;Giovedi;2024;Agosto;77
+961;M;Codogno;MI;22/09/1929;Foggia;FG;09/08/2024;10:48:00;10/08/2024;Foggia;FG;Venerdi;2024;Agosto;94
+962;F;Castri Di Lecce;LE;08/06/1942;Foggia;FG;09/08/2024;17:50:00;10/08/2024;Foggia;FG;Venerdi;2024;Agosto;82
+963;F;San Marco In Lamis;FG;24/02/1930;Foggia;FG;09/08/2024;12:20:00;10/08/2024;Foggia;FG;Venerdi;2024;Agosto;94
+964;F;Foggia;FG;08/01/1932;Foggia;FG;09/08/2024;11:45:00;10/08/2024;Foggia;FG;Venerdi;2024;Agosto;92
+965;F;Maddaloni;NA;01/07/1932;Foggia;FG;11/08/2024;08:45:00;12/08/2024;Foggia;FG;Domenica;2024;Agosto;92
+966;F;Sant'Agata Di Puglia;FG;02/01/1944;Foggia;FG;09/08/2024;20:56:00;12/08/2024;Foggia;FG;Venerdi;2024;Agosto;80
+967;F;Foggia;FG;04/04/1929;Foggia;FG;10/08/2024;04:00:00;12/08/2024;Foggia;FG;Sabato;2024;Agosto;95
+968;F;Torre Annunziata;NA;06/01/1936;Foggia;FG;11/08/2024;02:57:00;12/08/2024;Foggia;FG;Domenica;2024;Agosto;88
+969;F;Foggia;FG;18/01/1936;Foggia;FG;11/08/2024;20:02:00;12/08/2024;Foggia;FG;Domenica;2024;Agosto;88
+970;F;Foggia;FG;13/05/1967;Foggia;FG;09/08/2024;12:45:00;12/08/2024;Foggia;FG;Venerdi;2024;Agosto;57
+971;M;Foggia;FG;30/04/1979;Foggia;FG;04/08/2024;02:45:00;12/08/2024;Foggia;FG;Domenica;2024;Agosto;45
+972;F;Poggio Imperiale;FG;16/07/1923;Foggia;FG;12/08/2024;18:40:00;13/08/2024;Foggia;FG;Lunedi;2024;Agosto;101
+973;M;Foggia;FG;18/03/1951;Foggia;FG;12/08/2024;04:49:00;13/08/2024;Foggia;FG;Lunedi;2024;Agosto;73
+974;F;Foggia;FG;20/11/1937;Foggia;FG;12/08/2024;06:10:00;13/08/2024;Foggia;FG;Lunedi;2024;Agosto;86
+975;M;Foggia;FG;25/01/1945;Foggia;FG;11/08/2024;19:00:00;13/08/2024;Foggia;FG;Domenica;2024;Agosto;79
+976;F;Foggia;FG;17/03/1942;Foggia;FG;12/08/2024;20:30:00;14/08/2024;Foggia;FG;Lunedi;2024;Agosto;82
+977;F;San Marco In Lamis;FG;11/08/1929;Foggia;FG;12/08/2024;22:00:00;14/08/2024;Foggia;FG;Lunedi;2024;Agosto;95
+978;M;Deliceto;FG;27/04/1940;Foggia;FG;13/08/2024;12:20:00;14/08/2024;Foggia;FG;Martedi;2024;Agosto;84
+979;M;Foggia;FG;26/10/1960;Foggia;FG;12/08/2024;23:30:00;14/08/2024;Foggia;FG;Lunedi;2024;Agosto;63
+980;F;Foggia;FG;04/07/1984;Foggia;FG;12/08/2024;22:00:00;14/08/2024;Foggia;FG;Lunedi;2024;Agosto;40
+981;M;Orta Nova;FG;22/12/1934;Foggia;FG;10/08/2024;21:54:00;14/08/2024;Foggia;FG;Sabato;2024;Agosto;89
+982;M;Foggia;FG;01/03/1952;Foggia;FG;15/08/2024;12:35:00;16/08/2024;Foggia;FG;Giovedi;2024;Agosto;72
+983;M;Foggia;FG;03/09/1939;Foggia;FG;14/08/2024;06:45:00;16/08/2024;Foggia;FG;Mercoledi;2024;Agosto;84
+984;M;Foggia;FG;13/06/1957;Foggia;FG;14/08/2024;09:20:00;16/08/2024;Foggia;FG;Mercoledi;2024;Agosto;67
+985;M;Foggia;FG;16/01/1936;Foggia;FG;15/08/2024;15:05:00;16/08/2024;Foggia;FG;Giovedi;2024;Agosto;88
+986;M;Sant'Agata Di Puglia;FG;14/01/1936;Foggia;FG;15/08/2024;07:50:00;16/08/2024;Foggia;FG;Giovedi;2024;Agosto;88
+987;F;Foggia;FG;24/05/1957;Foggia;FG;14/08/2024;11:47:00;16/08/2024;Foggia;FG;Mercoledi;2024;Agosto;67
+988;F;Orsara Di Puglia;FG;29/03/1928;Foggia;FG;14/08/2024;18:50:00;16/08/2024;Foggia;FG;Mercoledi;2024;Agosto;96
+989;M;Orsara Di Puglia;FG;18/08/1948;Foggia;FG;16/08/2024;18:05:00;17/08/2024;Foggia;FG;Venerdi;2024;Agosto;75
+990;M;Orta Nova;FG;16/03/1960;Foggia;FG;16/08/2024;08:30:00;17/08/2024;Foggia;FG;Venerdi;2024;Agosto;64
+991;F;Manfredonia;FG;22/01/1940;Foggia;FG;16/08/2024;18:15:00;17/08/2024;Foggia;FG;Venerdi;2024;Agosto;84
+992;F;Orsara Di Puglia;FG;09/08/1937;Foggia;FG;16/08/2024;14:15:00;17/08/2024;Foggia;FG;Venerdi;2024;Agosto;87
+993;M;San Marco In Lamis;FG;20/06/1949;Foggia;FG;15/08/2024;20:13:00;17/08/2024;Foggia;FG;Giovedi;2024;Agosto;75
+994;M;Motta Montecorvino;FG;23/05/1932;Foggia;FG;16/08/2024;06:21:00;17/08/2024;Foggia;FG;Venerdi;2024;Agosto;92
+995;F;Foggia;FG;08/08/1929;Foggia;FG;16/08/2024;00:06:00;17/08/2024;Foggia;FG;Venerdi;2024;Agosto;95
+996;M;Couvet;;23/01/1964;Foggia;FG;16/08/2024;20:00:00;19/08/2024;Foggia;FG;Venerdi;2024;Agosto;60
+997;M;Foggia;FG;30/07/1934;Foggia;FG;18/08/2024;12:08:00;19/08/2024;Foggia;FG;Domenica;2024;Agosto;90
+998;F;Matera;MT;17/05/1941;Foggia;FG;17/08/2024;19:00:00;19/08/2024;Foggia;FG;Sabato;2024;Agosto;83
+999;M;Pietramontecorvino;F G;10/03/1934;Foggia;FG;17/08/2024;08:26:00;19/08/2024;Foggia;FG;Sabato;2024;Agosto;90
+1000;F;Foggia;FG;09/08/1939;Foggia;FG;18/08/2024;08:20:00;19/08/2024;Foggia;FG;Domenica;2024;Agosto;85
+1001;M;Foggia;FG;16/05/1936;Foggia;FG;18/08/2024;10:30:00;19/08/2024;Foggia;FG;Domenica;2024;Agosto;88
+1002;M;Foggia;FG;21/01/1937;Foggia;FG;18/08/2024;08:00:00;19/08/2024;Foggia;FG;Domenica;2024;Agosto;87
+1003;M;Foggia;FG;01/07/1946;Foggia;FG;18/08/2024;13:08:00;19/08/2024;Foggia;FG;Domenica;2024;Agosto;78
+1004;M;Cerignola;FG;21/08/1946;Foggia;FG;18/08/2024;21:45:00;20/08/2024;Foggia;FG;Domenica;2024;Agosto;77
+1005;M;Foggia;FG;10/06/1970;Foggia;FG;18/08/2024;21:00:00;20/08/2024;Foggia;FG;Domenica;2024;Agosto;54
+1006;F;Panni;FG;12/12/1933;Foggia;FG;19/08/2024;14:30:00;20/08/2024;Foggia;FG;Lunedi;2024;Agosto;90
+1007;M;Bari;BA;18/11/1932;Foggia;FG;20/08/2024;15:55:00;21/08/2024;Foggia;FG;Martedi;2024;Agosto;91
+1008;F;San Marco In Lamis;FG;28/06/1942;Foggia;FG;19/08/2024;23:30:00;21/08/2024;Foggia;FG;Lunedi;2024;Agosto;82
+1009;F;San Paolo Di Civitate;FG;07/07/1948;San Salvo;CH;17/08/2024;04:45:00;21/08/2024;Foggia;FG;Sabato;2024;Agosto;76
+1010;M;Foggia;FG;13/06/1934;Foggia;FG;20/08/2024;08:27:00;21/08/2024;Foggia;FG;Martedi;2024;Agosto;90
+1011;F;Castelluccio Valmaggiore;FG;12/08/1926;Roseto Valfortore;FG;18/08/2024;12:30:00;21/08/2024;Foggia;FG;Domenica;2024;Agosto;98
+1012;F;Foggia;FG;17/08/1978;Foggia;FG;20/08/2024;01:00:00;21/08/2024;Foggia;FG;Martedi;2024;Agosto;46
+1013;F;Foggia;FG;31/03/1934;San Giovanni Rotondo;FG;16/08/2024;13:15:00;21/08/2024;Foggia;FG;Venerdi;2024;Agosto;90
+1014;M;Foggia;FG;02/06/1966;Foggia;FG;20/08/2024;10:40:00;21/08/2024;Foggia;FG;Martedi;2024;Agosto;58
+1015;F;San Severo;FG;27/07/1973;Foggia;FG;20/08/2024;20:00:00;21/08/2024;Foggia;FG;Martedi;2024;Agosto;51
+1016;F;Foggia;FG;21/04/1940;Foggia;FG;20/08/2024;20:57:00;21/08/2024;Foggia;FG;Martedi;2024;Agosto;84
+1017;F;Carlantino;FG;28/02/1958;Foligno;PG;17/08/2024;17:30:00;22/08/2024;Foggia;FG;Sabato;2024;Agosto;66
+1018;F;Foggia;FG;20/11/1926;Fano;PU;14/08/2024;22:36:00;22/08/2024;Foggia;FG;Mercoledi;2024;Agosto;97
+1019;F;Foggia;FG;02/07/1960;San Giovanni Rotondo;FG;21/08/2024;23:56:00;22/08/2024;Foggia;FG;Mercoledi;2024;Agosto;64
+1020;M;Rutigliano;BA;04/01/1941;Foggia;FG;21/08/2024;15:00:00;22/08/2024;Foggia;FG;Mercoledi;2024;Agosto;83
+1021;M;Foggia;FG;15/02/1951;Foggia;FG;21/08/2024;10:20:00;22/08/2024;Foggia;FG;Mercoledi;2024;Agosto;73
+1022;F;Foggia;FG;05/05/1962;Foggia;FG;21/08/2024;11:08:00;22/08/2024;Foggia;FG;Mercoledi;2024;Agosto;62
+1023;F;Foggia;FG;29/11/1942;Foggia;FG;21/08/2024;10:21:00;22/08/2024;Foggia;FG;Mercoledi;2024;Agosto;81
+1024;M;Foggia;FG;28/04/1935;San Giovanni Rotondo;FG;18/08/2024;01:45:00;22/08/2024;Foggia;FG;Domenica;2024;Agosto;89
+1025;M;Foggia;FG;04/12/1934;Foggia;FG;21/08/2024;12:33:00;22/08/2024;Foggia;FG;Mercoledi;2024;Agosto;89
+1026;M;Foggia;FG;17/07/1944;San Giovanni Rotondo;FG;30/07/2024;12:30:00;22/08/2024;Foggia;FG;Martedi;2024;Luglio;80
+1027;F;Foggia;FG;25/01/1938;Foggia;FG;21/08/2024;03:00:00;22/08/2024;Foggia;FG;Mercoledi;2024;Agosto;86
+1028;M;Foggia;FG;12/01/1948;Foggia;FG;21/08/2024;14:10:00;22/08/2024;Foggia;FG;Mercoledi;2024;Agosto;76
+1029;F;Sannicandro Garganico;FG;12/02/1968;Foggia;FG;21/08/2024;09:22:00;22/08/2024;Foggia;FG;Mercoledi;2024;Agosto;56
+1030;M;Foggia;FG;14/02/1939;Foggia;FG;21/08/2024;02:30:00;22/08/2024;Foggia;FG;Mercoledi;2024;Agosto;85
+1031;M;Foggia;FG;04/08/1935;Foggia;FG;22/08/2024;12:30:00;23/08/2024;Foggia;FG;Giovedi;2024;Agosto;89
+1032;F;Foggia;FG;04/07/1938;Foggia;FG;22/08/2024;07:41:00;23/08/2024;Foggia;FG;Giovedi;2024;Agosto;86
+1033;F;Foggia;FG;01/10/1952;Foggia;FG;22/08/2024;10:30:00;23/08/2024;Foggia;FG;Giovedi;2024;Agosto;71
+1034;M;Deliceto;FG;04/01/1928;Foggia;FG;21/08/2024;21:39:00;23/08/2024;Foggia;FG;Mercoledi;2024;Agosto;96
+1035;F;Praia A Mare;CS;15/11/1927;Foggia;FG;23/08/2024;07:50:00;24/08/2024;Foggia;FG;Venerdi;2024;Agosto;96
+1036;M;Foggia;FG;31/10/1940;Foggia;FG;23/08/2024;08:05:00;24/08/2024;Foggia;FG;Venerdi;2024;Agosto;83
+1037;M;Foggia;FG;06/11/1941;Foggia;FG;22/08/2024;22:36:00;24/08/2024;Foggia;FG;Giovedi;2024;Agosto;82
+1038;F;Accadia;FG;22/11/1929;Foggia;FG;24/08/2024;14:05:00;26/08/2024;Foggia;FG;Sabato;2024;Agosto;94
+1039;M;Troia;FG;18/04/1942;Foggia;FG;25/08/2024;02:30:00;26/08/2024;Foggia;FG;Domenica;2024;Agosto;82
+1040;F;Foggia;FG;01/04/1935;Foggia;FG;25/08/2024;15:52:00;26/08/2024;Foggia;FG;Domenica;2024;Agosto;89
+1041;M;Foggia;FG;26/08/1945;Foggia;FG;24/08/2024;17:57:00;26/08/2024;Foggia;FG;Sabato;2024;Agosto;78
+1042;F;Foggia;FG;20/11/1954;Foggia;FG;24/08/2024;17:40:00;26/08/2024;Foggia;FG;Sabato;2024;Agosto;69
+1043;F;Foggia;FG;10/01/1960;Foggia;FG;24/08/2024;23:15:00;26/08/2024;Foggia;FG;Sabato;2024;Agosto;64
+1044;F;Foggia;FG;27/06/1944;Foggia;FG;24/08/2024;09:15:00;26/08/2024;Foggia;FG;Sabato;2024;Agosto;80
+1045;F;Foggia;FG;25/05/1947;Foggia;FG;25/08/2024;07:05:00;26/08/2024;Foggia;FG;Domenica;2024;Agosto;77
+1046;F;Foggia;FG;18/10/1958;Foggia;FG;24/08/2024;16:30:00;26/08/2024;Foggia;FG;Sabato;2024;Agosto;65
+1047;M;Foggia;FG;30/09/1949;Foggia;FG;23/08/2024;20:40:00;26/08/2024;Foggia;FG;Venerdi;2024;Agosto;74
+1048;F;Ischitella;FG;28/05/1939;Foggia;FG;25/08/2024;11:15:00;26/08/2024;Foggia;FG;Domenica;2024;Agosto;85
+1049;F;San Giovanni Al Natisone;UD;22/04/1946;Foggia;FG;25/08/2024;14:10:00;26/08/2024;Foggia;FG;Domenica;2024;Agosto;78
+1050;M;Orta Nova;FG;02/10/1924;Foggia;FG;26/08/2024;11:15:00;27/08/2024;Foggia;FG;Lunedi;2024;Agosto;99
+1051;M;Foggia;FG;19/04/1969;Foggia;FG;26/08/2024;01:50:00;27/08/2024;Foggia;FG;Lunedi;2024;Agosto;55
+1052;F;Canosa Di Puglia;BA;28/02/1936;Foggia;FG;25/08/2024;17:00:00;27/08/2024;Foggia;FG;Domenica;2024;Agosto;88
+1053;M;Foggia;FG;04/10/1960;Foggia;FG;26/08/2024;19:05:00;27/08/2024;Foggia;FG;Lunedi;2024;Agosto;63
+1054;F;Foggia;FG;18/12/1936;Foggia;FG;26/08/2024;01:20:00;27/08/2024;Foggia;FG;Lunedi;2024;Agosto;87
+1055;M;Troia;FG;23/12/1933;Foggia;FG;26/08/2024;12:00:00;27/08/2024;Foggia;FG;Lunedi;2024;Agosto;90
+1056;F;Foggia;FG;18/06/1934;Foggia;FG;27/08/2024;10:07:00;28/08/2024;Foggia;FG;Martedi;2024;Agosto;90
+1057;F;San Giovanni Rotondo;FG;29/11/1943;Foggia;FG;26/08/2024;16:30:00;28/08/2024;Foggia;FG;Lunedi;2024;Agosto;80
+1058;F;Foggia;FG;09/08/1952;Foggia;FG;27/08/2024;20:30:00;28/08/2024;Foggia;FG;Martedi;2024;Agosto;72
+1059;F;Castelnuovo Della Daunia;FG;22/09/1960;Foggia;FG;26/08/2024;18:43:00;28/08/2024;Foggia;FG;Lunedi;2024;Agosto;63
+1060;F;Foggia;FG;15/11/1934;Foggia;FG;26/08/2024;18:15:00;28/08/2024;Foggia;FG;Lunedi;2024;Agosto;89
+1061;F;Castelvetrano;TP;26/07/1927;Foggia;FG;27/08/2024;10:30:00;28/08/2024;Foggia;FG;Martedi;2024;Agosto;97
+1062;F;Foggia;FG;13/03/1941;Foggia;FG;28/08/2024;06:00:00;29/08/2024;Foggia;FG;Mercoledi;2024;Agosto;83
+1063;M;Napoli;NA;18/05/1953;San Severo;FG;24/08/2024;10:50:00;29/08/2024;Foggia;FG;Sabato;2024;Agosto;71
+1064;F;Monte Sant'Angelo;FG;26/03/1927;Manfredonia;FG;22/08/2024;20:45:00;29/08/2024;Foggia;FG;Giovedi;2024;Agosto;97
+1065;M;Foggia;FG;24/12/1941;Foggia;FG;28/08/2024;07:30:00;29/08/2024;Foggia;FG;Mercoledi;2024;Agosto;82
+1066;F;Gioia Del Colle;BA;10/01/1929;Accadia;FG;27/03/2021;19:00:00;29/08/2024;Foggia;FG;Sabato;2021;Marzo;92
+1067;F;Candela;FG;26/04/1934;Foggia;FG;28/08/2024;09:08:00;29/08/2024;Foggia;FG;Mercoledi;2024;Agosto;90
+1068;F;Avigliano;PZ;27/07/1938;Foggia;FG;28/08/2024;12:30:00;29/08/2024;Foggia;FG;Mercoledi;2024;Agosto;86
+1069;F;Canosa Di Puglia;BA;03/09/1951;Foggia;FG;28/08/2024;23:07:00;30/08/2024;Foggia;FG;Mercoledi;2024;Agosto;72
+1070;M;Cerignola;FG;18/06/1938;San Salvo;CH;28/08/2024;15:56:00;30/08/2024;Foggia;FG;Mercoledi;2024;Agosto;86
+1071;M;Foggia;FG;06/12/1933;Foggia;FG;30/08/2024;18:55:00;31/08/2024;Foggia;FG;Venerdi;2024;Agosto;90
+1072;F;Deliceto;FG;28/07/1933;Foggia;FG;30/08/2024;13:15:00;31/08/2024;Foggia;FG;Venerdi;2024;Agosto;91
+1073;M;Orsara Di Puglia;FG;02/08/1944;Foggia;FG;30/08/2024;02:30:00;31/08/2024;Foggia;FG;Venerdi;2024;Agosto;80
+1074;M;Foggia;FG;30/11/1955;Foggia;FG;31/08/2024;19:40:00;02/09/2024;Foggia;FG;Sabato;2024;Agosto;68
+1075;M;Foggia;FG;10/04/1952;Foggia;FG;31/08/2024;20:40:00;02/09/2024;Foggia;FG;Sabato;2024;Agosto;72
+1076;M;Foggia;FG;21/09/1935;Foggia;FG;01/09/2024;14:35:00;02/09/2024;Foggia;FG;Domenica;2024;Settembre;88
+1077;F;Foggia;FG;17/12/1929;Foggia;FG;01/09/2024;00:45:00;02/09/2024;Foggia;FG;Domenica;2024;Settembre;94
+1078;M;Ceraso;SA;01/12/1943;Foggia;FG;02/09/2024;20:55:00;03/09/2024;Foggia;FG;Lunedi;2024;Settembre;80
+1079;M;Foggia;FG;27/01/1948;Foggia;FG;02/09/2024;09:15:00;03/09/2024;Foggia;FG;Lunedi;2024;Settembre;76
+1080;M;Ascoli Satriano;FG;05/11/1935;Foggia;FG;02/09/2024;20:32:00;03/09/2024;Foggia;FG;Lunedi;2024;Settembre;88
+1081;M;Canosa Di Puglia;BA;08/05/1943;Foggia;FG;02/09/2024;10:04:00;03/09/2024;Foggia;FG;Lunedi;2024;Settembre;81
+1082;M;Foggia;FG;14/01/1943;Foggia;FG;02/09/2024;02:50:00;03/09/2024;Foggia;FG;Lunedi;2024;Settembre;81
+1083;M;Foggia;FG;30/03/2007;Foggia;FG;01/09/2024;04:00:00;03/09/2024;Foggia;FG;Domenica;2024;Settembre;17
+1084;F;Piedimonte D'Alife;BN;24/06/1929;Foggia;FG;03/09/2024;02:00:00;04/09/2024;Foggia;FG;Martedi;2024;Settembre;95
+1085;M;Foggia;FG;18/03/1944;Foggia;FG;03/09/2024;15:03:00;04/09/2024;Foggia;FG;Martedi;2024;Settembre;80
+1086;M;Bonea;BN;22/03/1959;Foggia;FG;04/09/2024;05:20:00;05/09/2024;Foggia;FG;Mercoledi;2024;Settembre;65
+1087;M;Sant'Angelo Dei Lombardi;AV;03/10/1939;Foggia;FG;04/09/2024;16:00:00;05/09/2024;Foggia;FG;Mercoledi;2024;Settembre;84
+1088;F;Foggia;FG;19/06/1934;Foggia;FG;04/09/2024;19:15:00;05/09/2024;Foggia;FG;Mercoledi;2024;Settembre;90
+1089;F;Foggia;FG;11/02/1932;Foggia;FG;04/09/2024;20:00:00;05/09/2024;Foggia;FG;Mercoledi;2024;Settembre;92
+1090;M;Foggia;FG;11/09/1930;Foggia;FG;04/09/2024;08:08:00;05/09/2024;Foggia;FG;Mercoledi;2024;Settembre;93
+1091;F;Volturino;FG;10/01/1935;Foggia;FG;05/09/2024;01:10:00;06/09/2024;Foggia;FG;Giovedi;2024;Settembre;89
+1092;M;Foggia;FG;14/02/1970;Foggia;FG;05/09/2024;17:45:00;06/09/2024;Foggia;FG;Giovedi;2024;Settembre;54
+1093;F;San Ferdinando Di Puglia;FG;09/03/1921;Foggia;FG;04/09/2024;23:55:00;06/09/2024;Foggia;FG;Mercoledi;2024;Settembre;103
+1094;M;Panni;FG;28/04/1931;Foggia;FG;05/09/2024;21:42:00;06/09/2024;Foggia;FG;Giovedi;2024;Settembre;93
+1095;M;Pontelandolfo;BN;15/01/1931;Foggia;FG;06/09/2024;05:00:00;07/09/2024;Foggia;FG;Venerdi;2024;Settembre;93
+1096;M;Foggia;FG;27/04/1952;Foggia;FG;06/09/2024;06:35:00;07/09/2024;Foggia;FG;Venerdi;2024;Settembre;72
+1097;M;Foggia;FG;19/04/1952;Foggia;FG;06/09/2024;11:10:00;07/09/2024;Foggia;FG;Venerdi;2024;Settembre;72
+1098;M;Foggia;FG;05/04/1955;Foggia;FG;06/09/2024;07:55:00;07/09/2024;Foggia;FG;Venerdi;2024;Settembre;69
+1099;F;Foggia;FG;22/08/1930;Foggia;FG;06/09/2024;18:00:00;07/09/2024;Foggia;FG;Venerdi;2024;Settembre;94
+1100;M;Torino;TO;13/08/1964;Foggia;FG;06/09/2024;22:20:00;09/09/2024;Foggia;FG;Venerdi;2024;Settembre;60
+1101;M;Foggia;FG;03/12/1947;Foggia;FG;06/09/2024;19:20:00;09/09/2024;Foggia;FG;Venerdi;2024;Settembre;76
+1102;M;Foggia;FG;26/01/1965;Foggia;FG;08/09/2024;09:50:00;09/09/2024;Foggia;FG;Domenica;2024;Settembre;59
+1103;M;Foggia;FG;21/03/1940;Foggia;FG;07/09/2024;12:00:00;09/09/2024;Foggia;FG;Sabato;2024;Settembre;84
+1104;M;Foggia;FG;21/11/1946;Foggia;FG;07/09/2024;10:53:00;09/09/2024;Foggia;FG;Sabato;2024;Settembre;77
+1105;M;Foggia;FG;17/06/1948;Foggia;FG;07/09/2024;15:50:00;09/09/2024;Foggia;FG;Sabato;2024;Settembre;76
+1106;F;Orta Nova;FG;19/08/1940;Foggia;FG;07/09/2024;12:27:00;09/09/2024;Foggia;FG;Sabato;2024;Settembre;84
+1107;F;Foggia;FG;26/12/1936;Foggia;FG;07/09/2024;04:15:00;09/09/2024;Foggia;FG;Sabato;2024;Settembre;87
+1108;F;Apricena;FG;24/02/1939;Foggia;FG;08/09/2024;11:00:00;09/09/2024;Foggia;FG;Domenica;2024;Settembre;85
+1109;F;Foggia;FG;13/07/1971;Roma;RM;31/07/2024;06:30:00;10/09/2024;Foggia;FG;Mercoledi;2024;Luglio;53
+1110;M;Volturara Appula;FG;01/08/1927;Foggia;FG;09/09/2024;17:00:00;10/09/2024;Foggia;FG;Lunedi;2024;Settembre;97
+1111;M;Faeto;FG;16/06/1943;Roseto Valfortore;FG;28/08/2024;20:00:00;10/09/2024;Foggia;FG;Mercoledi;2024;Agosto;81
+1112;F;San Severo;FG;04/05/1920;Foggia;FG;08/09/2024;23:55:00;10/09/2024;Foggia;FG;Domenica;2024;Settembre;104
+1113;F;Minervino Murge;BA;24/11/1936;Troia;FG;04/09/2024;13:20:00;10/09/2024;Foggia;FG;Mercoledi;2024;Settembre;87
+1114;M;Foggia;FG;04/09/1938;Termoli;CB;02/09/2024;05:00:00;10/09/2024;Foggia;FG;Lunedi;2024;Settembre;85
+1115;F;Montaguto;AV;13/04/1928;Panni;FG;03/09/2024;21:50:00;10/09/2024;Foggia;FG;Martedi;2024;Settembre;96
+1116;F;El Charco Narino;;10/01/1964;San Giovanni Rotondo;FG;05/09/2024;11:50:00;10/09/2024;Foggia;FG;Giovedi;2024;Settembre;60
+1117;M;Foggia;FG;30/01/1951;Foggia;FG;08/09/2024;19:13:00;10/09/2024;Foggia;FG;Domenica;2024;Settembre;73
+1118;F;Foggia;FG;03/01/1953;Foggia;FG;10/09/2024;06:38:00;11/09/2024;Foggia;FG;Martedi;2024;Settembre;71
+1119;M;Foggia;FG;01/03/1947;Foggia;FG;10/09/2024;07:00:00;11/09/2024;Foggia;FG;Martedi;2024;Settembre;77
+1120;M;Foggia;FG;30/06/1930;Foggia;FG;10/09/2024;09:55:00;11/09/2024;Foggia;FG;Martedi;2024;Settembre;94
+1121;F;Bovino;FG;03/07/1939;Foggia;FG;10/09/2024;05:43:00;11/09/2024;Foggia;FG;Martedi;2024;Settembre;85
+1122;M;Barletta;BA;12/09/1944;Foggia;FG;11/09/2024;05:30:00;12/09/2024;Foggia;FG;Mercoledi;2024;Settembre;79
+1123;F;Foggia;FG;21/08/1942;Foggia;FG;11/09/2024;06:50:00;12/09/2024;Foggia;FG;Mercoledi;2024;Settembre;82
+1124;M;Foggia;FG;09/12/1967;Orta Nova;FG;11/09/2024;09:25:00;12/09/2024;Foggia;FG;Mercoledi;2024;Settembre;56
+1125;F;Foggia;FG;03/04/1945;Foggia;FG;11/09/2024;17:00:00;12/09/2024;Foggia;FG;Mercoledi;2024;Settembre;79
+1126;F;Carapelle;FG;28/01/1931;Foggia;FG;11/09/2024;07:15:00;12/09/2024;Foggia;FG;Mercoledi;2024;Settembre;93
+1127;M;Mottola;TA;30/05/1929;Foggia;FG;11/09/2024;14:00:00;12/09/2024;Foggia;FG;Mercoledi;2024;Settembre;95
+1128;M;Foggia;FG;17/01/1937;Foggia;FG;11/09/2024;22:00:00;13/09/2024;Foggia;FG;Mercoledi;2024;Settembre;87
+1129;M;Bari;BA;04/02/1962;Foggia;FG;12/09/2024;08:00:00;13/09/2024;Foggia;FG;Giovedi;2024;Settembre;62
+1130;M;Sant'Agata Di Puglia;FG;01/12/1940;Foggia;FG;13/09/2024;13:25:00;14/09/2024;Foggia;FG;Venerdi;2024;Settembre;83
+1131;F;Candela;FG;01/04/1944;Foggia;FG;14/09/2024;03:30:00;14/09/2024;Foggia;FG;Sabato;2024;Settembre;80
+1132;M;Foggia;FG;02/08/1977;Foggia;FG;15/09/2024;15:35:00;16/09/2024;Foggia;FG;Domenica;2024;Settembre;47
+1133;F;Montaguto;AV;28/06/1937;Foggia;FG;14/09/2024;05:06:00;16/09/2024;Foggia;FG;Sabato;2024;Settembre;87
+1134;M;Foggia;FG;29/08/1948;Foggia;FG;14/09/2024;18:27:00;16/09/2024;Foggia;FG;Sabato;2024;Settembre;76
+1135;F;Foggia;FG;03/03/1935;Foggia;FG;15/09/2024;02:49:00;16/09/2024;Foggia;FG;Domenica;2024;Settembre;89
+1136;F;Pianella;PE;08/06/1939;Foggia;FG;14/09/2024;14:50:00;16/09/2024;Foggia;FG;Sabato;2024;Settembre;85
+1137;F;Foggia;FG;20/01/1932;Foggia;FG;15/09/2024;06:20:00;16/09/2024;Foggia;FG;Domenica;2024;Settembre;92
+1138;F;Foggia;FG;04/05/1944;Foggia;FG;14/09/2024;20:40:00;16/09/2024;Foggia;FG;Sabato;2024;Settembre;80
+1139;M;Foggia;FG;09/08/1940;Foggia;FG;15/09/2024;04:00:00;16/09/2024;Foggia;FG;Domenica;2024;Settembre;84
+1140;F;Foggia;FG;19/09/1953;San Giovanni Rotondo;FG;16/09/2024;19:45:00;17/09/2024;Foggia;FG;Lunedi;2024;Settembre;70
+1141;F;San Marco In Lamis;FG;09/03/1948;Lucera;FG;01/09/2024;00:55:00;17/09/2024;Foggia;FG;Domenica;2024;Settembre;76
+1142;F;Bisceglie;BA;14/05/1931;Foggia;FG;15/09/2024;16:00:00;17/09/2024;Foggia;FG;Domenica;2024;Settembre;93
+1143;F;Foggia;FG;15/07/1958;Foggia;FG;14/09/2024;18:15:00;17/09/2024;Foggia;FG;Sabato;2024;Settembre;66
+1144;F;Sant'Agata Di Puglia;FG;02/12/1946;Foggia;FG;16/09/2024;14:54:00;17/09/2024;Foggia;FG;Lunedi;2024;Settembre;77
+1145;F;Foggia;FG;12/04/1953;Foggia;FG;16/09/2024;09:37:00;17/09/2024;Foggia;FG;Lunedi;2024;Settembre;71
+1146;F;San Severo;FG;16/06/1934;Foggia;FG;17/09/2024;05:55:00;18/09/2024;Foggia;FG;Martedi;2024;Settembre;90
+1147;F;Orsara Di Puglia;FG;14/09/1946;Foggia;FG;17/09/2024;01:30:00;18/09/2024;Foggia;FG;Martedi;2024;Settembre;78
+1148;M;Rutigliano;BA;23/02/1937;Foggia;FG;17/09/2024;12:55:00;18/09/2024;Foggia;FG;Martedi;2024;Settembre;87
+1149;M;Foggia;FG;31/12/1970;Foggia;FG;18/09/2024;17:25:00;19/09/2024;Foggia;FG;Mercoledi;2024;Settembre;53
+1150;F;Pietramontecorvino;FG;29/05/1937;Foggia;FG;17/09/2024;22:34:00;19/09/2024;Foggia;FG;Martedi;2024;Settembre;87
+1151;F;Foggia;FG;24/04/1946;Foggia;FG;19/09/2024;18:24:00;20/09/2024;Foggia;FG;Giovedi;2024;Settembre;78
+1152;M;Foggia;FG;29/10/1964;San Severo;FG;18/09/2024;01:10:00;20/09/2024;Foggia;FG;Mercoledi;2024;Settembre;59
+1153;M;Foggia;FG;02/08/1933;Foggia;FG;19/09/2024;05:30:00;20/09/2024;Foggia;FG;Giovedi;2024;Settembre;91
+1154;F;Foggia;FG;17/11/1941;Foggia;FG;19/09/2024;20:00:00;20/09/2024;Foggia;FG;Giovedi;2024;Settembre;82
+1155;M;Foggia;FG;05/04/1973;Foggia;FG;19/09/2024;07:00:00;20/09/2024;Foggia;FG;Giovedi;2024;Settembre;51
+1156;F;Volturara Appula;FG;07/04/1951;Foggia;FG;20/09/2024;02:00:00;21/09/2024;Foggia;FG;Venerdi;2024;Settembre;73
+1157;F;San Giovanni Rotondo;FG;03/11/1949;Foggia;FG;20/09/2024;07:30:00;21/09/2024;Foggia;FG;Venerdi;2024;Settembre;74
+1158;F;Foggia;FG;14/01/1939;Foggia;FG;20/09/2024;20:30:00;21/09/2024;Foggia;FG;Venerdi;2024;Settembre;85
+1159;M;Sant'Agata Di Puglia;FG;21/12/1930;Foggia;FG;20/09/2024;00:05:00;21/09/2024;Foggia;FG;Venerdi;2024;Settembre;93
+1160;M;Faeto;FG;17/07/1939;Foggia;FG;21/09/2024;18:00:00;23/09/2024;Foggia;FG;Sabato;2024;Settembre;85
+1161;M;Foggia;FG;16/12/1949;Foggia;FG;20/09/2024;23:26:00;23/09/2024;Foggia;FG;Venerdi;2024;Settembre;74
+1162;F;Ascoli Satriano;FG;10/07/1933;Foggia;FG;22/09/2024;19:20:00;23/09/2024;Foggia;FG;Domenica;2024;Settembre;91
+1163;F;Foggia;FG;04/02/1933;Foggia;FG;22/09/2024;14:30:00;23/09/2024;Foggia;FG;Domenica;2024;Settembre;91
+1164;F;Moiano;BN;19/03/1944;Foggia;FG;21/09/2024;08:05:00;23/09/2024;Foggia;FG;Sabato;2024;Settembre;80
+1165;F;San Nicandro Garganico;FG;05/03/1932;Foggia;FG;23/09/2024;06:40:00;24/09/2024;Foggia;FG;Lunedi;2024;Settembre;92
+1166;M;Foggia;FG;26/05/1966;Foggia;FG;23/09/2024;09:38:00;24/09/2024;Foggia;FG;Lunedi;2024;Settembre;58
+1167;M;Foggia;FG;12/02/1948;Lucera;FG;20/09/2024;19:04:00;24/09/2024;Foggia;FG;Venerdi;2024;Settembre;76
+1168;F;Foggia;FG;06/10/1944;Foggia;FG;23/09/2024;11:21:00;24/09/2024;Foggia;FG;Lunedi;2024;Settembre;79
+1169;M;Manfredonia;FG;13/10/1968;Foggia;FG;05/08/2024;20:21:00;25/09/2024;Foggia;FG;Lunedi;2024;Agosto;55
+1170;F;Gambatesa;CB;20/02/1945;Foggia;FG;24/09/2024;16:20:00;25/09/2024;Foggia;FG;Martedi;2024;Settembre;79
+1171;M;Rocchetta Sant'Antonio;AV;16/09/1928;San Giovanni Rotondo;FG;22/09/2024;11:25:00;25/09/2024;Foggia;FG;Domenica;2024;Settembre;96
+1172;M;Foggia;FG;14/09/1959;Foggia;FG;24/09/2024;12:47:00;25/09/2024;Foggia;FG;Martedi;2024;Settembre;65
+1173;F;Bisceglie;BA;01/11/1933;San Giovanni Rotondo;FG;23/09/2024;06:15:00;25/09/2024;Foggia;FG;Lunedi;2024;Settembre;90
+1174;M;Foggia;FG;19/08/1934;Foggia;FG;25/09/2024;06:00:00;26/09/2024;Foggia;FG;Mercoledi;2024;Settembre;90
+1175;F;Foggia;FG;09/05/1991;Bari;BA;21/09/2024;18:54:00;26/09/2024;Foggia;FG;Sabato;2024;Settembre;33
+1176;F;Foggia;FG;31/01/1950;Foggia;FG;25/09/2024;06:36:00;26/09/2024;Foggia;FG;Mercoledi;2024;Settembre;74
+1177;F;San Marco In Lamis;FG;06/05/1949;Foggia;FG;25/09/2024;12:30:00;26/09/2024;Foggia;FG;Mercoledi;2024;Settembre;75
+1178;F;Foggia;FG;04/04/1975;Foggia;FG;24/09/2024;23:21:00;26/09/2024;Foggia;FG;Martedi;2024;Settembre;49
+1179;F;Lvov;;26/02/1963;Foggia;FG;20/09/2024;15:20:00;26/09/2024;Foggia;FG;Venerdi;2024;Settembre;61
+1180;F;Foggia;FG;25/08/1943;Foggia;FG;26/09/2024;05:00:00;27/09/2024;Foggia;FG;Giovedi;2024;Settembre;81
+1181;F;Arzano;NA;09/11/1940;Foggia;FG;26/09/2024;18:50:00;27/09/2024;Foggia;FG;Giovedi;2024;Settembre;83
+1182;F;Foggia;FG;27/06/1924;Foggia;FG;26/09/2024;08:10:00;27/09/2024;Foggia;FG;Giovedi;2024;Settembre;100
+1183;M;San Severo;FG;21/07/1946;Foggia;FG;26/09/2024;18:30:00;27/09/2024;Foggia;FG;Giovedi;2024;Settembre;78
+1184;M;Foggia;FG;07/03/1941;Foggia;FG;26/09/2024;22:26:00;28/09/2024;Foggia;FG;Giovedi;2024;Settembre;83
+1185;F;Foggia;FG;21/04/1933;Foggia;FG;28/09/2024;11:10:00;30/09/2024;Foggia;FG;Sabato;2024;Settembre;91
+1186;F;Foggia;FG;17/01/1932;Foggia;FG;29/09/2024;06:35:00;30/09/2024;Foggia;FG;Domenica;2024;Settembre;92
+1187;F;Gaeta;LT;10/09/1946;Foggia;FG;28/09/2024;11:00:00;30/09/2024;Foggia;FG;Sabato;2024;Settembre;78
+1188;F;Foggia;FG;30/12/1940;Foggia;FG;29/09/2024;10:00:00;30/09/2024;Foggia;FG;Domenica;2024;Settembre;83
+1189;F;Orsara Di Puglia;FG;25/06/1928;Foggia;FG;28/09/2024;23:30:00;30/09/2024;Foggia;FG;Sabato;2024;Settembre;96
+1190;F;San Severo;FG;22/11/1943;Foggia;FG;29/09/2024;15:12:00;30/09/2024;Foggia;FG;Domenica;2024;Settembre;80
+1191;M;Foggia;FG;26/12/1937;Foggia;FG;29/09/2024;19:15:00;30/09/2024;Foggia;FG;Domenica;2024;Settembre;86
+1192;M;Foggia;FG;01/10/1947;Foggia;FG;29/09/2024;13:15:00;30/09/2024;Foggia;FG;Domenica;2024;Settembre;76
+1193;F;San Marco In Lamis;FG;16/07/1930;Foggia;FG;30/09/2024;05:00:00;01/10/2024;Foggia;FG;Lunedi;2024;Settembre;94
+1194;F;Foggia;FG;02/02/1956;Foggia;FG;29/09/2024;21:15:00;01/10/2024;Foggia;FG;Domenica;2024;Settembre;68
+1195;F;Foggia;FG;07/09/1950;Foggia;FG;30/09/2024;13:00:00;01/10/2024;Foggia;FG;Lunedi;2024;Settembre;74
+1196;F;Gioia Del Colle;BA;08/10/1964;Lucera;FG;27/09/2024;06:10:00;01/10/2024;Foggia;FG;Venerdi;2024;Settembre;59
+1197;F;Foggia;FG;21/07/1935;Pescara;PE;27/09/2024;19:18:00;02/10/2024;Foggia;FG;Venerdi;2024;Settembre;89
+1198;M;Casalvecchio Di Puglia;FG;08/11/1932;Foggia;FG;01/10/2024;06:21:00;02/10/2024;Foggia;FG;Martedi;2024;Ottobre;91
+1199;M;Foggia;FG;17/11/1938;Foggia;FG;02/10/2024;15:15:00;03/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;85
+1200;F;Celenza Valfortore;FG;01/07/1948;Foggia;FG;02/10/2024;13:00:00;03/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;76
+1201;F;Foggia;FG;06/10/1934;Foggia;FG;02/10/2024;07:00:00;03/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;89
+1202;M;San Giovanni Rotondo;FG;20/05/1930;Foggia;FG;02/10/2024;11:26:00;03/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;94
+1203;M;Volturino;FG;10/03/1941;Foggia;FG;01/10/2024;23:55:00;03/10/2024;Foggia;FG;Martedi;2024;Ottobre;83
+1204;M;Foggia;FG;18/06/1960;Torremaggiore;FG;03/10/2024;06:31:00;04/10/2024;Foggia;FG;Giovedi;2024;Ottobre;64
+1205;M;Foggia;FG;13/04/1963;Spoleto;PG;24/09/2024;14:30:00;04/10/2024;Foggia;FG;Martedi;2024;Settembre;61
+1206;F;Foggia;FG;29/04/1929;Foggia;FG;02/10/2024;20:40:00;04/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;95
+1207;M;Troia;FG;14/04/1943;Foggia;FG;03/10/2024;02:30:00;04/10/2024;Foggia;FG;Giovedi;2024;Ottobre;81
+1208;M;Stornarella;FG;06/10/1931;Foggia;FG;03/10/2024;18:00:00;04/10/2024;Foggia;FG;Giovedi;2024;Ottobre;92
+1209;F;Foggia;FG;17/07/1937;Foggia;FG;04/10/2024;19:30:00;05/10/2024;Foggia;FG;Venerdi;2024;Ottobre;87
+1210;M;Orsara Di Puglia;FG;27/09/1941;Foggia;FG;04/10/2024;07:00:00;05/10/2024;Foggia;FG;Venerdi;2024;Ottobre;83
+1211;M;Foggia;FG;23/02/1954;Foggia;FG;04/10/2024;09:30:00;05/10/2024;Foggia;FG;Venerdi;2024;Ottobre;70
+1212;F;Foggia;FG;26/12/1932;Foggia;FG;04/10/2024;08:10:00;05/10/2024;Foggia;FG;Venerdi;2024;Ottobre;91
+1213;M;Foggia;FG;25/07/1949;Foggia;FG;03/10/2024;22:15:00;05/10/2024;Foggia;FG;Giovedi;2024;Ottobre;75
+1214;F;Bari;BA;01/02/1933;Foggia;FG;04/10/2024;12:05:00;05/10/2024;Foggia;FG;Venerdi;2024;Ottobre;91
+1215;F;Troia;FG;06/10/1935;Foggia;FG;06/10/2024;15:47:00;07/10/2024;Foggia;FG;Domenica;2024;Ottobre;89
+1216;M;Foggia;FG;25/02/1959;Foggia;FG;05/10/2024;01:13:00;07/10/2024;Foggia;FG;Sabato;2024;Ottobre;65
+1217;M;Foggia;FG;04/10/1942;Foggia;FG;05/10/2024;22:52:00;07/10/2024;Foggia;FG;Sabato;2024;Ottobre;82
+1218;M;Foggia;FG;19/04/1949;Foggia;FG;06/10/2024;01:10:00;07/10/2024;Foggia;FG;Domenica;2024;Ottobre;75
+1219;M;Melfi;PZ;26/07/1932;Melfi;PZ;06/10/2024;06:50:00;07/10/2024;Foggia;FG;Domenica;2024;Ottobre;92
+1220;F;Cerignola;FG;05/02/1943;Foggia;FG;05/10/2024;22:30:00;07/10/2024;Foggia;FG;Sabato;2024;Ottobre;81
+1221;M;Foggia;FG;17/05/1947;Foggia;FG;07/10/2024;06:00:00;08/10/2024;Foggia;FG;Lunedi;2024;Ottobre;77
+1222;M;Foggia;FG;03/03/1942;San Giovanni Rotondo;FG;05/10/2024;04:45:00;08/10/2024;Foggia;FG;Sabato;2024;Ottobre;82
+1223;M;Ben Ahmed;;09/04/1979;San Giovanni Rotondo;FG;04/10/2024;17:10:00;08/10/2024;Foggia;FG;Venerdi;2024;Ottobre;45
+1224;F;Foggia;FG;13/06/1940;Foggia;FG;07/10/2024;03:30:00;08/10/2024;Foggia;FG;Lunedi;2024;Ottobre;84
+1225;F;Bompensiere;CL;28/02/1925;Foggia;FG;07/10/2024;07:00:00;08/10/2024;Foggia;FG;Lunedi;2024;Ottobre;99
+1226;F;Foggia;FG;12/02/1939;Foggia;FG;08/10/2024;12:10:00;09/10/2024;Foggia;FG;Martedi;2024;Ottobre;85
+1227;M;Bovino;FG;12/02/1946;Foggia;FG;08/10/2024;11:00:00;09/10/2024;Foggia;FG;Martedi;2024;Ottobre;78
+1228;M;Foggia;FG;19/04/1932;Foggia;FG;08/10/2024;07:30:00;09/10/2024;Foggia;FG;Martedi;2024;Ottobre;92
+1229;M;Foggia;FG;03/04/1963;Foggia;FG;20/08/2024;20:23:00;09/10/2024;Foggia;FG;Martedi;2024;Agosto;61
+1230;M;Foggia;FG;02/04/1944;Foggia;FG;08/10/2024;14:00:00;09/10/2024;Foggia;FG;Martedi;2024;Ottobre;80
+1231;M;Foggia;FG;14/06/1954;Foggia;FG;09/10/2024;19:20:00;10/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;70
+1232;M;Cerignola;FG;29/10/1956;Foggia;FG;09/10/2024;22:18:00;10/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;67
+1233;F;Biccari;FG;04/04/1943;Foggia;FG;08/10/2024;21:45:00;10/10/2024;Foggia;FG;Martedi;2024;Ottobre;81
+1234;F;Foggia;FG;20/08/1950;Foggia;FG;09/10/2024;11:59:00;10/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;74
+1235;F;Rocchetta Sant'Antonio;AV;19/04/1926;Foggia;FG;09/10/2024;04:00:00;10/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;98
+1236;M;Foggia;FG;23/10/1942;Foggia;FG;09/10/2024;19:05:00;10/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;81
+1237;M;Avellino;AV;06/08/1936;Roma;RM;30/09/2024;15:13:00;10/10/2024;Foggia;FG;Lunedi;2024;Settembre;88
+1238;M;Gesualdo;AV;07/08/1960;Foggia;FG;10/10/2024;08:25:00;11/10/2024;Foggia;FG;Giovedi;2024;Ottobre;64
+1239;F;Foggia;FG;16/12/1966;Foggia;FG;10/10/2024;14:45:00;11/10/2024;Foggia;FG;Giovedi;2024;Ottobre;57
+1240;F;Foggia;FG;04/02/1935;Foggia;FG;10/10/2024;22:55:00;12/10/2024;Foggia;FG;Giovedi;2024;Ottobre;89
+1241;F;Foggia;FG;23/08/1929;Foggia;FG;11/10/2024;21:00:00;12/10/2024;Foggia;FG;Venerdi;2024;Ottobre;95
+1242;F;Apricena;FG;08/04/1948;Foggia;FG;11/10/2024;16:09:00;12/10/2024;Foggia;FG;Venerdi;2024;Ottobre;76
+1243;F;Foggia;FG;14/07/1928;Foggia;FG;11/10/2024;14:55:00;12/10/2024;Foggia;FG;Venerdi;2024;Ottobre;96
+1244;M;Foggia;FG;23/07/1970;Foggia;FG;11/10/2024;00:45:00;12/10/2024;Foggia;FG;Venerdi;2024;Ottobre;54
+1245;M;Foggia;FG;23/03/1958;Foggia;FG;11/10/2024;15:00:00;12/10/2024;Foggia;FG;Venerdi;2024;Ottobre;66
+1246;M;Foggia;FG;22/01/1938;Foggia;FG;11/10/2024;09:00:00;12/10/2024;Foggia;FG;Venerdi;2024;Ottobre;86
+1247;F;Lucera;FG;23/02/1938;Foggia;FG;13/10/2024;11:40:00;14/10/2024;Foggia;FG;Domenica;2024;Ottobre;86
+1248;F;Foggia;FG;12/02/1939;Foggia;FG;13/10/2024;08:00:00;14/10/2024;Foggia;FG;Domenica;2024;Ottobre;85
+1249;F;Castelluccio Dei Sauri;FG;01/05/1937;Foggia;FG;13/10/2024;06:56:00;14/10/2024;Foggia;FG;Domenica;2024;Ottobre;87
+1250;F;Foggia;FG;11/04/1950;Foggia;FG;13/10/2024;14:49:00;14/10/2024;Foggia;FG;Domenica;2024;Ottobre;74
+1251;M;Foggia;FG;01/01/1937;Foggia;FG;13/10/2024;13:15:00;14/10/2024;Foggia;FG;Domenica;2024;Ottobre;87
+1252;F;Foggia;FG;28/01/1935;Foggia;FG;12/10/2024;04:05:00;14/10/2024;Foggia;FG;Sabato;2024;Ottobre;89
+1253;F;Margherita Di Savoia;FG;12/10/1933;Foggia;FG;14/10/2024;01:40:00;15/10/2024;Foggia;FG;Lunedi;2024;Ottobre;91
+1254;M;Foggia;FG;23/07/1942;Foggia;FG;14/10/2024;20:17:00;16/10/2024;Foggia;FG;Lunedi;2024;Ottobre;82
+1255;F;San Severo;FG;21/08/1933;Lucera;FG;14/10/2024;13:54:00;17/10/2024;Foggia;FG;Lunedi;2024;Ottobre;91
+1256;M;Foggia;FG;27/08/2007;Potenza;PZ;13/10/2024;22:30:00;17/10/2024;Foggia;FG;Domenica;2024;Ottobre;17
+1257;F;San Giovanni Rotondo;FG;23/04/1933;Foggia;FG;16/10/2024;18:30:00;17/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;91
+1258;F;Deliceto;FG;02/02/1936;Lucera;FG;13/10/2024;18:54:00;17/10/2024;Foggia;FG;Domenica;2024;Ottobre;88
+1259;M;Foggia;FG;22/06/1983;Lucera;FG;14/10/2024;22:50:00;17/10/2024;Foggia;FG;Lunedi;2024;Ottobre;41
+1260;F;Cerignola;FG;14/06/1971;Foggia;FG;15/10/2024;23:41:00;17/10/2024;Foggia;FG;Martedi;2024;Ottobre;53
+1261;F;Cerignola;FG;24/03/1930;Foggia;FG;16/10/2024;16:00:00;17/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;94
+1262;M;Trento;TN;05/11/2010;Potenza;PZ;13/10/2024;22:30:00;17/10/2024;Foggia;FG;Domenica;2024;Ottobre;13
+1263;M;Foggia;FG;12/10/2003;Potenza;PZ;13/10/2024;22:30:00;17/10/2024;Foggia;FG;Domenica;2024;Ottobre;21
+1264;F;Foggia;FG;08/03/1940;Foggia;FG;15/10/2024;19:44:00;17/10/2024;Foggia;FG;Martedi;2024;Ottobre;84
+1265;M;Chieti;CH;16/09/1947;Foggia;FG;17/10/2024;01:54:00;18/10/2024;Foggia;FG;Giovedi;2024;Ottobre;77
+1266;M;Foggia;FG;05/12/1933;Foggia;FG;17/10/2024;15:00:00;18/10/2024;Foggia;FG;Giovedi;2024;Ottobre;90
+1267;F;Foggia;FG;14/10/1957;Foggia;FG;17/10/2024;06:09:00;18/10/2024;Foggia;FG;Giovedi;2024;Ottobre;67
+1268;M;Foggia;FG;01/04/1956;Foggia;FG;17/10/2024;09:17:00;18/10/2024;Foggia;FG;Giovedi;2024;Ottobre;68
+1269;M;Castelluccio Valmaggiore;FG;02/05/1947;Foggia;FG;16/10/2024;21:57:00;18/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;77
+1270;F;Deliceto;FG;18/03/1965;Foggia;FG;17/10/2024;14:45:00;18/10/2024;Foggia;FG;Giovedi;2024;Ottobre;59
+1271;M;Orsara Di Puglia;FG;09/06/1948;Foggia;FG;18/10/2024;16:00:00;19/10/2024;Foggia;FG;Venerdi;2024;Ottobre;76
+1272;F;Foggia;FG;16/12/1949;Milano;MI;10/10/2024;16:05:00;19/10/2024;Foggia;FG;Giovedi;2024;Ottobre;74
+1273;F;Foggia;FG;15/11/1935;Foggia;FG;19/10/2024;01:43:00;21/10/2024;Foggia;FG;Sabato;2024;Ottobre;88
+1274;F;San Severo;FG;31/03/1935;Foggia;FG;20/10/2024;08:00:00;21/10/2024;Foggia;FG;Domenica;2024;Ottobre;89
+1275;M;Foggia;FG;17/03/1953;Foggia;FG;20/10/2024;11:30:00;21/10/2024;Foggia;FG;Domenica;2024;Ottobre;71
+1276;M;Foggia;FG;08/04/1954;Foggia;FG;19/10/2024;08:25:00;21/10/2024;Foggia;FG;Sabato;2024;Ottobre;70
+1277;M;Volturino;FG;03/06/1945;Foggia;FG;19/10/2024;15:32:00;21/10/2024;Foggia;FG;Sabato;2024;Ottobre;79
+1278;F;Foggia;FG;11/03/1950;San Giovanni Rotondo;FG;16/10/2024;00:06:00;21/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;74
+1279;M;Foggia;FG;03/10/1948;Foggia;FG;19/10/2024;14:31:00;21/10/2024;Foggia;FG;Sabato;2024;Ottobre;76
+1280;M;Foggia;FG;02/06/1950;Foggia;FG;19/10/2024;18:40:00;21/10/2024;Foggia;FG;Sabato;2024;Ottobre;74
+1281;M;San Marco In Lamis;FG;08/08/1943;Foggia;FG;21/10/2024;18:30:00;22/10/2024;Foggia;FG;Lunedi;2024;Ottobre;81
+1282;M;Foggia;FG;22/07/1935;Foggia;FG;21/10/2024;18:30:00;22/10/2024;Foggia;FG;Lunedi;2024;Ottobre;89
+1283;F;Foggia;FG;23/12/1963;Foggia;FG;21/10/2024;07:35:00;22/10/2024;Foggia;FG;Lunedi;2024;Ottobre;60
+1284;M;Sant'Agata Di Puglia;FG;02/03/1933;Foggia;FG;20/10/2024;18:27:00;22/10/2024;Foggia;FG;Domenica;2024;Ottobre;91
+1285;F;Troia;FG;13/01/1949;Foggia;FG;20/10/2024;21:20:00;22/10/2024;Foggia;FG;Domenica;2024;Ottobre;75
+1286;F;Foggia;FG;28/07/1948;Lucera;FG;18/10/2024;15:36:00;22/10/2024;Foggia;FG;Venerdi;2024;Ottobre;76
+1287;F;Foggia;FG;19/11/1932;Foggia;FG;21/10/2024;16:10:00;22/10/2024;Foggia;FG;Lunedi;2024;Ottobre;91
+1288;M;Pietramontecorvino;FG;26/12/1954;Foggia;FG;21/10/2024;18:00:00;23/10/2024;Foggia;FG;Lunedi;2024;Ottobre;69
+1289;F;Foggia;FG;03/01/1943;Foggia;FG;22/10/2024;19:30:00;23/10/2024;Foggia;FG;Martedi;2024;Ottobre;81
+1290;M;Cerignola;FG;01/04/1941;San Giovanni Rotondo;FG;21/10/2024;19:00:00;24/10/2024;Foggia;FG;Lunedi;2024;Ottobre;83
+1291;F;Foggia;FG;23/03/1955;San Giovanni Rotondo;FG;21/10/2024;18:40:00;24/10/2024;Foggia;FG;Lunedi;2024;Ottobre;69
+1292;F;Venosa;PZ;13/02/1936;Foggia;FG;24/10/2024;10:30:00;25/10/2024;Foggia;FG;Giovedi;2024;Ottobre;88
+1293;M;Foggia;FG;09/01/1935;Foggia;FG;24/10/2024;05:00:00;25/10/2024;Foggia;FG;Giovedi;2024;Ottobre;89
+1294;M;Foggia;FG;08/06/1924;Foggia;FG;24/10/2024;06:25:00;25/10/2024;Foggia;FG;Giovedi;2024;Ottobre;100
+1295;F;Deliceto;FG;15/03/1934;Foggia;FG;24/10/2024;12:25:00;25/10/2024;Foggia;FG;Giovedi;2024;Ottobre;90
+1296;M;Foggia;FG;19/06/1946;Foggia;FG;24/10/2024;13:50:00;25/10/2024;Foggia;FG;Giovedi;2024;Ottobre;78
+1297;F;Foggia;FG;01/04/1944;Foggia;FG;25/10/2024;06:23:00;26/10/2024;Foggia;FG;Venerdi;2024;Ottobre;80
+1298;M;San Gallo;;06/08/1962;Foggia;FG;25/10/2024;08:45:00;26/10/2024;Foggia;FG;Venerdi;2024;Ottobre;62
+1299;M;San Giovanni Rotondo;FG;01/05/1975;Foggia;FG;25/10/2024;11:30:00;26/10/2024;Foggia;FG;Venerdi;2024;Ottobre;49
+1300;M;Foggia;FG;10/06/1945;Foggia;FG;24/10/2024;22:58:00;26/10/2024;Foggia;FG;Giovedi;2024;Ottobre;79
+1301;F;Foggia;FG;17/06/1927;Foggia;FG;27/10/2024;01:00:00;28/10/2024;Foggia;FG;Domenica;2024;Ottobre;97
+1302;F;Foggia;FG;02/02/1950;Foggia;FG;26/10/2024;09:25:00;28/10/2024;Foggia;FG;Sabato;2024;Ottobre;74
+1303;M;Foggia;FG;15/04/1950;Foggia;FG;27/10/2024;10:37:00;28/10/2024;Foggia;FG;Domenica;2024;Ottobre;74
+1304;F;Deliceto;FG;05/12/1928;Foggia;FG;27/10/2024;00:25:00;28/10/2024;Foggia;FG;Domenica;2024;Ottobre;95
+1305;F;Foggia;FG;19/09/1945;Foggia;FG;27/10/2024;09:30:00;28/10/2024;Foggia;FG;Domenica;2024;Ottobre;79
+1306;M;Foggia;FG;02/02/1949;Foggia;FG;26/10/2024;16:04:00;28/10/2024;Foggia;FG;Sabato;2024;Ottobre;75
+1307;M;San Ferdinando Di Puglia;FG;25/11/1942;Foggia;FG;27/10/2024;07:45:00;28/10/2024;Foggia;FG;Domenica;2024;Ottobre;81
+1308;F;Foggia;FG;30/04/1947;Foggia;FG;26/10/2024;09:52:00;28/10/2024;Foggia;FG;Sabato;2024;Ottobre;77
+1309;M;Foggia;FG;04/04/1940;Lucera;FG;23/10/2024;17:43:00;28/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;84
+1310;M;Lucera;FG;29/01/1962;Foggia;FG;26/10/2024;18:45:00;28/10/2024;Foggia;FG;Sabato;2024;Ottobre;62
+1311;M;Foggia;FG;16/09/1934;Foggia;FG;27/10/2024;05:36:00;28/10/2024;Foggia;FG;Domenica;2024;Ottobre;90
+1312;M;Foggia;FG;27/07/1953;San Giovanni Rotondo;FG;26/10/2024;10:25:00;29/10/2024;Foggia;FG;Sabato;2024;Ottobre;71
+1313;F;Foggia;FG;18/08/1937;Troia;FG;26/10/2024;01:00:00;29/10/2024;Foggia;FG;Sabato;2024;Ottobre;87
+1314;M;Foggia;FG;26/03/1952;Foggia;FG;28/10/2024;05:00:00;29/10/2024;Foggia;FG;Lunedi;2024;Ottobre;72
+1315;M;Foggia;FG;01/06/1947;Foggia;FG;28/10/2024;00:01:00;29/10/2024;Foggia;FG;Lunedi;2024;Ottobre;77
+1316;F;Foggia;FG;12/06/1942;Foggia;FG;27/10/2024;23:00:00;29/10/2024;Foggia;FG;Domenica;2024;Ottobre;82
+1317;M;Foggia;FG;05/08/2001;Palermo;PA;27/10/2024;20:45:00;29/10/2024;Foggia;FG;Domenica;2024;Ottobre;23
+1318;M;Foggia;FG;24/02/1955;Foggia;FG;29/10/2024;09:20:00;30/10/2024;Foggia;FG;Martedi;2024;Ottobre;69
+1319;F;Foggia;FG;20/11/1930;Foggia;FG;29/10/2024;11:03:00;30/10/2024;Foggia;FG;Martedi;2024;Ottobre;93
+1320;F;Foggia;FG;27/10/1950;Foggia;FG;29/10/2024;17:50:00;30/10/2024;Foggia;FG;Martedi;2024;Ottobre;74
+1321;F;Foggia;FG;16/08/1947;Foggia;FG;29/10/2024;21:39:00;31/10/2024;Foggia;FG;Martedi;2024;Ottobre;77
+1322;M;Torino;TO;23/04/1968;Foggia;FG;30/10/2024;16:00:00;31/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;56
+1323;M;Foggia;FG;15/06/1956;Foggia;FG;30/10/2024;07:54:00;31/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;68
+1324;M;Barletta;BA;22/09/1933;Foggia;FG;30/10/2024;16:35:00;31/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;91
+1325;M;Castelmezzano;PZ;06/09/1939;Foggia;FG;29/10/2024;19:05:00;31/10/2024;Foggia;FG;Martedi;2024;Ottobre;85
+1326;M;Foggia;FG;04/01/1949;Bovino;FG;28/10/2024;07:35:00;31/10/2024;Foggia;FG;Lunedi;2024;Ottobre;75
+1327;F;Ascoli Satriano;FG;07/08/1925;Foggia;FG;30/10/2024;06:00:00;31/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;99
+1328;M;Ascoli Satriano;FG;20/04/1956;Foggia;FG;30/10/2024;09:27:00;31/10/2024;Foggia;FG;Mercoledi;2024;Ottobre;68
+1329;M;Ricadi;CZ;26/04/1939;Foggia;FG;31/10/2024;11:21:00;02/11/2024;Foggia;FG;Giovedi;2024;Ottobre;85
+1330;F;Foggia;FG;20/09/1937;Foggia;FG;01/11/2024;00:05:00;02/11/2024;Foggia;FG;Venerdi;2024;Novembre;87
+1331;M;Troia;FG;14/12/1929;Foggia;FG;31/10/2024;06:00:00;02/11/2024;Foggia;FG;Giovedi;2024;Ottobre;94
+1332;F;Accadia;FG;18/07/1942;Foggia;FG;31/10/2024;22:20:00;02/11/2024;Foggia;FG;Giovedi;2024;Ottobre;82
+1333;M;Roseto Valfortore;FG;10/09/1931;Foggia;FG;01/11/2024;01:00:00;02/11/2024;Foggia;FG;Venerdi;2024;Novembre;93
+1334;M;Foggia;FG;12/07/1941;Foggia;FG;01/11/2024;06:45:00;02/11/2024;Foggia;FG;Venerdi;2024;Novembre;83
+1335;F;Foggia;FG;15/11/1936;Foggia;FG;31/10/2024;06:50:00;02/11/2024;Foggia;FG;Giovedi;2024;Ottobre;87
+1336;M;Foggia;FG;21/08/1959;Foggia;FG;03/11/2024;02:45:00;04/11/2024;Foggia;FG;Domenica;2024;Novembre;65
+1337;F;Rocchetta Sant'Antonio;FG;20/10/1936;Foggia;FG;02/11/2024;12:40:00;04/11/2024;Foggia;FG;Sabato;2024;Novembre;88
+1338;F;Celle Di San Vito;FG;27/09/1944;Foggia;FG;03/11/2024;11:00:00;04/11/2024;Foggia;FG;Domenica;2024;Novembre;80
+1339;M;Foggia;FG;15/05/1975;Foggia;FG;03/11/2024;07:22:00;04/11/2024;Foggia;FG;Domenica;2024;Novembre;49
+1340;F;Lacedonia;AV;26/09/1932;Foggia;FG;01/11/2024;21:12:00;04/11/2024;Foggia;FG;Venerdi;2024;Novembre;92
+1341;F;Foggia;FG;14/06/1934;Foggia;FG;02/11/2024;20:25:00;04/11/2024;Foggia;FG;Sabato;2024;Novembre;90
+1342;M;Foggia;FG;04/09/1968;Alberona;FG;26/10/2024;05:30:00;04/11/2024;Foggia;FG;Sabato;2024;Ottobre;56
+1343;F;Collecorvino;PE;14/02/1944;Foggia;FG;02/11/2024;20:48:00;04/11/2024;Foggia;FG;Sabato;2024;Novembre;80
+1344;F;Milano;MI;15/08/1928;Troia;FG;30/10/2024;12:30:00;05/11/2024;Foggia;FG;Mercoledi;2024;Ottobre;96
+1345;F;Foggia;FG;20/12/1935;Foggia;FG;04/11/2024;07:40:00;05/11/2024;Foggia;FG;Lunedi;2024;Novembre;88
+1346;F;Foggia;FG;07/05/1939;Foggia;FG;04/11/2024;19:30:00;05/11/2024;Foggia;FG;Lunedi;2024;Novembre;85
+1347;F;Margherita Di Savoia;FG;10/07/1935;Foggia;FG;04/11/2024;16:17:00;05/11/2024;Foggia;FG;Lunedi;2024;Novembre;89
+1348;M;Foggia;FG;25/08/1963;Lucera;FG;29/10/2024;09:50:00;05/11/2024;Foggia;FG;Martedi;2024;Ottobre;61
+1349;M;Bitonto;BA;20/10/1948;Foggia;FG;04/11/2024;17:30:00;05/11/2024;Foggia;FG;Lunedi;2024;Novembre;76
+1350;M;Foggia;FG;01/04/1929;Foggia;FG;04/11/2024;13:00:00;05/11/2024;Foggia;FG;Lunedi;2024;Novembre;95
+1351;M;Trinitapoli;FG;31/01/1949;San Severo;FG;30/10/2024;22:15:00;05/11/2024;Foggia;FG;Mercoledi;2024;Ottobre;75
+1352;M;Foggia;FG;31/10/1959;Foggia;FG;03/11/2024;06:00:00;05/11/2024;Foggia;FG;Domenica;2024;Novembre;65
+1353;M;Pietramontecorvino;F G;28/11/1935;Pietramontecorvino;FG;02/11/2024;23:00:00;05/11/2024;Foggia;FG;Sabato;2024;Novembre;88
+1354;F;Ascoli Satriano;FG;15/11/1927;Foggia;FG;05/11/2024;01:00:00;06/11/2024;Foggia;FG;Martedi;2024;Novembre;96
+1355;M;Bisaccia;AV;11/03/1965;Foggia;FG;04/11/2024;14:30:00;06/11/2024;Foggia;FG;Lunedi;2024;Novembre;59
+1356;F;Foggia;FG;04/09/1937;Lucera;FG;31/10/2024;16:06:00;07/11/2024;Foggia;FG;Giovedi;2024;Ottobre;87
+1357;F;Vico Del Gargano;FG;13/01/1932;Foggia;FG;06/11/2024;19:00:00;07/11/2024;Foggia;FG;Mercoledi;2024;Novembre;92
+1358;F;Foggia;FG;23/01/1981;San Giovanni Rotondo;FG;04/11/2024;18:20:00;07/11/2024;Foggia;FG;Lunedi;2024;Novembre;43
+1359;M;Foggia;FG;25/05/1976;Foggia;FG;06/11/2024;12:40:00;07/11/2024;Foggia;FG;Mercoledi;2024;Novembre;48
+1360;M;Foggia;FG;25/01/1939;Foggia;FG;06/11/2024;03:30:00;07/11/2024;Foggia;FG;Mercoledi;2024;Novembre;85
+1361;F;Foggia;FG;06/10/1964;Foggia;FG;06/11/2024;00:50:00;07/11/2024;Foggia;FG;Mercoledi;2024;Novembre;60
+1362;F;Foggia;FG;15/12/1963;San Marco In Lamis;FG;03/11/2024;15:10:00;07/11/2024;Foggia;FG;Domenica;2024;Novembre;60
+1363;M;Anzano Di Puglia;FG;18/11/1926;Foggia;FG;07/11/2024;01:30:00;07/11/2024;Foggia;FG;Giovedi;2024;Novembre;97
+1364;F;Foggia;FG;28/11/1928;Foggia;FG;06/11/2024;22:35:00;08/11/2024;Foggia;FG;Mercoledi;2024;Novembre;95
+1365;F;Carpino;FG;11/09/1936;Foggia;FG;07/11/2024;09:30:00;08/11/2024;Foggia;FG;Giovedi;2024;Novembre;88
+1366;F;Martina Franca;TA;03/01/1930;Foggia;FG;07/11/2024;19:15:00;08/11/2024;Foggia;FG;Giovedi;2024;Novembre;94
+1367;M;Foggia;FG;22/04/1962;Francavilla Fontana;BR;05/11/2024;15:27:00;08/11/2024;Foggia;FG;Martedi;2024;Novembre;62
+1368;F;Foggia;FG;12/07/1968;Foggia;FG;08/11/2024;20:17:00;09/11/2024;Foggia;FG;Venerdi;2024;Novembre;56
+1369;F;Lugo;RA;28/05/1937;Foggia;FG;08/11/2024;16:00:00;09/11/2024;Foggia;FG;Venerdi;2024;Novembre;87
+1370;F;Corato;BA;09/09/1939;Foggia;FG;08/11/2024;09:36:00;09/11/2024;Foggia;FG;Venerdi;2024;Novembre;85
+1371;F;Melfi;PZ;10/04/1943;Foggia;FG;09/11/2024;09:00:00;11/11/2024;Foggia;FG;Sabato;2024;Novembre;81
+1372;M;Foggia;FG;27/08/1968;Foggia;FG;10/11/2024;11:15:00;11/11/2024;Foggia;FG;Domenica;2024;Novembre;56
+1373;M;Foggia;FG;09/12/1962;Foggia;FG;10/11/2024;08:43:00;11/11/2024;Foggia;FG;Domenica;2024;Novembre;61
+1374;F;San Severo;FG;11/01/1926;Foggia;FG;09/11/2024;11:00:00;11/11/2024;Foggia;FG;Sabato;2024;Novembre;98
+1375;F;Cerignola;FG;24/03/1936;Foggia;FG;09/11/2024;14:06:00;11/11/2024;Foggia;FG;Sabato;2024;Novembre;88
+1376;F;Foggia;FG;11/05/1940;Foggia;FG;09/11/2024;23:30:00;11/11/2024;Foggia;FG;Sabato;2024;Novembre;84
+1377;F;Cagliari;CA;09/10/1939;Foggia;FG;10/11/2024;08:45:00;11/11/2024;Foggia;FG;Domenica;2024;Novembre;85
+1378;F;Foggia;FG;20/11/1960;Foggia;FG;10/11/2024;03:20:00;11/11/2024;Foggia;FG;Domenica;2024;Novembre;63
+1379;F;Bari;BA;01/01/1938;Foggia;FG;09/11/2024;16:30:00;11/11/2024;Foggia;FG;Sabato;2024;Novembre;86
+1380;M;Foggia;FG;19/02/1974;Foggia;FG;10/11/2024;05:36:00;11/11/2024;Foggia;FG;Domenica;2024;Novembre;50
+1381;F;Foggia;FG;04/06/1937;Foggia;FG;11/11/2024;07:30:00;12/11/2024;Foggia;FG;Lunedi;2024;Novembre;87
+1382;F;Foggia;FG;25/01/1940;Foggia;FG;11/11/2024;12:45:00;12/11/2024;Foggia;FG;Lunedi;2024;Novembre;84
+1383;F;Foggia;FG;03/07/1932;Foggia;FG;11/11/2024;20:31:00;12/11/2024;Foggia;FG;Lunedi;2024;Novembre;92
+1384;M;Foggia;FG;02/05/1940;Foggia;FG;11/11/2024;11:55:00;12/11/2024;Foggia;FG;Lunedi;2024;Novembre;84
+1385;M;Foggia;FG;29/04/1958;San Giovanni Rotondo;FG;10/11/2024;22:30:00;12/11/2024;Foggia;FG;Domenica;2024;Novembre;66
+1386;F;Foggia;FG;13/12/1931;Foggia;FG;12/11/2024;08:35:00;13/11/2024;Foggia;FG;Martedi;2024;Novembre;92
+1387;F;Foggia;FG;02/06/1931;Foggia;FG;12/11/2024;03:00:00;13/11/2024;Foggia;FG;Martedi;2024;Novembre;93
+1388;M;Taranto;TA;30/04/1938;Foggia;FG;12/11/2024;07:30:00;13/11/2024;Foggia;FG;Martedi;2024;Novembre;86
+1389;F;Foggia;FG;08/07/1935;Foggia;FG;12/11/2024;11:39:00;13/11/2024;Foggia;FG;Martedi;2024;Novembre;89
+1390;M;Foggia;FG;20/10/1961;Foggia;FG;12/11/2024;07:40:00;13/11/2024;Foggia;FG;Martedi;2024;Novembre;63
+1391;F;Foggia;FG;14/07/1947;Foggia;FG;12/11/2024;09:35:00;13/11/2024;Foggia;FG;Martedi;2024;Novembre;77
+1392;M;Foggia;FG;01/03/1962;Foggia;FG;12/11/2024;17:00:00;13/11/2024;Foggia;FG;Martedi;2024;Novembre;62
+1393;M;Lucera;FG;13/06/1949;Foggia;FG;13/11/2024;05:48:00;14/11/2024;Foggia;FG;Mercoledi;2024;Novembre;75
+1394;F;Foggia;FG;18/08/1938;Foggia;FG;12/11/2024;22:10:00;14/11/2024;Foggia;FG;Martedi;2024;Novembre;86
+1395;F;Foggia;FG;23/01/1961;Foggia;FG;12/11/2024;21:00:00;14/11/2024;Foggia;FG;Martedi;2024;Novembre;63
+1396;M;San Nicandro Garganico;FG;02/09/1944;Foggia;FG;13/11/2024;16:15:00;14/11/2024;Foggia;FG;Mercoledi;2024;Novembre;80
+1397;M;Foggia;FG;01/02/1947;Foggia;FG;13/11/2024;13:30:00;14/11/2024;Foggia;FG;Mercoledi;2024;Novembre;77
+1398;F;Foggia;FG;25/03/1946;Foggia;FG;14/11/2024;08:45:00;15/11/2024;Foggia;FG;Giovedi;2024;Novembre;78
+1399;M;Foggia;FG;02/12/1952;Foggia;FG;14/11/2024;16:32:00;15/11/2024;Foggia;FG;Giovedi;2024;Novembre;71
+1400;M;Trevico;AV;01/10/1949;Foggia;FG;14/11/2024;08:10:00;15/11/2024;Foggia;FG;Giovedi;2024;Novembre;75
+1401;M;Monte Sant'Angelo;FG;10/07/1964;Foggia;FG;13/11/2024;21:20:00;15/11/2024;Foggia;FG;Mercoledi;2024;Novembre;60
+1402;F;Mattinata;FG;21/08/1930;Foggia;FG;14/11/2024;07:00:00;15/11/2024;Foggia;FG;Giovedi;2024;Novembre;94
+1403;F;Foggia;FG;19/09/1937;Foggia;FG;13/11/2024;22:58:00;15/11/2024;Foggia;FG;Mercoledi;2024;Novembre;87
+1404;F;Foggia;FG;10/06/1924;Foggia;FG;14/11/2024;05:47:00;15/11/2024;Foggia;FG;Giovedi;2024;Novembre;100
+1405;M;Foggia;FG;25/12/1939;Foggia;FG;15/11/2024;09:30:00;16/11/2024;Foggia;FG;Venerdi;2024;Novembre;84
+1406;F;Foggia;FG;02/11/1931;Foggia;FG;15/11/2024;15:30:00;16/11/2024;Foggia;FG;Venerdi;2024;Novembre;93
+1407;M;Foggia;FG;05/04/1991;Foggia;FG;31/10/2024;09:00:00;18/11/2024;Foggia;FG;Giovedi;2024;Ottobre;33
+1408;F;Foggia;FG;27/05/1934;Foggia;FG;14/11/2024;23:00:00;18/11/2024;Foggia;FG;Giovedi;2024;Novembre;90
+1409;F;Foggia;FG;16/06/1953;Foggia;FG;16/11/2024;08:30:00;18/11/2024;Foggia;FG;Sabato;2024;Novembre;71
+1410;F;Caltanissetta;CL;09/03/1941;Foggia;FG;15/11/2024;21:03:00;18/11/2024;Foggia;FG;Venerdi;2024;Novembre;83
+1411;F;Foggia;FG;12/08/1935;Foggia;FG;17/11/2024;10:00:00;18/11/2024;Foggia;FG;Domenica;2024;Novembre;89
+1412;M;Foggia;FG;02/01/1934;Foggia;FG;16/11/2024;11:35:00;18/11/2024;Foggia;FG;Sabato;2024;Novembre;90
+1413;M;Foggia;FG;11/09/1955;Foggia;FG;17/11/2024;13:25:00;18/11/2024;Foggia;FG;Domenica;2024;Novembre;69
+1414;F;Accadia;AV;04/03/1922;Foggia;FG;16/11/2024;04:00:00;18/11/2024;Foggia;FG;Sabato;2024;Novembre;102
+1415;M;Foggia;FG;10/12/1951;Foggia;FG;16/11/2024;09:15:00;18/11/2024;Foggia;FG;Sabato;2024;Novembre;72
+1416;F;Foggia;FG;09/07/1934;Foggia;FG;16/11/2024;09:00:00;18/11/2024;Foggia;FG;Sabato;2024;Novembre;90
+1417;F;Foggia;FG;20/05/1956;Foggia;FG;18/11/2024;12:30:00;19/11/2024;Foggia;FG;Lunedi;2024;Novembre;68
+1418;F;Foggia;FG;09/04/1926;Foggia;FG;18/11/2024;17:00:00;19/11/2024;Foggia;FG;Lunedi;2024;Novembre;98
+1419;M;Foggia;FG;25/05/1932;Foggia;FG;17/11/2024;19:55:00;19/11/2024;Foggia;FG;Domenica;2024;Novembre;92
+1420;F;Foggia;FG;19/04/1938;Foggia;FG;17/11/2024;15:00:00;19/11/2024;Foggia;FG;Domenica;2024;Novembre;86
+1421;M;Foggia;FG;05/07/1963;Foggia;FG;17/11/2024;22:48:00;19/11/2024;Foggia;FG;Domenica;2024;Novembre;61
+1422;M;Benevento;BN;17/11/1948;Varese;VA;06/11/2024;22:35:00;20/11/2024;Foggia;FG;Mercoledi;2024;Novembre;75
+1423;F;Foggia;FG;29/07/1935;Foggia;FG;19/11/2024;13:10:00;20/11/2024;Foggia;FG;Martedi;2024;Novembre;89
+1424;F;Sant'Agata Di Puglia;FG;03/02/1948;Foggia;FG;19/11/2024;02:30:00;20/11/2024;Foggia;FG;Martedi;2024;Novembre;76
+1425;F;Foggia;FG;15/01/1942;Foggia;FG;18/11/2024;19:45:00;20/11/2024;Foggia;FG;Lunedi;2024;Novembre;82
+1426;F;Manfredonia;FG;13/10/1931;Foggia;FG;19/11/2024;01:10:00;20/11/2024;Foggia;FG;Martedi;2024;Novembre;93
+1427;M;San Marco In Lamis;FG;31/08/1946;Bologna;BO;11/11/2024;10:46:00;20/11/2024;Foggia;FG;Lunedi;2024;Novembre;78
+1428;M;Accadia;FG;28/09/1943;Foggia;FG;19/11/2024;20:30:00;20/11/2024;Foggia;FG;Martedi;2024;Novembre;81
+1429;F;Foggia;FG;15/05/1934;Foggia;FG;20/11/2024;07:59:00;21/11/2024;Foggia;FG;Mercoledi;2024;Novembre;90
+1430;F;Alberona;FG;21/01/1948;Foggia;FG;19/11/2024;17:00:00;21/11/2024;Foggia;FG;Martedi;2024;Novembre;76
+1431;F;Apricena;FG;15/08/1949;Foggia;FG;21/11/2024;17:00:00;22/11/2024;Foggia;FG;Giovedi;2024;Novembre;75
+1432;M;Foggia;FG;18/10/1947;Foggia;FG;21/11/2024;22:16:00;23/11/2024;Foggia;FG;Giovedi;2024;Novembre;77
+1433;M;Foggia;FG;16/11/1960;Foggia;FG;21/11/2024;22:10:00;23/11/2024;Foggia;FG;Giovedi;2024;Novembre;64
+1434;F;Benevento;BN;22/03/1928;Foggia;FG;22/11/2024;10:50:00;23/11/2024;Foggia;FG;Venerdi;2024;Novembre;96
+1435;M;Monte Sant'Angelo;FG;21/06/1939;Foggia;FG;22/11/2024;17:00:00;23/11/2024;Foggia;FG;Venerdi;2024;Novembre;85
+1436;F;Napoli;NA;19/08/1940;Foggia;FG;22/11/2024;21:45:00;23/11/2024;Foggia;FG;Venerdi;2024;Novembre;84
+1437;F;Foggia;FG;19/08/1957;Foggia;FG;22/11/2024;13:30:00;23/11/2024;Foggia;FG;Venerdi;2024;Novembre;67
+1438;F;Orsara Di Puglia;FG;19/03/1937;San Giovanni Rotondo;FG;12/11/2024;16:50:00;25/11/2024;Foggia;FG;Martedi;2024;Novembre;87
+1439;F;Foggia;FG;31/01/1945;San Giovanni Rotondo;FG;21/11/2024;10:00:00;25/11/2024;Foggia;FG;Giovedi;2024;Novembre;79
+1440;M;Lecce;LE;11/12/1928;Foggia;FG;24/11/2024;03:17:00;25/11/2024;Foggia;FG;Domenica;2024;Novembre;95
+1441;F;Foggia;FG;27/08/1940;Foggia;FG;24/11/2024;02:14:00;25/11/2024;Foggia;FG;Domenica;2024;Novembre;84
+1442;M;Foggia;FG;08/11/1988;Foggia;FG;23/11/2024;11:40:00;25/11/2024;Foggia;FG;Sabato;2024;Novembre;36
+1443;F;Foggia;FG;28/10/1940;Foggia;FG;24/11/2024;17:10:00;25/11/2024;Foggia;FG;Domenica;2024;Novembre;84
+1444;F;Foggia;FG;19/11/1939;Foggia;FG;23/11/2024;10:30:00;25/11/2024;Foggia;FG;Sabato;2024;Novembre;85
+1445;F;Foggia;FG;17/03/1967;Foggia;FG;23/11/2024;07:00:00;25/11/2024;Foggia;FG;Sabato;2024;Novembre;57
+1446;M;Foggia;FG;03/04/1923;Foggia;FG;25/11/2024;04:15:00;26/11/2024;Foggia;FG;Lunedi;2024;Novembre;101
+1447;F;San Marco In Lamis;FG;06/07/1937;San Giovanni Rotondo;FG;14/07/2024;18:50:00;26/11/2024;Foggia;FG;Domenica;2024;Luglio;87
+1448;M;Foggia;FG;26/05/2009;Lecce;LE;19/11/2024;10:30:00;26/11/2024;Foggia;FG;Martedi;2024;Novembre;15
+1449;F;Foggia;FG;28/07/1930;Foggia;FG;25/11/2024;13:20:00;26/11/2024;Foggia;FG;Lunedi;2024;Novembre;94
+1450;F;Foggia;FG;19/08/1924;Foggia;FG;25/11/2024;12:50:00;26/11/2024;Foggia;FG;Lunedi;2024;Novembre;100
+1451;F;Monte Sant'Angelo;FG;20/05/1943;Foggia;FG;25/11/2024;17:51:00;26/11/2024;Foggia;FG;Lunedi;2024;Novembre;81
+1452;F;Satu Mare;;23/11/1960;Torremaggiore;FG;16/11/2024;07:45:00;26/11/2024;Foggia;FG;Sabato;2024;Novembre;63
+1453;M;Castelluccio Valmaggiore;FG;21/04/1937;Foggia;FG;25/11/2024;07:30:00;26/11/2024;Foggia;FG;Lunedi;2024;Novembre;87
+1454;F;Sant'Agata Di Puglia;FG;02/11/1954;Foggia;FG;25/11/2024;00:25:00;26/11/2024;Foggia;FG;Lunedi;2024;Novembre;70
+1455;F;Foggia;FG;02/03/1930;Foggia;FG;25/11/2024;01:00:00;26/11/2024;Foggia;FG;Lunedi;2024;Novembre;94
+1456;F;Castelnuovo Della Daunia;FG;17/12/1922;Foggia;FG;25/11/2024;17:45:00;26/11/2024;Foggia;FG;Lunedi;2024;Novembre;101
+1457;F;Lucera;FG;08/03/1954;Foggia;FG;25/11/2024;05:20:00;26/11/2024;Foggia;FG;Lunedi;2024;Novembre;70
+1458;F;Foggia;FG;20/06/1962;San Giovanni Rotondo;FG;24/11/2024;09:40:00;26/11/2024;Foggia;FG;Domenica;2024;Novembre;62
+1459;M;Bari;BA;29/09/1939;Foggia;FG;26/11/2024;17:15:00;27/11/2024;Foggia;FG;Martedi;2024;Novembre;85
+1460;M;Foggia;FG;26/08/1934;Foggia;FG;26/11/2024;03:45:00;27/11/2024;Foggia;FG;Martedi;2024;Novembre;90
+1461;M;Foggia;FG;18/03/1963;Padova;PD;13/11/2024;06:30:00;27/11/2024;Foggia;FG;Mercoledi;2024;Novembre;61
+1462;M;Foggia;FG;21/11/2006;Foggia;FG;26/11/2024;20:04:00;28/11/2024;Foggia;FG;Martedi;2024;Novembre;18
+1463;F;Margherita Di Savoia;FG;27/12/1933;Lucera;FG;26/11/2024;10:05:00;28/11/2024;Foggia;FG;Martedi;2024;Novembre;90
+1464;F;Rocchetta Sant'Antonio;FG;17/10/1934;Foggia;FG;27/11/2024;09:00:00;28/11/2024;Foggia;FG;Mercoledi;2024;Novembre;90
+1465;F;Deliceto;FG;28/01/1936;Lucera;FG;25/11/2024;20:12:00;28/11/2024;Foggia;FG;Lunedi;2024;Novembre;88
+1466;M;Orta Nova;FG;02/01/1942;Foggia;FG;27/11/2024;03:24:00;28/11/2024;Foggia;FG;Mercoledi;2024;Novembre;82
+1467;F;Bologna;BO;20/07/1983;Foggia;FG;26/11/2024;21:30:00;28/11/2024;Foggia;FG;Martedi;2024;Novembre;41
+1468;F;Nocera Inferiore;SA;17/12/1922;Foggia;FG;27/11/2024;17:20:00;28/11/2024;Foggia;FG;Mercoledi;2024;Novembre;101
+1469;F;Carapelle;FG;30/08/1931;Foggia;FG;27/11/2024;21:46:00;28/11/2024;Foggia;FG;Mercoledi;2024;Novembre;93
+1470;F;Nola;NA;27/11/1943;Foggia;FG;26/11/2024;19:23:00;28/11/2024;Foggia;FG;Martedi;2024;Novembre;80
+1471;F;Foggia;FG;23/02/1942;Foggia;FG;27/11/2024;17:00:00;28/11/2024;Foggia;FG;Mercoledi;2024;Novembre;82
+1472;F;Montaguto;AV;14/02/1939;Foggia;FG;28/11/2024;17:30:00;29/11/2024;Foggia;FG;Giovedi;2024;Novembre;85
+1473;M;Foggia;FG;27/02/1943;Foggia;FG;27/11/2024;21:20:00;29/11/2024;Foggia;FG;Mercoledi;2024;Novembre;81
+1474;M;Foggia;FG;11/12/1958;Foggia;FG;28/11/2024;01:20:00;29/11/2024;Foggia;FG;Giovedi;2024;Novembre;65
+1475;M;Foggia;FG;02/01/1944;Foggia;FG;28/11/2024;06:11:00;29/11/2024;Foggia;FG;Giovedi;2024;Novembre;80
+1476;F;Foggia;FG;27/06/1938;Foggia;FG;28/11/2024;13:30:00;29/11/2024;Foggia;FG;Giovedi;2024;Novembre;86
+1477;F;Foggia;FG;17/08/1934;Foggia;FG;28/11/2024;04:00:00;29/11/2024;Foggia;FG;Giovedi;2024;Novembre;90
+1478;F;Foggia;FG;21/08/1945;Foggia;FG;28/11/2024;03:30:00;29/11/2024;Foggia;FG;Giovedi;2024;Novembre;79
+1479;F;Foggia;FG;11/06/1935;Foggia;FG;29/11/2024;17:30:00;30/11/2024;Foggia;FG;Venerdi;2024;Novembre;89
+1480;F;San Ferdinando Di Puglia;FG;12/04/1931;Foggia;FG;29/11/2024;12:00:00;30/11/2024;Foggia;FG;Venerdi;2024;Novembre;93
+1481;M;Montaguto;AV;22/04/1940;Foggia;FG;29/11/2024;05:00:00;30/11/2024;Foggia;FG;Venerdi;2024;Novembre;84
+1482;F;Foggia;FG;20/05/1935;Foggia;FG;29/11/2024;04:27:00;30/11/2024;Foggia;FG;Venerdi;2024;Novembre;89
+1483;F;Foggia;FG;26/11/1937;Foggia;FG;01/12/2024;13:50:00;02/12/2024;Foggia;FG;Domenica;2024;Dicembre;87
+1484;F;Bari;BA;06/12/1933;Foggia;FG;30/11/2024;19:20:00;02/12/2024;Foggia;FG;Sabato;2024;Novembre;90
+1485;F;Troia;FG;14/04/1942;Foggia;FG;30/11/2024;03:12:00;02/12/2024;Foggia;FG;Sabato;2024;Novembre;82
+1486;F;Foggia;FG;07/10/1940;Foggia;FG;01/12/2024;09:30:00;02/12/2024;Foggia;FG;Domenica;2024;Dicembre;84
+1487;F;Foggia;FG;04/01/1932;Foggia;FG;01/12/2024;08:00:00;02/12/2024;Foggia;FG;Domenica;2024;Dicembre;92
+1488;F;Orta Nova;FG;14/11/1940;Foggia;FG;02/12/2024;06:30:00;03/12/2024;Foggia;FG;Lunedi;2024;Dicembre;84
+1489;M;Foggia;FG;21/02/1948;Foggia;FG;02/12/2024;06:20:00;03/12/2024;Foggia;FG;Lunedi;2024;Dicembre;76
+1490;F;Gioia Del Colle;BA;24/05/1959;Foggia;FG;01/12/2024;20:35:00;03/12/2024;Foggia;FG;Domenica;2024;Dicembre;65
+1491;F;Orta Nova;FG;17/10/1927;San Giovanni Rotondo;FG;30/11/2024;09:00:00;03/12/2024;Foggia;FG;Sabato;2024;Novembre;97
+1492;F;San Marco In Lamis;FG;09/10/1928;Foggia;FG;03/12/2024;05:00:00;04/12/2024;Foggia;FG;Martedi;2024;Dicembre;96
+1493;F;Foggia;FG;27/10/1961;San Giovanni Rotondo;FG;01/12/2024;20:05:00;04/12/2024;Foggia;FG;Domenica;2024;Dicembre;63
+1494;F;Alberona;FG;14/08/1945;Foggia;FG;02/12/2024;23:40:00;04/12/2024;Foggia;FG;Lunedi;2024;Dicembre;79
+1495;F;Foggia;FG;11/05/1953;Bisceglie;BT;30/11/2024;05:20:00;04/12/2024;Foggia;FG;Sabato;2024;Novembre;71
+1496;M;Foggia;FG;24/12/1928;Foggia;FG;03/12/2024;10:48:00;04/12/2024;Foggia;FG;Martedi;2024;Dicembre;95
+1497;F;Orsara Di Puglia;FG;14/09/1937;Foggia;FG;03/12/2024;05:35:00;04/12/2024;Foggia;FG;Martedi;2024;Dicembre;87
+1498;M;Foggia;FG;09/06/1977;Foggia;FG;04/12/2024;11:14:00;05/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;47
+1499;M;Torremaggiore;FG;07/04/1933;Foggia;FG;04/12/2024;04:30:00;05/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;91
+1500;F;San Severo;FG;06/05/1936;Foggia;FG;04/12/2024;16:00:00;05/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;88
+1501;M;Panni;FG;20/03/1949;Foggia;FG;04/12/2024;07:45:00;05/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;75
+1502;F;Foggia;FG;26/10/1949;Foggia;FG;04/12/2024;23:15:00;06/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;75
+1503;M;Castellanza;VA;02/05/1937;Foggia;FG;05/12/2024;08:00:00;06/12/2024;Foggia;FG;Giovedi;2024;Dicembre;87
+1504;F;Teramo;TE;22/07/1948;Foggia;FG;05/12/2024;12:50:00;06/12/2024;Foggia;FG;Giovedi;2024;Dicembre;76
+1505;M;Biccari;FG;29/09/1943;Foggia;FG;04/12/2024;18:45:00;06/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;81
+1506;F;Foggia;FG;27/05/1935;Foggia;FG;05/12/2024;00:25:00;06/12/2024;Foggia;FG;Giovedi;2024;Dicembre;89
+1507;F;Foggia;FG;02/04/1981;Foggia;FG;05/12/2024;09:00:00;06/12/2024;Foggia;FG;Giovedi;2024;Dicembre;43
+1508;M;Foggia;FG;05/01/1940;Foggia;FG;06/12/2024;06:16:00;07/12/2024;Foggia;FG;Venerdi;2024;Dicembre;84
+1509;F;San Pio Delle Camere;AQ;22/07/1933;Foggia;FG;06/12/2024;11:00:00;07/12/2024;Foggia;FG;Venerdi;2024;Dicembre;91
+1510;F;Foggia;FG;29/03/1926;Foggia;FG;07/12/2024;06:10:00;09/12/2024;Foggia;FG;Sabato;2024;Dicembre;98
+1511;M;Foggia;FG;05/08/1948;Foggia;FG;07/12/2024;17:50:00;09/12/2024;Foggia;FG;Sabato;2024;Dicembre;76
+1512;M;Orsara Di Puglia;FG;19/09/1931;Foggia;FG;08/12/2024;02:55:00;09/12/2024;Foggia;FG;Domenica;2024;Dicembre;93
+1513;F;Foggia;FG;19/09/1966;Foggia;FG;07/12/2024;10:30:00;09/12/2024;Foggia;FG;Sabato;2024;Dicembre;58
+1514;F;Candela;FG;16/07/1953;San Giovanni Rotondo;FG;04/12/2024;09:45:00;09/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;71
+1515;M;Foggia;FG;31/10/1938;Foggia;FG;08/12/2024;10:59:00;09/12/2024;Foggia;FG;Domenica;2024;Dicembre;86
+1516;M;Foggia;FG;23/06/1931;Foggia;FG;08/12/2024;12:00:00;09/12/2024;Foggia;FG;Domenica;2024;Dicembre;93
+1517;F;Bari;BA;12/10/1940;Foggia;FG;09/12/2024;00:30:00;10/12/2024;Foggia;FG;Lunedi;2024;Dicembre;84
+1518;M;Foggia;FG;14/04/1947;Foggia;FG;09/12/2024;00:20:00;10/12/2024;Foggia;FG;Lunedi;2024;Dicembre;77
+1519;F;Pescara;PE;02/11/1936;Foggia;FG;09/12/2024;13:00:00;10/12/2024;Foggia;FG;Lunedi;2024;Dicembre;88
+1520;M;Foggia;FG;27/07/1949;Foggia;FG;09/12/2024;12:00:00;10/12/2024;Foggia;FG;Lunedi;2024;Dicembre;75
+1521;M;Foggia;FG;10/05/1954;Foggia;FG;10/12/2024;02:40:00;11/12/2024;Foggia;FG;Martedi;2024;Dicembre;70
+1522;M;Faeto;FG;16/03/1949;Castelnuovo Della Daunia;FG;08/12/2024;04:22:00;11/12/2024;Foggia;FG;Domenica;2024;Dicembre;75
+1523;M;Foggia;FG;14/02/1936;Foggia;FG;10/12/2024;07:20:00;11/12/2024;Foggia;FG;Martedi;2024;Dicembre;88
+1524;M;Foggia;FG;25/05/1947;Foggia;FG;11/12/2024;16:31:00;12/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;77
+1525;F;Squinzano;LE;25/08/1929;Foggia;FG;11/12/2024;21:45:00;12/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;95
+1526;M;Foggia;FG;17/08/1930;Foggia;FG;11/12/2024;10:00:00;12/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;94
+1527;F;Foggia;FG;09/05/1948;Foggia;FG;11/12/2024;03:25:00;12/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;76
+1528;M;Benevento;BN;21/01/1939;Foggia;FG;11/12/2024;18:00:00;12/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;85
+1529;M;Foggia;FG;21/08/1929;Foggia;FG;12/12/2024;09:00:00;13/12/2024;Foggia;FG;Giovedi;2024;Dicembre;95
+1530;F;Foggia;FG;11/11/1930;Foggia;FG;12/12/2024;15:51:00;13/12/2024;Foggia;FG;Giovedi;2024;Dicembre;94
+1531;M;Lucera;FG;12/11/1943;Foggia;FG;13/12/2024;07:05:00;14/12/2024;Foggia;FG;Venerdi;2024;Dicembre;81
+1532;M;Foggia;FG;05/12/1944;Foggia;FG;13/12/2024;02:32:00;14/12/2024;Foggia;FG;Venerdi;2024;Dicembre;80
+1533;F;Foggia;FG;19/11/1926;Foggia;FG;13/12/2024;18:55:00;14/12/2024;Foggia;FG;Venerdi;2024;Dicembre;98
+1534;M;Atena Lucana;SA;04/11/1948;Foggia;FG;13/12/2024;17:30:00;14/12/2024;Foggia;FG;Venerdi;2024;Dicembre;76
+1535;F;Trinitapoli;FG;20/02/1925;Foggia;FG;14/12/2024;15:30:00;16/12/2024;Foggia;FG;Sabato;2024;Dicembre;99
+1536;F;Cerignola;FG;01/08/1945;Foggia;FG;15/12/2024;08:30:00;16/12/2024;Foggia;FG;Domenica;2024;Dicembre;79
+1537;M;Foggia;FG;06/12/1924;Foggia;FG;14/12/2024;12:45:00;16/12/2024;Foggia;FG;Sabato;2024;Dicembre;100
+1538;M;Foggia;FG;28/11/1930;Foggia;FG;15/12/2024;12:45:00;16/12/2024;Foggia;FG;Domenica;2024;Dicembre;94
+1539;M;Foggia;FG;31/01/1939;Foggia;FG;15/12/2024;23:55:00;17/12/2024;Foggia;FG;Domenica;2024;Dicembre;85
+1540;M;Foggia;FG;20/02/1979;Foggia;FG;16/12/2024;05:10:00;17/12/2024;Foggia;FG;Lunedi;2024;Dicembre;45
+1541;F;Bari;BA;14/11/1930;Foggia;FG;16/12/2024;15:17:00;17/12/2024;Foggia;FG;Lunedi;2024;Dicembre;94
+1542;M;San Marco In Lamis;FG;31/03/1953;Foggia;FG;17/12/2024;16:26:00;18/12/2024;Foggia;FG;Martedi;2024;Dicembre;71
+1543;F;Aquila Degli Abruzzi;AQ;11/10/1935;Foggia;FG;17/12/2024;00:07:00;18/12/2024;Foggia;FG;Martedi;2024;Dicembre;89
+1544;M;Foggia;FG;05/10/1977;San Giovanni Rotondo;FG;14/12/2024;21:45:00;18/12/2024;Foggia;FG;Sabato;2024;Dicembre;47
+1545;F;Foggia;FG;07/12/1932;San Giovanni Rotondo;FG;16/12/2024;02:30:00;18/12/2024;Foggia;FG;Lunedi;2024;Dicembre;92
+1546;F;Monteleone Di Puglia;FG;04/11/1945;Foggia;FG;17/12/2024;07:20:00;18/12/2024;Foggia;FG;Martedi;2024;Dicembre;79
+1547;F;Monte Sant'Angelo;FG;21/02/1944;Foggia;FG;17/12/2024;02:50:00;18/12/2024;Foggia;FG;Martedi;2024;Dicembre;80
+1548;F;Foggia;FG;17/10/1951;Foggia;FG;17/12/2024;10:07:00;18/12/2024;Foggia;FG;Martedi;2024;Dicembre;73
+1549;F;Foggia;FG;07/06/1942;Foggia;FG;18/12/2024;09:50:00;19/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;82
+1550;M;Foggia;FG;17/05/1938;Foggia;FG;18/12/2024;02:12:00;19/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;86
+1551;M;Volturino;FG;12/07/1948;Foggia;FG;18/12/2024;18:10:00;19/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;76
+1552;M;Bondeno;FE;17/05/1936;Bisceglie;BT;15/12/2024;13:00:00;19/12/2024;Foggia;FG;Domenica;2024;Dicembre;88
+1553;M;Monte Sant'Angelo;FG;23/08/1941;Foggia;FG;18/12/2024;17:35:00;19/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;83
+1554;F;Foggia;FG;12/04/1943;Lucera;FG;16/12/2024;15:49:00;19/12/2024;Foggia;FG;Lunedi;2024;Dicembre;81
+1555;F;Ripacandida;PZ;07/09/1936;Foggia;FG;19/12/2024;02:50:00;20/12/2024;Foggia;FG;Giovedi;2024;Dicembre;88
+1556;M;Ascoli Satriano;FG;06/11/1935;Foggia;FG;18/12/2024;19:44:00;20/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;89
+1557;M;Foggia;FG;26/12/1964;Foggia;FG;19/12/2024;06:45:00;20/12/2024;Foggia;FG;Giovedi;2024;Dicembre;59
+1558;M;Foggia;FG;21/03/1962;Foggia;FG;19/12/2024;14:06:00;20/12/2024;Foggia;FG;Giovedi;2024;Dicembre;62
+1559;M;Foggia;FG;14/10/1955;Foggia;FG;19/12/2024;03:22:00;20/12/2024;Foggia;FG;Giovedi;2024;Dicembre;69
+1560;F;Monte Sant'Angelo;FG;19/09/1925;Foggia;FG;19/12/2024;01:50:00;20/12/2024;Foggia;FG;Giovedi;2024;Dicembre;99
+1561;F;Foggia;FG;06/01/1938;Foggia;FG;19/12/2024;14:45:00;20/12/2024;Foggia;FG;Giovedi;2024;Dicembre;86
+1562;F;Foggia;FG;06/01/1954;Foggia;FG;19/12/2024;22:45:00;21/12/2024;Foggia;FG;Giovedi;2024;Dicembre;70
+1563;M;Foggia;FG;24/02/1941;Foggia;FG;20/12/2024;08:35:00;21/12/2024;Foggia;FG;Venerdi;2024;Dicembre;83
+1564;F;Foggia;FG;15/02/1965;Foggia;FG;19/12/2024;19:15:00;21/12/2024;Foggia;FG;Giovedi;2024;Dicembre;59
+1565;M;Foggia;FG;16/06/1931;Foggia;FG;19/12/2024;22:20:00;21/12/2024;Foggia;FG;Giovedi;2024;Dicembre;93
+1566;M;Martina Franca;TA;27/05/1955;Foggia;FG;21/12/2024;07:45:00;23/12/2024;Foggia;FG;Sabato;2024;Dicembre;69
+1567;M;San Marco In Lamis;FG;26/11/1962;Lucera;FG;19/12/2024;05:00:00;23/12/2024;Foggia;FG;Giovedi;2024;Dicembre;62
+1568;M;San Marco In Lamis;FG;05/01/1935;Foggia;FG;21/12/2024;11:30:00;23/12/2024;Foggia;FG;Sabato;2024;Dicembre;89
+1569;M;Potenza;PZ;19/06/1946;San Giovanni Rotondo;FG;20/12/2024;12:00:00;23/12/2024;Foggia;FG;Venerdi;2024;Dicembre;78
+1570;M;Troia;FG;08/07/1949;Foggia;FG;23/12/2024;16:00:00;24/12/2024;Foggia;FG;Lunedi;2024;Dicembre;75
+1571;F;Foggia;FG;02/07/1986;Foggia;FG;23/12/2024;04:30:00;24/12/2024;Foggia;FG;Lunedi;2024;Dicembre;38
+1572;F;Panni;FG;26/02/1938;Foggia;FG;23/12/2024;05:05:00;24/12/2024;Foggia;FG;Lunedi;2024;Dicembre;86
+1573;M;Volturino;FG;10/01/1947;Foggia;FG;25/12/2024;09:57:00;26/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;77
+1574;M;Cagnano Varano;FG;27/09/1935;Foggia;FG;24/12/2024;03:52:00;26/12/2024;Foggia;FG;Martedi;2024;Dicembre;89
+1575;F;Sant'Agata Di Puglia;FG;08/03/1929;Foggia;FG;25/12/2024;11:10:00;26/12/2024;Foggia;FG;Mercoledi;2024;Dicembre;95
+1576;F;Modena;MO;10/04/1951;Foggia;FG;24/12/2024;10:11:00;26/12/2024;Foggia;FG;Martedi;2024;Dicembre;73
+1577;M;Foggia;FG;26/09/1940;Foggia;FG;23/12/2024;23:15:00;26/12/2024;Foggia;FG;Lunedi;2024;Dicembre;84
+1578;M;Foggia;FG;28/10/1934;Foggia;FG;24/12/2024;15:24:00;26/12/2024;Foggia;FG;Martedi;2024;Dicembre;90
+1579;M;Monte Sant'Angelo;FG;24/09/1945;Foggia;FG;24/12/2024;14:20:00;26/12/2024;Foggia;FG;Martedi;2024;Dicembre;79
+1580;M;Foggia;FG;20/06/1960;Foggia;FG;26/12/2024;02:30:00;26/12/2024;Foggia;FG;Giovedi;2024;Dicembre;64
+1581;M;Foggia;FG;03/02/1938;Foggia;FG;26/12/2024;17:50:00;27/12/2024;Foggia;FG;Giovedi;2024;Dicembre;86
+1582;F;Foggia;FG;03/02/1936;Foggia;FG;26/12/2024;08:27:00;27/12/2024;Foggia;FG;Giovedi;2024;Dicembre;88
+1583;M;Foggia;FG;21/04/1969;Foggia;FG;26/12/2024;08:45:00;27/12/2024;Foggia;FG;Giovedi;2024;Dicembre;55
+1584;F;Foggia;FG;15/06/1934;Lucera;FG;22/12/2024;20:25:00;27/12/2024;Foggia;FG;Domenica;2024;Dicembre;90
+1585;F;Foggia;FG;19/08/1935;Foggia;FG;26/12/2024;15:00:00;27/12/2024;Foggia;FG;Giovedi;2024;Dicembre;89
+1586;F;Foggia;FG;03/07/1947;Foggia;FG;27/12/2024;18:30:00;28/12/2024;Foggia;FG;Venerdi;2024;Dicembre;77
+1587;F;Pietramontecorvino;F G;01/10/1943;Foggia;FG;27/12/2024;09:07:00;28/12/2024;Foggia;FG;Venerdi;2024;Dicembre;81
+1588;M;Bisaccia;AV;26/02/1935;Foggia;FG;27/12/2024;10:30:00;28/12/2024;Foggia;FG;Venerdi;2024;Dicembre;89
+1589;F;Galatina;LE;24/10/1944;Foggia;FG;27/12/2024;16:40:00;28/12/2024;Foggia;FG;Venerdi;2024;Dicembre;80
+1590;F;Orsara Di Puglia;FG;09/03/1935;Foggia;FG;28/12/2024;07:05:00;30/12/2024;Foggia;FG;Sabato;2024;Dicembre;89
+1591;M;San Marco In Lamis;FG;29/01/1949;Foggia;FG;27/12/2024;21:30:00;30/12/2024;Foggia;FG;Venerdi;2024;Dicembre;75
+1592;M;Taranto;TA;03/01/1933;Lucera;FG;28/12/2024;12:03:00;30/12/2024;Foggia;FG;Sabato;2024;Dicembre;91
+1593;M;Monte Sant'Angelo;FG;17/12/1936;Monte Sant'Angelo;FG;13/12/2024;03:40:00;30/12/2024;Foggia;FG;Venerdi;2024;Dicembre;87
+1594;M;San Giovanni Rotondo;FG;18/05/1974;Foggia;FG;29/12/2024;06:07:00;30/12/2024;Foggia;FG;Domenica;2024;Dicembre;50
+1595;F;Foggia;FG;25/12/1934;Foggia;FG;29/12/2024;12:52:00;30/12/2024;Foggia;FG;Domenica;2024;Dicembre;90
+1596;M;Vallo Della Lucania;SA;08/11/1932;Foggia;FG;28/12/2024;12:40:00;30/12/2024;Foggia;FG;Sabato;2024;Dicembre;92
+1597;F;Foggia;FG;20/08/1939;Foggia;FG;29/12/2024;15:50:00;30/12/2024;Foggia;FG;Domenica;2024;Dicembre;85
+1598;M;Foggia;FG;15/06/1946;Foggia;FG;29/12/2024;19:00:00;30/12/2024;Foggia;FG;Domenica;2024;Dicembre;78
+1599;F;San Nicandro Garganico;FG;09/11/1949;San Giovanni Rotondo;FG;26/12/2024;08:50:00;30/12/2024;Foggia;FG;Giovedi;2024;Dicembre;75
+1600;F;Foggia;FG;21/04/1941;Foggia;FG;30/12/2024;20:10:00;31/12/2024;Foggia;FG;Lunedi;2024;Dicembre;83
+1601;F;Rutigliano;BA;14/10/1942;Foggia;FG;30/12/2024;21:25:00;31/12/2024;Foggia;FG;Lunedi;2024;Dicembre;82
