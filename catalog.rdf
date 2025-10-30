@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <rdf:RDF xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:locn="http://www.w3.org/ns/locn#" xmlns:hydra="http://www.w3.org/ns/hydra/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dct="http://purl.org/dc/terms/" xmlns:dcatapit="http://dati.gov.it/onto/dcatapit#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:adms="http://www.w3.org/ns/adms#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gsp="http://www.opengis.net/ont/geosparql#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+
+<dcatapit:Catalog rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+  <dct:title>Comune di Foggia</dct:title>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="c___d643">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>c___d643</dct:identifier>
+      <foaf:name>Comune di Foggia</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:description>Dati anagrafici del Comune di Foggia</dct:description>
+  <dct:language>it</dct:language>
+  <foaf:homepage rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia#"/>
+  <dcat:themeTaxonomy>
+    <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/data-theme">
+      <dct:title>Data Theme Vocabulary</dct:title>
+    </skos:ConceptScheme>
+  </dcat:themeTaxonomy>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:issued>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dcat:dataset rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-matrimoni-non-residenti-foggia"/>
+  <dcat:dataset rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-matrimoni-residenti-foggia"/>
+  <dcat:dataset rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-morti-non-residenti-foggia-2024"/>
+  <dcat:dataset rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-morti-residenti-foggia-2024"/>
+  <dcat:dataset rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-nascite-non-residenti-foggia-2024"/>
+  <dcat:dataset rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-nascite-residenti-foggia-2024"/>
+  <dcat:dataset rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/pubblicazion-foggia-2024"/>
+  </dcatapit:Catalog>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI">
+    <skos:prefLabel>Popolazione e società</skos:prefLabel>
+  </skos:Concept>
+  <dcatapit:Dataset rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-matrimoni-non-residenti-foggia">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dct:license/>
+    <dct:title>Elenco Matrimoni Non Residenti Foggia</dct:title>
+    <dcat:landingPage rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/blob/main/Matrimoni/Elenco%20Matrimoni%20Non%20Residenti%20Foggia.csv"/>
+    <dct:description>Elenco dei matrimoni celebrati nel Comune di Foggia da persone non residenti</dct:description>
+    <dct:identifier>c___d643:elenco-matrimoni-non-residenti-foggia</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="c___d643">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject>
+      <skos:Concept rdf:about="http://eurovoc.europa.eu/100208">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#subTheme"/>
+        <skos:prefLabel xml:lang="it">2806 famiglia</skos:prefLabel>
+      </skos:Concept>
+    </dct:subject>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:issued>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dcat:keyword>matrimoni</dcat:keyword>
+    <dcat:keyword>famiglia</dcat:keyword>
+    <dcat:keyword>non residenti</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-matrimoni-non-residenti-foggia/csv2"/>
+  </dcatapit:Dataset>
+  <skos:Concept rdf:about="">
+    <skos:prefLabel>Popolazione e società</skos:prefLabel>
+  </skos:Concept>
+  <dcatapit:Dataset rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-matrimoni-residenti-foggia">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:theme rdf:resource=""/>
+    <dct:license/>
+    <dct:title>Elenco Matrimoni Residenti Foggia</dct:title>
+    <dcat:landingPage rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/blob/main/Matrimoni/Elenco%20Matrimoni%20Residenti%20Foggia%20.csv"/>
+    <dct:description>Elenco dei matrimoni celebrati nel Comune di Foggia da persone residenti</dct:description>
+    <dct:identifier>c___d643:elenco-matrimoni-residenti-foggia</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="c___d643">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject>
+      <skos:Concept rdf:about="http://eurovoc.europa.eu/">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#subTheme"/>
+        <skos:prefLabel xml:lang="it"/>
+      </skos:Concept>
+    </dct:subject>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:issued>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dcat:keyword>matrimoni</dcat:keyword>
+    <dcat:keyword>famiglia</dcat:keyword>
+    <dcat:keyword>residenti</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-matrimoni-residenti-foggia/csv3"/>
+  </dcatapit:Dataset>
+  <skos:Concept rdf:about="">
+    <skos:prefLabel>Popolazione e società</skos:prefLabel>
+  </skos:Concept>
+  <dcatapit:Dataset rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-morti-non-residenti-foggia-2024">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:theme rdf:resource=""/>
+    <dct:license/>
+    <dct:title>Elenco Morti non Residenti Foggia 2024</dct:title>
+    <dcat:landingPage rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/blob/main/Morti/Elenco%20Morti%20Non%20Residenti%20Foggia%202024.csv"/>
+    <dct:description>Elenco dei Morti non residenti dell'anno 2024</dct:description>
+    <dct:identifier>c___d643:elenco-morti-non-residenti-foggia-2024</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="c___d643">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject>
+      <skos:Concept rdf:about="http://eurovoc.europa.eu/">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#subTheme"/>
+        <skos:prefLabel xml:lang="it"/>
+      </skos:Concept>
+    </dct:subject>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:issued>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dcat:keyword>decessi</dcat:keyword>
+    <dcat:keyword>morti</dcat:keyword>
+    <dcat:keyword>non residenti</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-morti-non-residenti-foggia-2024/csv4"/>
+  </dcatapit:Dataset>
+  <skos:Concept rdf:about="">
+    <skos:prefLabel>Popolazione e società</skos:prefLabel>
+  </skos:Concept>
+  <dcatapit:Dataset rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-morti-residenti-foggia-2024">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:theme rdf:resource=""/>
+    <dct:license/>
+    <dct:title>Elenco Morti Residenti Foggia 2024</dct:title>
+    <dcat:landingPage rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/blob/1957ea410f3e1462bf3a99c94ee20fb86617f209/Morti/Elenco%20Morti%20Residenti%20Foggia%202024.csv"/>
+    <dct:description>Elenco dei Morti residenti dell'anno 2024</dct:description>
+    <dct:identifier>c___d643:elenco-morti-residenti-foggia-2024</dct:identifier>
+ <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="c___d643">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject>
+      <skos:Concept rdf:about="http://eurovoc.europa.eu/">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#subTheme"/>
+        <skos:prefLabel xml:lang="it"/>
+      </skos:Concept>
+    </dct:subject>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:issued>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dcat:keyword>decessi</dcat:keyword>
+    <dcat:keyword>morti</dcat:keyword>
+    <dcat:keyword>residenti</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-morti-residenti-foggia-2024/csv5"/>
+  </dcatapit:Dataset>
+  <skos:Concept rdf:about="">
+    <skos:prefLabel>Popolazione e società</skos:prefLabel>
+  </skos:Concept>
+  <dcatapit:Dataset rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-nascite-non-residenti-foggia-2024">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:theme rdf:resource=""/>
+    <dct:license/>
+    <dct:title>Elenco Nascite non Residenti Foggia 2024</dct:title>
+    <dcat:landingPage rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/blob/1957ea410f3e1462bf3a99c94ee20fb86617f209/Nascite/Elenco%20Nascite%20Non%20Residenti%20Foggia%202024.csv"/>
+    <dct:description>Elenco Nascite non Residenti 2024</dct:description>
+    <dct:identifier>c___d643:elenco-nascite-non-residenti-foggia-2024</dct:identifier>
+   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="c___d643">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject>
+      <skos:Concept rdf:about="http://eurovoc.europa.eu/">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#subTheme"/>
+        <skos:prefLabel xml:lang="it"/>
+      </skos:Concept>
+    </dct:subject>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:issued>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dcat:keyword>nascite</dcat:keyword>
+    <dcat:keyword>famiglia</dcat:keyword>
+    <dcat:keyword>non residenti</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-nascite-non-residenti-foggia-2024/csv6"/>
+  </dcatapit:Dataset>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI">
+    <skos:prefLabel>Popolazione e società</skos:prefLabel>
+  </skos:Concept>
+  <dcatapit:Dataset rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-nascite-residenti-foggia-2024">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dct:license/>
+    <dct:title>Elenco Nascite Residenti Foggia 2024</dct:title>
+    <dcat:landingPage rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/blob/1957ea410f3e1462bf3a99c94ee20fb86617f209/Nascite/Elenco%20Nascite%20Residenti%20Foggia%202024.csv"/>
+    <dct:description>Elenco Nascite Residenti 2024</dct:description>
+    <dct:identifier>c___d643:elenco-nascite-residenti-foggia-2024</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="c___d643">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject>
+      <skos:Concept rdf:about="http://eurovoc.europa.eu/100210">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#subTheme"/>
+        <skos:prefLabel xml:lang="it">2816 demografia e popolazione</skos:prefLabel>
+      </skos:Concept>
+    </dct:subject>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:issued>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dcat:keyword>nascite</dcat:keyword>
+    <dcat:keyword>famiglia</dcat:keyword>
+    <dcat:keyword>residenti</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-nascite-residenti-foggia-2024/csv7"/>
+  </dcatapit:Dataset>
+  <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI">
+    <skos:prefLabel>Popolazione e società</skos:prefLabel>
+  </skos:Concept>
+  <dcatapit:Dataset rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/pubblicazion-foggia-2024">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+    <dct:license/>
+    <dct:title>Pubblicazion Foggia 2024</dct:title>
+    <dcat:landingPage rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/blob/1957ea410f3e1462bf3a99c94ee20fb86617f209/Pubblicazioni/Pubblicazioni%20Foggia%202024.csv"/>
+    <dct:description>Elenco Pubblicazioni 2024</dct:description>
+    <dct:identifier>c___d643:pubblicazion-foggia-2024</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="c___d643">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>c___d643</dct:identifier>
+        <foaf:name>Stato Civile</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject>
+      <skos:Concept rdf:about="http://eurovoc.europa.eu/100208">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#subTheme"/>
+        <skos:prefLabel xml:lang="it">2806 famiglia</skos:prefLabel>
+      </skos:Concept>
+    </dct:subject>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-13</dct:issued>
+    <dcat:contactPoint rdf:resource="www.comune.foggia.it"/>
+    <dcat:keyword>pubblicazioni</dcat:keyword>
+    <dcat:keyword>atto</dcat:keyword>
+    <dcat:keyword>famiglia</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/pubblicazion-foggia-2024/csv8"/>
+  </dcatapit:Dataset>
+  <dcatapit:Distribution rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-matrimoni-non-residenti-foggia/csv2">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComuneFoggia/OpenData-Comune-di-Foggia/1957ea410f3e1462bf3a99c94ee20fb86617f209/Matrimoni/Elenco%20Matrimoni%20Non%20Residenti%20Foggia.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>Elenco dei matrimoni non residenti - formato csv</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-matrimoni-residenti-foggia/csv3">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComuneFoggia/OpenData-Comune-di-Foggia/1957ea410f3e1462bf3a99c94ee20fb86617f209/Matrimoni/Elenco%20Matrimoni%20Residenti%20Foggia%20.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>Elenco dei matrimoni residenti - formato csv</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-morti-non-residenti-foggia-2024/csv4">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComuneFoggia/OpenData-Comune-di-Foggia/refs/heads/main/Morti/Elenco%20Morti%20Non%20Residenti%20Foggia%202024.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>Elenco dei morti non residenti - formato csv</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-morti-residenti-foggia-2024/csv5">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComuneFoggia/OpenData-Comune-di-Foggia/refs/heads/main/Morti/Elenco%20Morti%20Residenti%20Foggia%202024.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>Elenco dei morti residenti - formato csv</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-nascite-non-residenti-foggia-2024/csv6">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComuneFoggia/OpenData-Comune-di-Foggia/refs/heads/main/Nascite/Elenco%20Nascite%20Non%20Residenti%20Foggia%202024.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>Elenco delle nascite non residenti - formato csv</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/elenco-nascite-residenti-foggia-2024/csv7">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComuneFoggia/OpenData-Comune-di-Foggia/refs/heads/main/Nascite/Elenco%20Nascite%20Residenti%20Foggia%202024.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>Elenco delle nascite residenti formato csv</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+  <dcatapit:Distribution rdf:about="https://github.com/ComuneFoggia/OpenData-Comune-di-Foggia/pubblicazion-foggia-2024/csv8">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComuneFoggia/OpenData-Comune-di-Foggia/refs/heads/main/Pubblicazioni/Pubblicazioni%20Foggia%202024.csv"/>
+    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+    <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+    <dct:title>Elenco delle pubblicazioni formato csv</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+<dcatapit:Organization rdf:about="www.comune.foggia.it">
+  <rdf:type rdf:resource="vcard:Organization"/>
+  <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
+  <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
+  <rdf:type rdf:resource="vcard:Kind"/>
+  <vcard:fn>Stato Civile</vcard:fn>
+  <vcard:hasEmail rdf:resource="servizi.informatici@comune.foggia.it"/>
+  <vcard:hasTelephone>08818192752</vcard:hasTelephone>
+  <vcard:hasURL rdf:resource="www.comune.foggia.it"/>
+</dcatapit:Organization>
+</rdf:RDF>
